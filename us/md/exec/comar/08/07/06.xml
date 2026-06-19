@@ -208,18 +208,18 @@
     <para>
       <num>E.</num>
       <text>State Parks.</text>
-      <text>Name of Area ———————————— County</text>
+      <text>Name of Area —————————— County</text>
       <para>
         <num>(1)</num>
-        <text>Assateague —————— Worcester</text>
+        <text>Assateague ———————— Worcester</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Big Run —————— Garrett</text>
+        <text>Big Run ————————— Garrett</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Bill Burton Fishing Pier —————— Talbot, Dorchester</text>
+        <text>Bill Burton Fishing Pier ——— Talbot, Dorchester</text>
       </para>
       <para>
         <num>(4)</num>
@@ -606,7 +606,9 @@
         <text>Weverton-Roxbury —————— Washington</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1266,8 +1268,10 @@
     <prefix>Regulation</prefix>
     <num>.25</num>
     <heading>Use of Trails.</heading>
-    <text>The Service may restrict the use of bicycles, mountain bikes, and animals on certain trails in a State park.</text>
-    <annotations/>
+    <text>The Service may restrict the use of bicycles and electric bicycles, subject to <cite path="|08.01.10">COMAR 08.01.10</cite>, and animals on certain trails in a State park.</text>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1359,6 +1363,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-11-15"><cite path="|08|07|06|.02|I.">Regulation .02I</cite> amended effective November 15, 2010 (37:17 Md. R. 1185)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-02-13"><cite path="|08|07|06|.03|A.">Regulation .03A</cite> amended effective August 1, 1994 (21:15 Md. R. 1303); February 13, 2006 (33:3 Md. R. 240)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-09-21"><cite path="|08|07|06|.19|D.">Regulation .19D</cite> adopted effective September 21, 2009 (36:19 Md. R. 1435)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|08|07|06|.25">Regulation .25</cite> amended effective May 25, 2026 (53:10 Md. R. 454)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-03-31"><cite path="|08|07|06|.27|B.">Regulation .27B</cite> amended effective March 31, 2003 (30:6 Md. R. 419)</annotation>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
   </annotations>
 </container>
