@@ -52,6 +52,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2004-11-11">Effective date: November 11, 2004 (31:24 Md. R. 1692)</annotation>
+      <annotation app="2026-06-25" doc="Editor Action 2026-06-25" eff="2026-06-25" path="" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -76,6 +77,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2004-05-18">Effective date: May 18, 2004 (31:12 Md. R. 892)</annotation>
+      <annotation app="2026-06-25" doc="Editor Action 2026-06-25" eff="2026-06-25" path="" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -91,7 +93,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Confer with the Forest Stewardship Council and the Sustainable Forestry Initiative Board in order to determine the parameters of securing forest certification of the State's efforts in managing Maryland's State Forests in an environmentally responsible manner.</text>
+        <text>Confer with the Forest Stewardship Council® and the Sustainable Forestry Initiative® Board in order to determine the parameters of securing forest certification of the State's efforts in managing Maryland's State Forests in an environmentally responsible manner.</text>
       </para>
     </para>
     <para>
@@ -100,6 +102,8 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2004-03-29">Effective date: March 29, 2004 (31:9 Md. R. 693)</annotation>
+      <annotation app="2026-06-25" doc="Editor Action 2026-06-25" eff="2026-06-25" path="" type="History" display="false"/>
     </annotations>
   </section>
+  <annotation app="2026-06-25" doc="Editor Action 2026-06-25" eff="2026-06-25" path="" type="History" display="false"/>
 </container>
