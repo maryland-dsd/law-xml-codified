@@ -687,7 +687,6 @@
     </para>
     <annotations>
       <annotation managed="false" type="Emergency Action">53:13  26-040-E  (Regulation .04) EMERGENCY ACTION IN EFFECT 4/3/2026 — 9/30/2026</annotation>
-      <annotation app="2026-01-14" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|emergency|26-056-E" target-path="09|19|02|.04" type="History" display="false" exp="2026-07-13"/>
       <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-040-E" target-path="09|19|02|.04" type="History" display="false" exp="2026-09-03"/>
     </annotations>
   </section>
@@ -736,6 +735,5 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-01-01"><cite path="|09|19|02|.04|D.">Regulation .04D</cite>, E amended effective January 1, 2015 (41:23 Md. R. 1372)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-01-07"><cite path="|09|19|02|.04|F.">Regulation .04F</cite> adopted effective January 7, 2013 (39:26 Md. R. 1663)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-01-01"><cite path="|09|19|02|.04|G.">Regulation .04G</cite> adopted effective January 1, 2015 (41:23 Md. R. 1372)</annotation>
-    <annotation app="2026-01-14" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|emergency|26-056-E" target-path="09|19|02|annos" type="History" display="false" exp="2026-07-13"/>
   </annotations>
 </container>
