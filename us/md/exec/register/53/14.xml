@@ -15,7 +15,7 @@
     <container name="final">
       <container>
         <num>26-123-F</num>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="09|03|10|.01" codified:doc="Code of Maryland Regulations" codified:path="09|03|10|.01" codified:citation="09.03.10.01" codified:display="Amend">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="09|03|10|.01" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="09|03|10|.01">
           <section>
             <prefix>Regulation</prefix>
             <num>.01</num>
@@ -82,7 +82,7 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="09|03|10|annos">
+        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="09|03|10|annos" codified:replace-or-insert-action="replace">
           <annotations>
             <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gbr|2-105">Business Regulation Article, §2-105</cite>; Financial Institutions Article, §§<cite doc="Md. Code" path="gfi|2-105">2-105</cite>.<cite doc="Md. Code" path="gfi|1">1</cite>, <cite doc="Md. Code" path="gfi|5-909">5-909</cite>(<cite doc="Md. Code" path="gfi|1">1</cite>), <cite doc="Md. Code" path="gfi|11-203">11-203</cite>, <cite doc="Md. Code" path="gfi|11-503">11-503</cite>, <cite doc="Md. Code" path="gfi|11-602">11-602</cite>, <cite doc="Md. Code" path="gfi|12-104">12-104</cite>, <cite doc="Md. Code" path="gfi|12-403">12-403</cite>(<cite doc="Md. Code" path="gfi|1">1</cite>), and <cite doc="Md. Code" path="gfi|12-903">12-903</cite>(<cite doc="Md. Code" path="gfi|1">1</cite>); Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-11-03">Effective date: November 3, 2008 (35:22 Md. R. 1957)</annotation>

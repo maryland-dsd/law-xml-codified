@@ -62,8 +62,14 @@
         <num>(8)</num>
         <text>“Settlement” means the disbursement of the proceeds of a mortgage loan by the person conducting the settlement to the borrower or to third parties as required by the lender's instructions.</text>
       </para>
+      <para>
+        <num>(9)</num>
+        <text>“Some fake definition” means not a real definition.</text>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|26-123-F" target-path="09|03|10|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="09|03|10|.02">
     <prefix>Regulation</prefix>
@@ -192,7 +198,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gbr|2-105">Business Regulation Article, §2-105</cite>; Financial Institutions Article, §§<cite doc="Md. Code" path="gfi|2-105">2-105</cite>.1, 5-909(1), 11-203, 11-503, 11-602, 12-104, 12-403(1), and 12-903(1); Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gbr|2-105">Business Regulation Article, §2-105</cite>; Financial Institutions Article, §§<cite doc="Md. Code" path="gfi|2-105">2-105</cite>.<cite doc="Md. Code" path="gfi|1">1</cite>, <cite doc="Md. Code" path="gfi|5-909">5-909</cite>(<cite doc="Md. Code" path="gfi|1">1</cite>), <cite doc="Md. Code" path="gfi|11-203">11-203</cite>, <cite doc="Md. Code" path="gfi|11-503">11-503</cite>, <cite doc="Md. Code" path="gfi|11-602">11-602</cite>, <cite doc="Md. Code" path="gfi|12-104">12-104</cite>, <cite doc="Md. Code" path="gfi|12-403">12-403</cite>(<cite doc="Md. Code" path="gfi|1">1</cite>), and <cite doc="Md. Code" path="gfi|12-903">12-903</cite>(<cite doc="Md. Code" path="gfi|1">1</cite>); Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-11-03">Effective date: November 3, 2008 (35:22 Md. R. 1957)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-03-15"><cite path="|09|03|10|.01|B.">Regulation .01B</cite> amended effective March 15, 2010 (37:5 Md. R. 427)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-03-15"><cite path="|09|03|10|.03|A.">Regulation .03A</cite>, B amended effective March 15, 2010 (37:5 Md. R. 427)</annotation>
