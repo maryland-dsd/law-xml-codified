@@ -3,6 +3,7 @@
   <prefix>Subtitle</prefix>
   <num>01</num>
   <heading>EXECUTIVE ORDERS</heading>
+  <xi:include href="./2026.xml"/>
   <xi:include href="./2025.xml"/>
   <xi:include href="./2024.xml"/>
   <xi:include href="./2023.xml"/>
