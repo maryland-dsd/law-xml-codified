@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Maryland Register, Volume 53, Issue 14" codify:doc="Code of Maryland Regulations">
+  <num>53-14</num>
+  <meta>
+    <stub/>
+    <effective>2026-07-20</effective>
+    <citations>
+      <citation type="register" url="./53-14.pdf">53:14</citation>
+    </citations>
+    <history>
+      <published>2026-07-10</published>
+    </history>
+  </meta>
+  <container name="regulations">
+    <container name="final">
+      <container>
+        <num>26-123-F</num>
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="09|03|10|.01" codified:doc="Code of Maryland Regulations" codified:path="09|03|10|.01" codified:citation="09.03.10.01" codified:display="Amend">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.01</num>
+            <heading>Definitions.</heading>
+            <para>
+              <num>A.</num>
+              <text>In this chapter, the following terms have the meanings indicated.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Terms Defined.</text>
+              <para>
+                <num>(1)</num>
+                <text>Balloon Payment.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Balloon payment” means any scheduled payment on a mortgage loan that is more than two times the average of all other payments scheduled to repay the mortgage loan.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“Balloon payment” does not include a down payment.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>“Commissioner” means the Commissioner of Financial Regulation in the Maryland Department of Labor.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>“Fraud” means any act that:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Constitutes a criminal violation of any article of the Annotated Code of Maryland and is part of an attempt or scheme to defraud any person; or</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Whether or not a criminal offense, is an intentional misrepresentation of any material fact or is conduct that is intended to prevent the discovery of a material fact, and is part of an attempt or scheme to defraud any person.</text>
+                </para>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>“Initial application” has the meaning stated in <cite path="09.03.06.02|B.|(14)" doc="Code of Maryland Regulations">COMAR 09.03.06.02B(14)</cite>.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>“Mortgage loan” has the meaning stated in <cite doc="Md. Code" path="gfi|11-501">Financial Institutions Article, §11-501, Annotated Code of Maryland</cite>.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>“Regulated person” means an individual, corporation, business trust, financial institution, estate, trust, partnership, association, two or more persons having a joint or common interest, or any other legal or commercial entity that is subject to the regulatory authority of the Commissioner pursuant to Financial Institutions Article, or <cite doc="Md. Code" path="gcl">Commercial Law Article, Annotated Code of Maryland</cite>.</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>“Residential real estate” has the meaning stated in <cite doc="Md. Code" path="gfi|11-501">Financial Institutions Article, §11-501, Annotated Code of Maryland</cite>.</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>“Settlement” means the disbursement of the proceeds of a mortgage loan by the person conducting the settlement to the borrower or to third parties as required by the lender's instructions.</text>
+              </para>
+              <para>
+                <num>(9)</num>
+                <text>“Some fake definition” means not a real definition.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace-or-insert>
+        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="09|03|10|annos">
+          <annotations>
+            <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gbr|2-105">Business Regulation Article, §2-105</cite>; Financial Institutions Article, §§<cite doc="Md. Code" path="gfi|2-105">2-105</cite>.<cite doc="Md. Code" path="gfi|1">1</cite>, <cite doc="Md. Code" path="gfi|5-909">5-909</cite>(<cite doc="Md. Code" path="gfi|1">1</cite>), <cite doc="Md. Code" path="gfi|11-203">11-203</cite>, <cite doc="Md. Code" path="gfi|11-503">11-503</cite>, <cite doc="Md. Code" path="gfi|11-602">11-602</cite>, <cite doc="Md. Code" path="gfi|12-104">12-104</cite>, <cite doc="Md. Code" path="gfi|12-403">12-403</cite>(<cite doc="Md. Code" path="gfi|1">1</cite>), and <cite doc="Md. Code" path="gfi|12-903">12-903</cite>(<cite doc="Md. Code" path="gfi|1">1</cite>); Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-11-03">Effective date: November 3, 2008 (35:22 Md. R. 1957)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-03-15"><cite path="|09|03|10|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective March 15, 2010 (37:5 Md. R. 427)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-03-15"><cite path="|09|03|10|.03|A." doc="Code of Maryland Regulations">Regulation .03A</cite>, B amended effective March 15, 2010 (37:5 Md. R. 427)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-07-16"><cite path="|09|03|10|.04" doc="Code of Maryland Regulations">Regulation .04</cite> adopted effective July 16, 2020 (47:14 Md. R. 675)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-02-22"><cite path="|09|03|10|.05" doc="Code of Maryland Regulations">Regulation .05</cite> adopted as an emergency provision effective October 5, 2020 (47:20 Md. R. 872); adopted permanently effective February 22, 2021 (48:4 Md. R. 176)</annotation>
+          </annotations>
+        </codify:replace-or-insert>
+      </container>
+    </container>
+  </container>
+</document>
