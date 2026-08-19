@@ -15,7 +15,7 @@
     <container name="emergency">
       <container codify:applicability="2026-06-04" codify:expire="2026-12-01">
         <num>26-031-E</num>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="15|20|07|.03" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="15|20|07|.03">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="15|20|07|.03">
           <section>
             <prefix>Regulation</prefix>
             <num>.03</num>
@@ -161,7 +161,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="15|20|07|.05" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="15|20|07|.05">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="15|20|07|.05">
           <section cache:ref-path="15|20|07|.05">
             <prefix>Regulation</prefix>
             <num>.05</num>
@@ -299,7 +299,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="15|20|07|annos" codified:replace-or-insert-action="replace">
+        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="15|20|07|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">Agriculture Article, §§<cite doc="Md. Code" path="gag|8-801">8-801</cite>—<cite doc="Md. Code" path="gag|8-806">8-806</cite>, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-05-29">Effective date: May 29, 2000 (27:10 Md. R. 967)</annotation>
