@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Editor Action 2026-08-25">
+  <meta>
+    <effective>2026-08-25</effective>
+    <history>
+      <adopted>2026-08-25</adopted>
+    </history>
+  </meta>
+  <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|27|06|.01" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|27|06|.01">
+    <section>
+      <prefix>Regulation</prefix>
+      <num>.01</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>A.</num>
+        <text>In this chapter, the following terms have the meanings indicated.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Terms Defined.</text>
+        <para>
+          <num>(1)</num>
+          <text>“A.A.N.A.” means the American Association of Nurse Anesthetists.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>“Advanced practice registered nurse (APRN)” means a registered nurse who is certified by the Board as:</text>
+          <para>
+            <num>(a)</num>
+            <text>A certified nurse midwife (CNM);</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A certified registered nurse anesthetist (CRNA);</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A certified nurse practitioner (CRNP); or</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A clinical nurse specialist (CNS).</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>“Anesthesiologist” means a Maryland-licensed physician who:</text>
+          <para>
+            <num>(a)</num>
+            <text>Has had special training in the field of anesthesiology;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Administers anesthesia on a regular basis; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Devotes a substantial portion of the physician's medical practice to the practice of anesthesiology.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>“Board” means the Board of Nursing.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>“Certification” means the permission to practice nurse anesthesia granted by the Board to a registered nurse who has:</text>
+          <para>
+            <num>(a)</num>
+            <text>Met all the specified requirements of a national certifying body recognized by the Board; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Complied with the requirements of this chapter.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>“Certified registered nurse anesthetist (CRNA)” means an advanced practice registered nurse who is certified by the Board to practice as a nurse anesthetist in this State.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>“Licensed physician or dentist” means a Maryland-licensed physician or dentist who has knowledge and experience in resuscitation, anesthetic drugs, and their reactions.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>“Multistate licensure privilege” has the meaning set forth in <cite path="10.27.01.01|B." doc="Code of Maryland Regulations">COMAR 10.27.01.01B</cite>.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>“Perioperative assessment and management” means the assessment and management of the patient preoperatively, intraoperatively, and postoperatively.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>“Practice of nurse anesthesia” means the performance of acts in collaboration with an anesthesiologist, licensed physician, or dentist, which require substantial specialized knowledge, judgment, and skill related to the administration of anesthesia, including:</text>
+          <para>
+            <num>(a)</num>
+            <text>Perioperative assessment and management of patients requiring anesthesia services;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Administering anesthetics;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Management of fluid in intravenous therapy; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Respiratory care.</text>
+          </para>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>“Qualified anesthesia provider” means a physician, dentist, or certified registered nurse anesthetist trained and duly authorized under the respective provisions of the Health Occupations Article to administer local, regional, and general anesthesia.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>“Registered Nurse” means an individual who is licensed by the Board to practice registered nursing or has a multistate licensure privilege to practice registered nursing in this State under the Nurse Licensure Compact.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace-or-insert>
+  <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|02|.04" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|02|.04">
+    <section emergency="true" cache:ref-path="10|39|02|.04">
+      <prefix>Regulation</prefix>
+      <num>.04</num>
+      <heading>Faculty.</heading>
+      <para>
+        <num>A.</num>
+        <text>Faculty Requirements.</text>
+        <para>
+          <num>(1)</num>
+          <text>Each course instructor and program coordinator shall have:</text>
+          <para>
+            <num>(a)</num>
+            <text>An active, unencumbered license to practice as a Registered Nurse  or a multistate licensure privilege to practice as a Registered Nurse in the State;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A minimum of 2 years of nursing experience; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Completed a course in teaching adults or have experience in teaching adults or supervising nursing assistants.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Long-Term Care Facility Experience Requirements. Either the program coordinator or all course instructors shall have at least 1 year of experience in the provision of long-term care facility services, which may include:</text>
+          <para>
+            <num>(a)</num>
+            <text>Providing direct client care or supervisory oversight in a long-term care facility or unit, including in a geriatrics department, chronic care hospital, or other long-term care setting; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Teaching a nursing assistant training program that complies with federal law.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Course Instructors.</text>
+        <para>
+          <num>(1)</num>
+          <text>Course instructors in training programs in public secondary schools in the State shall also meet the requirements set forth in COMAR 13A.12.02.02.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The course instructor is responsible for:</text>
+          <para>
+            <num>(a)</num>
+            <text>Participating in the development and evaluation of the training program, including the acquisition of learning resources and instructional materials;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Implementing the training program and ensuring course objectives are met;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Supervising classroom, laboratory, and clinical learning experiences, including direct supervision of a student the first time a student performs a patient care skill during a clinical learning experience and until the student demonstrates proficiency in that skill; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Evaluating student performance during didactic, clinical, and laboratory training.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Program Coordinator.</text>
+        <para>
+          <num>(1)</num>
+          <text>Each training program shall have a program coordinator who:</text>
+          <para>
+            <num>(a)</num>
+            <text>Provides general supervision of the training of nursing assistants; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Maintains responsibility for the overall operation of the program.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Except as provided in <cite path="10|39|02|.04|C.|(3)" doc="Code of Maryland Regulations">§C(3) of this regulation</cite>, the program coordinator may also be a course instructor.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In a facility-based program, the facility’s director of nursing may be the program coordinator but may not perform any actual training.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Supplemental Personnel.</text>
+        <para>
+          <num>(1)</num>
+          <text>Other health professional personnel may supplement the course instructor, including, but not limited to:</text>
+          <para>
+            <num>(a)</num>
+            <text>Registered nurses in accordance with <cite path="10|39|02|.04|D.|(3)" doc="Code of Maryland Regulations">§D(3) of this regulation</cite>;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Licensed practical nurses in accordance with <cite path="10|39|02|.04|D.|(4)" doc="Code of Maryland Regulations">§D(4) of this regulation</cite>;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Pharmacists;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Dietitians;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Social workers;</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Sanitarians;</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Fire safety experts;</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Nursing home administrators;</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Gerontologists;</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>Psychologists;</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>Physical and occupational therapists;</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>Activities specialists;</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text>Speech/language/hearing therapists; and</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text>Resident rights experts.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Supplemental personnel shall have at least 1 year of experience in their respective field.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A registered nurse functioning as supplemental personnel shall:</text>
+          <para>
+            <num>(a)</num>
+            <text>Hold a current, unencumbered license in the State or multistate licensure privilege as a registered nurse; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Have had at least 1 year of direct client care experience as a registered nurse.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A licensed practical nurse functioning as supplemental personnel shall:</text>
+          <para>
+            <num>(a)</num>
+            <text>Hold a current, unencumbered license in the State or multistate licensure privilege as a practical nurse; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Have had at least 1 year of direct client care experience as a licensed practical nurse.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Other supplemental personnel providing instruction shall provide instruction under the supervision of the course instruction.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace-or-insert>
+</document>
