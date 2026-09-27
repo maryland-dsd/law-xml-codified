@@ -15,7 +15,7 @@
     <container name="emergency">
       <container codify:applicability="2026-08-25" codify:expire="2027-02-21">
         <num>26-127-E</num>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|27|01|.04" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|27|01|.04">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|27|01|.04">
           <section cache:ref-path="10|27|01|.04">
             <prefix>Regulation</prefix>
             <num>.04</num>
@@ -109,7 +109,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|27|01|.14" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|27|01|.14">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|27|01|.14">
           <section>
             <prefix>Regulation</prefix>
             <num>.14</num>
@@ -171,7 +171,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|27|01|annos" codified:replace-or-insert-action="replace">
+        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|27|01|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-213">1-213</cite>, <cite doc="Md. Code" path="gho|1">1</cite>–<cite doc="Md. Code" path="gho|230">230</cite>, <cite doc="Md. Code" path="gho|8-101">8-101</cite>, <cite doc="Md. Code" path="gho|8-201">8-201</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, <cite doc="Md. Code" path="gho|8-301">8-301</cite>—<cite doc="Md. Code" path="gho|8-315">8-315</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|05">05</cite>(a), <cite doc="Md. Code" path="gho|8-701">8-701</cite>, <cite doc="Md. Code" path="gho|8-7">8-7</cite>A-01, Article 1116(b)(2), and 8-703; Tax-General Article, §§<cite doc="Md. Code" path="gtg|10-738">10-738</cite> and <cite doc="Md. Code" path="gtg|10-739">10-739</cite>(b)(<cite doc="Md. Code" path="gtg|1">1</cite>); Annotated Code of Maryland; Ch. 486, Acts of 2012; Chs. 281 and 282, Acts of 2013; Chs. 385 and 386, Acts of 2016; and Chs. 234 and 234, Acts of 2017</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
@@ -278,7 +278,7 @@
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|10|27|01|.17|C." doc="Code of Maryland Regulations">Regulation .17C</cite> adopted as an emergency provision effective August 26, 2025 (52:20 Md. R. 999); adopted permanently effective October 13, 2025 (52:20 Md. R. 1001)</annotation>
           </annotations>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|27|16|.02" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|27|16|.02">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|27|16|.02">
           <section>
             <prefix>Regulation</prefix>
             <num>.02</num>
@@ -376,7 +376,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|27|16|.03" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|27|16|.03">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|27|16|.03">
           <section>
             <prefix>Regulation</prefix>
             <num>.03</num>
@@ -415,7 +415,7 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|27|16|.04" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|27|16|.04">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|27|16|.04">
           <section cache:ref-path="10|27|16|.04">
             <prefix>Regulation</prefix>
             <num>.04</num>
@@ -522,7 +522,7 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|27|16|annos" codified:replace-or-insert-action="replace">
+        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|27|16|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-102">8-102</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-302">8-302</cite>.<cite doc="Md. Code" path="gho|2">2</cite>, and <cite doc="Md. Code" path="gho|8-303">8-303</cite>; Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
@@ -539,7 +539,7 @@
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|16|.09|A." doc="Code of Maryland Regulations">Regulation .09A</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
           </annotations>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.01" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.01">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.01">
           <section>
             <prefix>Regulation</prefix>
             <num>.01</num>
@@ -595,7 +595,7 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.02" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.02">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.02">
           <section>
             <prefix>Regulation</prefix>
             <num>.02</num>
@@ -746,7 +746,7 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.03" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.03">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.03">
           <section>
             <prefix>Regulation</prefix>
             <num>.03</num>
@@ -785,7 +785,7 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.04" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.04">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.04">
           <section cache:ref-path="10|39|01|.04">
             <prefix>Regulation</prefix>
             <num>.04</num>
@@ -851,7 +851,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.05" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.05">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.05">
           <section cache:ref-path="10|39|01|.05">
             <prefix>Regulation</prefix>
             <num>.05</num>
@@ -986,7 +986,7 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.06" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.06">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.06">
           <section cache:ref-path="10|39|01|.06">
             <prefix>Regulation</prefix>
             <num>.06</num>
@@ -1133,7 +1133,7 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.07" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.07">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.07">
           <section>
             <prefix>Regulation</prefix>
             <num>.07</num>
@@ -1176,7 +1176,7 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.08" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.08">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.08">
           <section>
             <prefix>Regulation</prefix>
             <num>.08</num>
@@ -1207,7 +1207,7 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.09" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.09">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.09">
           <section>
             <prefix>Regulation</prefix>
             <num>.09</num>
@@ -1230,7 +1230,7 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.10" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.10">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.10">
           <section cache:ref-path="10|39|01|.10">
             <prefix>Regulation</prefix>
             <num>.10</num>
@@ -1413,7 +1413,7 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.11" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.11">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.11">
           <section>
             <prefix>Regulation</prefix>
             <num>.11</num>
@@ -1428,7 +1428,7 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|39|01|annos" codified:replace-or-insert-action="replace">
+        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|39|01|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, <cite doc="Md. Code" path="gho|8-303">8-303</cite> and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-01—8-6A-17, Annotated Code of Maryland; Ch. 486, Acts of 2012;<br/>Chs. 818 and 819, Acts of 2024; Ch. 416, Acts of 2025</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-02-05">Effective date: February 5, 2001 (28:2 Md. R. 100)</annotation>
@@ -1462,7 +1462,7 @@
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|39|01|.04|A." doc="Code of Maryland Regulations">Regulation .04A</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943);</annotation>
           </annotations>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|04|.02" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|04|.02">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|04|.02">
           <section>
             <prefix>Regulation</prefix>
             <num>.02</num>
@@ -1576,7 +1576,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|04|.04" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|04|.04">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|04|.04">
           <section cache:ref-path="10|39|04|.04">
             <prefix>Regulation</prefix>
             <num>.04</num>
@@ -1666,7 +1666,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|04|.05" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|04|.05">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|04|.05">
           <section cache:ref-path="10|39|04|.05">
             <prefix>Regulation</prefix>
             <num>.05</num>
@@ -1780,7 +1780,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|04|.11" before="annos" codified:replace-or-insert-action="insert" codified:doc="Code of Maryland Regulations" codified:path="10|39|04|.11">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|04|.11" before="annos">
           <section>
             <prefix>Regulation</prefix>
             <num>.11</num>
@@ -1798,7 +1798,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|39|04|annos" codified:replace-or-insert-action="replace">
+        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|39|04|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>(a), <cite doc="Md. Code" path="gho|8-303">8-303</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-01—8-6A-16, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-04-24">Effective date: April 24, 2006 (33:8 Md. R. 734)</annotation>
@@ -1816,7 +1816,7 @@
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|39|04|.11" doc="Code of Maryland Regulations">Regulation .11</cite> adopted as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
           </annotations>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|06|.03" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|06|.03">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|06|.03">
           <section cache:ref-path="10|39|06|.03">
             <prefix>Regulation</prefix>
             <num>.03</num>
@@ -1882,7 +1882,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|39|06|annos" codified:replace-or-insert-action="replace">
+        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|39|06|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-303">8-303</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-01—8-6A-10, 8-6A-12, 8-6A-14.1, 8-6A-15, 8-701, 8-703, 8-705, and 8-706, <br/>Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-08-04">Effective date: August 4, 2025 (52:15 Md. R. 812)</annotation>
@@ -1892,7 +1892,7 @@
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|10|39|06|.10|C." doc="Code of Maryland Regulations">Regulation .10C</cite>, D amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
           </annotations>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|53|02|.01" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|53|02|.01">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|53|02|.01">
           <section cache:ref-path="10|53|02|.01">
             <prefix>Regulation</prefix>
             <num>.01</num>
@@ -1958,7 +1958,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|53|02|.03" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|53|02|.03">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|53|02|.03">
           <section>
             <prefix>Regulation</prefix>
             <num>.03</num>
@@ -2040,7 +2040,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|53|02|.05" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|53|02|.05">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|53|02|.05">
           <section>
             <prefix>Regulation</prefix>
             <num>.05</num>
@@ -2110,7 +2110,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|53|02|.06" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|53|02|.06">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|53|02|.06">
           <section>
             <prefix>Regulation</prefix>
             <num>.06</num>
@@ -2200,7 +2200,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|53|02|.07" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|53|02|.07">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|53|02|.07">
           <section>
             <prefix>Regulation</prefix>
             <num>.07</num>
@@ -2282,7 +2282,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|53|02|annos" codified:replace-or-insert-action="replace">
+        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|53|02|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-201">8-201</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, <cite doc="Md. Code" path="gho|8-303">8-303</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>B-01—8-6B-29, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1984-01-16">Effective date: January 16, 1984 (11:1 Md. R. 44)</annotation>
@@ -2317,7 +2317,7 @@
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|53|02|.10" doc="Code of Maryland Regulations">Regulation .10</cite> repealed effective July 2, 2018 (45:13 Md. R. 667)</annotation>
           </annotations>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|64|01|.01" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|64|01|.01">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|64|01|.01">
           <section>
             <prefix>Regulation</prefix>
             <num>.01</num>
@@ -2475,7 +2475,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|64|01|.17" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|64|01|.17">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|64|01|.17">
           <section cache:ref-path="10|64|01|.17">
             <prefix>Regulation</prefix>
             <num>.17</num>
@@ -2665,7 +2665,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|64|01|annos" codified:replace-or-insert-action="replace">
+        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|64|01|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">Health-General Article, §§8-205, 8-303, and Title 8, Subtitle 6C, Annotated Code of Maryland;<br/>Ch. 383, Acts of 2015</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-12-19">Effective date: December 19, 2016 (43:25 Md. R. 1385)</annotation>
@@ -2675,7 +2675,7 @@
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|64|01|.17|L." doc="Code of Maryland Regulations">Regulation .17L</cite> adopted as an emergency provision effective August 25, 2026 (53:19 Md. R 943)</annotation>
           </annotations>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|69|01|.02" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|69|01|.02">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|69|01|.02">
           <section>
             <prefix>Regulation</prefix>
             <num>.02</num>
@@ -2745,7 +2745,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|69|01|.04" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|69|01|.04">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|69|01|.04">
           <section cache:ref-path="10|69|01|.04">
             <prefix>Regulation</prefix>
             <num>.04</num>
@@ -2843,7 +2843,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|69|01|.06" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|69|01|.06">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|69|01|.06">
           <section>
             <prefix>Regulation</prefix>
             <num>.06</num>
@@ -2921,7 +2921,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|69|01|annos" codified:replace-or-insert-action="replace">
+        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="10|69|01|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-101">8-101</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-208">8-208</cite>, <cite doc="Md. Code" path="gho|8-303">8-303</cite><em>, </em>8-508, 8-601, 8-6A-02, 8-6D-01—8-6D-15, 8-701, 8-708, and 8-710, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-22">Effective date: February 22, 2026 (52:17 Md. R. 875)</annotation>
