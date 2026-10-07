@@ -15,7 +15,7 @@
     <container name="emergency">
       <container codify:applicability="2026-09-04" codify:expire="2027-03-03">
         <num>26-115-E</num>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="11|02|03|.11" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="11|02|03|.11">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="11|02|03|.11">
           <section>
             <prefix>Regulation</prefix>
             <num>.11</num>
@@ -37,7 +37,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="11|02|03|.19" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="11|02|03|.19">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="11|02|03|.19">
           <section cache:ref-path="11|02|03|.19">
             <prefix>Regulation</prefix>
             <num>.19</num>
@@ -703,7 +703,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="11|02|03|.20" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="11|02|03|.20">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="11|02|03|.20">
           <section>
             <prefix>Regulation</prefix>
             <num>.20</num>
@@ -782,7 +782,7 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="11|02|03|.21" before="annos" codified:replace-or-insert-action="insert" codified:doc="Code of Maryland Regulations" codified:path="11|02|03|.21">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="11|02|03|.21" before="annos">
           <section>
             <prefix>Regulation</prefix>
             <num>.21</num>
@@ -865,7 +865,7 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="11|02|03|annos" codified:replace-or-insert-action="replace">
+        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="11|02|03|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">State Personnel and Pensions Article, §§<cite doc="Md. Code" path="gsp|9-1106">9-1106</cite> and <cite doc="Md. Code" path="gsp|9-1108">9-1108</cite>;<br/>Transportation Article, §§<cite doc="Md. Code" path="gtr|2-102">2-102</cite> and <cite doc="Md. Code" path="gtr|2-103">2-103</cite>.4; Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-01-18">Effective date: January 18, 1993 (20:1 Md. R. 27)</annotation>
