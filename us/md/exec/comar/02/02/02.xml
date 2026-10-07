@@ -9,7 +9,7 @@
     <heading>Initial Registration as Broker-Dealer.</heading>
     <para>
       <num>A.</num>
-      <text>Scope. This regulation governs applications for initial registration as a broker-dealer in Maryland.</text>
+      <text>Scope. Test change.</text>
     </para>
     <para>
       <num>B.</num>
@@ -75,7 +75,9 @@
         <text>The applicant has submitted any other information the Commissioner has requested.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-07" doc="Editor Action 2026-10-07" eff="2026-10-07" path="" target-path="02|02|02|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
