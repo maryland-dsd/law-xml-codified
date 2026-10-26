@@ -245,24 +245,24 @@
             </thead>
             <tbody>
               <tr>
-                <td data-vertical-align="middle">Class A</td>
-                <td data-text-align="center" data-vertical-align="middle">N/A</td>
-                <td data-text-align="center" data-vertical-align="middle">6</td>
+                <td>Class A</td>
+                <td>N/A</td>
+                <td>6</td>
               </tr>
               <tr>
-                <td data-vertical-align="middle">Class B</td>
-                <td data-text-align="center" data-vertical-align="middle">2</td>
-                <td data-text-align="center" data-vertical-align="middle">4</td>
+                <td>Class B</td>
+                <td>2</td>
+                <td>4</td>
               </tr>
               <tr>
-                <td data-vertical-align="middle">Class C</td>
-                <td data-text-align="center" data-vertical-align="middle">1/2, with incremental increases of 1/2 point for each additional violation within 365 days</td>
-                <td data-text-align="center" data-vertical-align="middle">1, with incremental increases of 1/2 point for each additional violation within 365 days</td>
+                <td>Class C</td>
+                <td>1/2, with incremental increases of 1/2 point for each additional violation within 365 days</td>
+                <td>1, with incremental increases of 1/2 point for each additional violation within 365 days</td>
               </tr>
               <tr>
-                <td data-vertical-align="middle">Class D</td>
-                <td data-text-align="center" data-vertical-align="middle">0</td>
-                <td data-text-align="center" data-vertical-align="middle">0</td>
+                <td>Class D</td>
+                <td>0</td>
+                <td>0</td>
               </tr>
             </tbody>
           </table>
@@ -301,20 +301,20 @@
             </thead>
             <tbody>
               <tr>
-                <td data-vertical-align="middle">5—5.5</td>
-                <td data-vertical-align="middle">15 to 30</td>
+                <td>5—5.5</td>
+                <td>15 to 30</td>
               </tr>
               <tr>
-                <td data-vertical-align="middle">6—8.5</td>
-                <td data-vertical-align="middle">30 to 60</td>
+                <td>6—8.5</td>
+                <td>30 to 60</td>
               </tr>
               <tr>
-                <td data-vertical-align="middle">9—10.5</td>
-                <td data-vertical-align="middle">90 to 180</td>
+                <td>9—10.5</td>
+                <td>90 to 180</td>
               </tr>
               <tr>
-                <td data-vertical-align="middle">11 or more</td>
-                <td data-vertical-align="middle">180 to 360</td>
+                <td>11 or more</td>
+                <td>180 to 360</td>
               </tr>
             </tbody>
           </table>
@@ -369,7 +369,9 @@
         </text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-308-F" target-path="09|10|03|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="09|10|03|.03">
     <prefix>Regulation</prefix>
@@ -893,7 +895,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>A State veterinarian, in the presence of the owner, trainer, or designated representative and the Commission representative, shall verify the horse's identifying tattoo number before taking a blood sample from the horse.</text>
+      <text>An authorized official designated by the Commission, in the presence of the owner, trainer, or designated representative and the Commission representative, shall verify the horse's identifying tattoo or microchip number before taking a blood sample from the horse.</text>
     </para>
     <para>
       <num>E.</num>
@@ -916,7 +918,7 @@
       <text>Blood.</text>
       <para>
         <num>(1)</num>
-        <text>After the horse has been washed down, but not less than 30 minutes following the running of the race, a State veterinarian shall extract two tubes of blood from the horse.</text>
+        <text>After the horse has been washed down, an authorized official designated by the Commission shall extract two tubes of blood from the horse.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -963,7 +965,9 @@
       <num>I.</num>
       <text>The owner or trainer requesting the confirmatory testing shall bear the costs of the confirmatory testing.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-308-F" target-path="09|10|03|.09" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1178,8 +1182,10 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-10-27"><cite path="|09|10|03|.08|I.">Regulation .08I</cite> amended as an emergency provision effective October 27, 1995 (22:23 Md. R. 1794); emergency status expired April 1, 1996</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-08-26"><cite path="|09|10|03|.08|I.">Regulation .08I</cite> amended as an emergency provision effective April 2, 1996 (23:7 Md. R. 548); amended permanently effective August 26, 1996 (23:17 Md. R. 1247)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-05-05"><cite path="|09|10|03|.08|J.">Regulation .08J</cite> amended effective May 5, 1997 (24:9 Md. R. 656)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|09|10|03|.09|D.">Regulation .09D</cite>, G amended effective May 25, 2026 (53:10 Md. R. 454)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-08-14"><cite path="|09|10|03|.09|H.">Regulation .09H</cite> amended effective August 14, 1995 (22:16 Md. R. 1220)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-05-18"><cite path="|09|10|03|.10">Regulation .10</cite> adopted as an emergency provision effective May 18, 2017 (44:12 Md. R. 585); emergency status expired September 1, 2017</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-09-25"><cite path="|09|10|03|.10">Regulation .10</cite> adopted effective September 25, 2017 (44:19 Md. R. 896)</annotation>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-308-F" target-path="09|10|03|annos" type="History" display="false"/>
   </annotations>
 </container>
