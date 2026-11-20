@@ -2156,7 +2156,7 @@
       <text>Action Leakage Rate and Response Actions.</text>
       <para>
         <num>(1)</num>
-        <text>This section applies to the owner or operator of a surface impoundment unit identified in 40 CFR &gt;S1&gt;265.221(a).</text>
+        <text>This section applies to the owner or operator of a surface impoundment unit identified in 40 CFR §265.221(a).</text>
       </para>
       <para>
         <num>(2)</num>
@@ -2211,7 +2211,9 @@
         <text>The compliance period of <cite path="26|13|06|.19|H.|(1)">§H(1) of this regulation</cite> may not be cut short as a result of the promulgation of land disposal restrictions under 40 CFR Part 268 or the granting of an extension to the effective date of a prohibition under 40 CFR §268.5 within the 48-month period identified in <cite path="26|13|06|.19|H.|(1)">§H(1) of this regulation</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-18" doc="Editor Action 2026-11-18" eff="2026-11-18" path="" target-path="26|13|06|.19" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|06|.20">
     <prefix>Regulation</prefix>
