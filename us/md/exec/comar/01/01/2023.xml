@@ -293,6 +293,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-12-21">Effective Date: December 21, 2023.</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -602,6 +603,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-12-14">Effective Date: December 14, 2023.</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -726,6 +728,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-11-20">Effective Date: November 20, 2023.</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -1013,6 +1016,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-11-17">Effective Date: November 17, 2023.</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -1053,6 +1057,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-11-09">Effective Date: November 9, 2023</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -1145,557 +1150,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-11-09">Effective Date: November 9, 2023.</annotation>
-    </annotations>
-  </section>
-  <section type="eo">
-    <prefix>Executive Order</prefix>
-    <num>.16</num>
-    <heading>State of Maryland Workplace Substance Abuse Policy</heading>
-    <text class="center">(Rescinds Executive Order <cite path="01.01.1991.16">01.01.1991.16</cite>)</text>
-    <para>
-      <num>A.</num>
-      <heading>Scope.</heading>
-      <text>This policy applies to all individuals employed by the Executive Branch of the Maryland State Government.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <heading>Definitions.</heading>
-      <text>The following words have the meanings indicated:</text>
-      <para>
-        <num>1.</num>
-        <text>“Alcohol” means any form of ethanol, or any beverage or substance containing ethanol.</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>“Alcohol-Related Offense” means a crime that requires alcohol possession or consumption as an element of the offense.</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>“Cannabis” means the plant Cannabis Sativa L. and any part of the plant, including all derivatives, extracts, cannabinoids, isomers, acids, salts, and salts of isomers, whether growing or not, with a delta-9-tetrahydrocannabinol concentration greater than 0.3% on a dry weight basis. Cannabis includes cannabis products but does not include hemp or hemp products as defined by § 14–101 of the Agriculture Article.</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>“Cannabis-Related Offense” means any crime that involves the use, sale, possession, distribution, dispensation, manufacture, or transfer of cannabis under Md. Code Ann., Crim. Law §§ 5-101 through 5-1101, excluding civil use offenses set forth in Crim. Law 5-601(c)(2)(ii).</text>
-      </para>
-      <para>
-        <num>5.</num>
-        <text>“Controlled Dangerous Substance” means any substance, excluding cannabis, that is controlled under the Federal Controlled Substances Act, 21 U.S.C. § 801, et seq., as amended, and/or the Maryland Controlled Dangerous Substances Act, Md. Code Ann., Crim. Law §§ 5-101 through 5-1101.</text>
-      </para>
-      <para>
-        <num>6.</num>
-        <text>“Controlled Dangerous Substance Offense” means:</text>
-        <para>
-          <num>a.</num>
-          <text>A controlled dangerous substance violation, under Md. Code Ann., Crim. Law §§ 5-101 through 5-1101.</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>An offense of the law of any other jurisdiction if the prohibited conduct would be a controlled dangerous substance violation if committed in this State;</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>Driving or attempting to drive while under the influence of a controlled dangerous substance under Md. Code Ann., Transp. § 21-902; or</text>
-        </para>
-        <para>
-          <num>d.</num>
-          <text>Operating or attempting to operate a vessel while impaired by a controlled dangerous substance under Md. Code Ann., Nat. Res. § 8-738.</text>
-        </para>
-      </para>
-      <para>
-        <num>7.</num>
-        <text>“Conviction” means:</text>
-        <para>
-          <num>a.</num>
-          <text>A judgment of conviction, whether entered upon a finding of guilt or acceptance of a guilty plea or plea of nolo contendere, and the imposition of sentence; or</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>The staying of the entry of judgment and the placing of the defendant on probation after a finding of guilty or the acceptance of a plea of nolo contendere.</text>
-        </para>
-      </para>
-      <para>
-        <num>8.</num>
-        <text>“Drug” means any controlled dangerous substance, non-prescription drug, or prescription drug, taken into the body, which may impair one’s mental faculties and/or change one’s mood and/or physical performance.</text>
-      </para>
-      <para>
-        <num>9.</num>
-        <text>“Drug-Related Offenses” means:</text>
-        <para>
-          <num>a.</num>
-          <text>Crimes listed under the Maryland Controlled Dangerous Substances Act, Md. Code Ann., Crim. Law §§ 5-101 through 5-1101.</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>Driving or attempting to drive while under the influence of drugs or drugs and alcohol under Md. Code Ann., Transp. § 21-902.</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>Operating or attempting to operate a vessel while under the influence of drugs or drugs and alcohol under Md. Code Ann., Nat. Res. § 8-738.</text>
-        </para>
-      </para>
-      <para>
-        <num>10.</num>
-        <text>“Employee” means:</text>
-        <para>
-          <num>a.</num>
-          <text>A merit-protected (classified), at will (unclassified), contractual, key employee, or other employee or official in the Executive Branch;</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>A volunteer who provides a service to or for a unit in the Executive Branch; or</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>A member of a Board or Commission in the Executive Branch.</text>
-        </para>
-      </para>
-      <para>
-        <num>11.</num>
-        <text>“Impaired” means reduced cognitive or physical ability that results from use of drugs, alcohol, cannabis, or controlled dangerous substances.</text>
-      </para>
-      <para>
-        <num>12.</num>
-        <text>“Intoxicating Cannabinoid” means a product intended for human consumption or inhalation that contains more than 0.5 milligrams of tetrahydrocannabinol per serving.</text>
-      </para>
-      <para>
-        <num>13.</num>
-        <text>“Medical Cannabis” means all parts of any plant of the genus cannabis, whether growing or not, including:</text>
-        <para>
-          <num>a.</num>
-          <text>The seeds of the plant;</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>The resin extracted from any part of the plant; and</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>Any compound, manufacture, salt, derivative, mixture, or preparation of the plant, its seeds, or resin including tetrahydrocannabinol and all other naturally produced cannabinoid derivatives, whether produced directly or indirectly by extraction.</text>
-        </para>
-        <para>
-          <num>d.</num>
-          <text>Medical cannabis does not include:</text>
-          <para>
-            <num>i.</num>
-            <text>Hemp, as defined in Md. Code Ann., Agric. § 14-101;</text>
-          </para>
-          <para>
-            <num>ii.</num>
-            <text>Mature stalks of the plant or fiber produced from the mature stalks;</text>
-          </para>
-          <para>
-            <num>iii.</num>
-            <text>Oil or cake made from the seeds of the plant;</text>
-          </para>
-          <para>
-            <num>iv.</num>
-            <text>Any other compound, manufacture, salt, derivative, mixture, or preparation of the mature stalks, fiber, oil, or cake; or</text>
-          </para>
-          <para>
-            <num>v.</num>
-            <text>The sterilized seed of the plant that is incapable of germination.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>14.</num>
-        <text>“Non-Prescription Drug” means any over-the-counter drug that is available without a written prescription by an authorized medical professional.</text>
-      </para>
-      <para>
-        <num>15.</num>
-        <text>“Prescription Drug” means a drug that may be dispensed only on the prescription of a health practitioner who is authorized by law to prescribe the drug.</text>
-      </para>
-      <para>
-        <num>16.</num>
-        <text>“Safety-Sensitive Employee” means an employee who operates heavy machinery and includes, but are not limited to, an operator of a crane, winch, or top loader and a driver of hustler or forklift.</text>
-      </para>
-      <para>
-        <num>17.</num>
-        <text>“Sensitive Employee” means an employee whose classification or position has been designated sensitive by the Secretary of Budget and Management or the Secretary's designated representative, or the employee’s appointing authority.</text>
-      </para>
-      <para>
-        <num>18.</num>
-        <text>“Sensitive Classification” means a classification in which the Secretary of Budget and Management or the Secretary's designated representative has determined that any of the following conditions exists:</text>
-        <para>
-          <num>a.</num>
-          <text>An employee in the classification has a substantially significant degree of responsibility for the safety of others and there is a potential that impaired performance of the employee could result in death of or injury to the employee or others;</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>An employee in the classification is required to carry a firearm;</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>An employee in the classification is directly involved in efforts to interdict the flow of narcotics; or</text>
-        </para>
-        <para>
-          <num>d.</num>
-          <text>An employee in the classification is directly involved with narcotics law enforcement.</text>
-        </para>
-      </para>
-      <para>
-        <num>19.</num>
-        <text>“Sensitive Position” means a position for which an appointing authority has determined that any of the conditions listed in Section B(17) of this executive order exists, but which is not in a sensitive classification.</text>
-      </para>
-      <para>
-        <num>20.</num>
-        <text>“Substance” means alcohol, drugs, or cannabis.</text>
-      </para>
-      <para>
-        <num>21.</num>
-        <text>“Substance Abuse” means:</text>
-        <para>
-          <num>a.</num>
-          <text>The use of an illegal drug;</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>The intentional misuse of any legal drug that results in workplace impairment and/or impaired job performance;</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>The intentional use of any prescription drug in a manner inconsistent with its medically prescribed, intended use, or under circumstances where its use is not permitted;</text>
-        </para>
-        <para>
-          <num>d.</num>
-          <text>The use of alcohol where such use results in workplace impairment and/or impairs job performance;</text>
-        </para>
-        <para>
-          <num>e.</num>
-          <text>The use of cannabis where such use results in workplace impairment and/or impairs job performance; or</text>
-        </para>
-        <para>
-          <num>f.</num>
-          <text>The intentional and inappropriate use of any substance, legal or illegal, which impairs job performance.</text>
-        </para>
-      </para>
-      <para>
-        <num>22.</num>
-        <text>“Workplace” means any place where an employee is performing work for the State of Maryland.</text>
-      </para>
-      <para>
-        <num>23.</num>
-        <text>“Work Time” means time during which an employee:</text>
-        <para>
-          <num>a.</num>
-          <text>Is on duty, whether at the employee’s principal work site or at a remote location as part of the State's telecommuting program;</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>Participates in training activities as a job assignment;</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>Is on the employer's premises and is on call and waiting for work;</text>
-        </para>
-        <para>
-          <num>d.</num>
-          <text>Is not on the employer's premises, but is on call and waiting for work, and the employee's personal activities are substantially restricted;</text>
-        </para>
-        <para>
-          <num>e.</num>
-          <text>Is changing into and removing program-specified clothing and equipment necessary for the performance of the job;</text>
-        </para>
-        <para>
-          <num>f.</num>
-          <text>Participates in activities that are job-related immediately before the beginning or immediately after the end of an assigned shift;</text>
-        </para>
-        <para>
-          <num>g.</num>
-          <text>Travels to and from work after being recalled to work by the appointing authority or the appointing authority's designated representative after the employee has completed the standard workday;</text>
-        </para>
-        <para>
-          <num>h.</num>
-          <text>Travels to and from work after being called to work by the appointing authority or the appointing authority's designated representative on the employee's scheduled day off if the employee works fewer than 8 hours as a result of being called on the employee's scheduled day off;</text>
-        </para>
-        <para>
-          <num>i.</num>
-          <text>Travels between home and a work site other than the assigned office, in accordance with the Standard Travel Regulations,</text>
-        </para>
-        <para>
-          <num>j.</num>
-          <text>Work time includes any other time defined as work time under the Fair Labor Standards Act, 29 U.S.C. §201 et seq., if applicable.</text>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>C.</num>
-      <heading>General Policy.</heading>
-      <text>The State of Maryland establishes the following Substance Abuse Policy for the Executive Branch of State Government:</text>
-      <para>
-        <num>1.</num>
-        <text>All employees in the workplace must be capable of performing their duties. An employee shall not report to work, or spend any work time, in an unfit condition to perform their duties.</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Substance abuse by any employee is prohibited at all times.</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Employees experiencing substance use problems are encouraged to seek assistance through:</text>
-        <para>
-          <num>a.</num>
-          <text>Their employer;</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>Referral to the Employee Assistance Program (“EAP”);</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>Self-referral to the MyMDCares program or similar state-sponsored assistance program; or</text>
-        </para>
-        <para>
-          <num>d.</num>
-          <text>Self-referral to an alternative certified rehabilitation program.</text>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>D.</num>
-      <heading>Alcohol &amp; Cannabis Abuse Policy.</heading>
-      <para>
-        <num>1.</num>
-        <heading>Alcohol &amp; Cannabis.</heading>
-        <text>An employee shall not report to work, or spend any work time, under the influence of alcohol, cannabis, or intoxicating cannabinoids. Any employee who reports to work, or spends any work time, with their mental or physical abilities impaired by alcohol or cannabis, is in violation of this policy and shall be subject to disciplinary action.</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Employees may not consume alcohol or consume, smoke, or otherwise ingest cannabis or intoxicating cannabinoid on State property, at any worksite, or during work hours or while on work time. This conduct is also prohibited for employees on official business, whether on or off State Property.</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>The unlawful manufacture, distribution, dispensation, possession, or use of cannabis or intoxicating cannabinoids is prohibited on State property, at any worksite, or during work hours or while on work time.</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>Employees are prohibited from consuming alcohol and/or cannabis and/or being under the influence of alcohol, cannabis, or an intoxicating cannabinoid while operating State equipment, vehicles, or other property.</text>
-      </para>
-      <para>
-        <num>5.</num>
-        <text>Employees are prohibited from committing alcohol or cannabis-related offenses or offenses relating to intoxicating cannabinoids.</text>
-      </para>
-      <para>
-        <num>6.</num>
-        <text>Employees who plead guilty, accept a plea of nolo contendere, receive a probation before judgment, or are convicted of an alcohol or cannabis-related offense or an offense relating to intoxicating cannabinoids are in violation of this policy and must report the disposition of the case to their supervisor and/or appointing authority no later than five (5) workdays after the disposition.</text>
-      </para>
-      <para>
-        <num>7.</num>
-        <heading>Medical Cannabis.</heading>
-        <text>Employees who are registered and certified medical cannabis patients may not possess, consume, smoke, or otherwise ingest cannabis on State property, at any worksite or during Work Time.</text>
-      </para>
-      <para>
-        <num>8.</num>
-        <text>Employees who are registered and certified medical cannabis patients are responsible for consulting the certifying provider to ascertain whether the medical cannabis will interfere with the safe performance of their job duties.</text>
-      </para>
-      <para>
-        <num>9.</num>
-        <text>If the use of any medical cannabis could compromise an employee’s performance or the safety of the employee, fellow employees, or the public, it is the employee’s responsibility to notify their supervisor and/or appointing authority and use appropriate leave to avoid unsafe work practices.</text>
-      </para>
-    </para>
-    <para>
-      <num>E.</num>
-      <heading>Drug Abuse Policy.</heading>
-      <para>
-        <num>1.</num>
-        <heading>Prescription &amp; Over-The-Counter Drugs.</heading>
-        <text>Prescription and over-the-counter drugs must be taken in standard dosage and/or according to a physician’s prescription.</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Employees who take prescribed or over-the-counter medications are responsible for consulting the prescribing physician and/or pharmacist to ascertain whether the medication will interfere with the safe performance of their job duties.</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>If the use of any prescription or over-the counter drug could compromise an employee’s performance or the safety of the employee, fellow employees, or the public, it is the employee’s responsibility to notify their supervisor and/or appointing authority and use appropriate leave to avoid unsafe work practices.</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>An employee shall not report to work, or spend any work time, under the inappropriate influence of prescription or over-the-counter drugs. Any employee who reports to work, or spends any work time, with their mental or physical abilities inappropriately impaired by prescription or over-the-counter drugs is in violation of this policy and shall be subject to disciplinary action.</text>
-      </para>
-      <para>
-        <num>5.</num>
-        <heading>Controlled Dangerous Substances.</heading>
-        <text>Any employee who reports to work, or spends any work time, with their mental or physical abilities impaired by a controlled dangerous substance is in violation of this policy and shall be subject to disciplinary action.</text>
-      </para>
-      <para>
-        <num>6.</num>
-        <text>The unlawful manufacture, distribution, dispensation, possession, or use of controlled dangerous substances is prohibited on State property, at any worksite, or during work hours or while on work time.</text>
-      </para>
-      <para>
-        <num>7.</num>
-        <text>Employees are prohibited from committing controlled dangerous substance offenses.</text>
-      </para>
-      <para>
-        <num>8.</num>
-        <text>Employees who plead guilty, accept a plea of nolo contendere, receive a probation before judgment, or are convicted of a controlled dangerous substance offense, are in violation of this policy and must report the disposition of the case to their supervisor and/or appointing authority no later than five (5) workdays after the disposition.</text>
-      </para>
-      <para>
-        <num>9.</num>
-        <heading>General Drug Abuse Policies.</heading>
-        <text>Employees are prohibited from committing drug-related offenses.</text>
-      </para>
-      <para>
-        <num>10.</num>
-        <text>Employees who plead guilty, accept a plea of nolo contendere, receive a probation before judgment, or are convicted of a drug-related offense, are in violation of this policy and must report the disposition of the case to their supervisor and/or appointing authority no later than five (5) workdays after the disposition.</text>
-      </para>
-    </para>
-    <para>
-      <num>F.</num>
-      <heading>General Sanctions.</heading>
-      <text>Any employee in violation of this Executive Order shall be subject to appropriate progressive disciplinary action up to and including termination.</text>
-    </para>
-    <para>
-      <num>G.</num>
-      <heading>Specific Sanctions.</heading>
-      <para>
-        <num>1.</num>
-        <text>A sensitive or safety-sensitive employee shall be suspended for fifteen (15) days and required to successfully participate in an alcohol or cannabis treatment program designated by an EAP the first time the employee is:</text>
-        <para>
-          <num>a.</num>
-          <text>Convicted of an at-the-workplace alcohol or cannabis-related offense; or</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>Found under the influence of alcohol or cannabis while at-the-workplace.</text>
-        </para>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>A sensitive or safety-sensitive employee convicted of an out-of-workplace alcohol or cannabis-related offense, and a non-sensitive or safety-sensitive employee convicted of any alcohol or cannabis-related offense shall:</text>
-        <para>
-          <num>a.</num>
-          <text>On the first conviction be referred to an EAP and subject to any other appropriate disciplinary actions;</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>On the second conviction, at a minimum, be suspended for at least five (5) days, be referred to an EAP, be required to participate successfully in a treatment program, and be subject to any other appropriate disciplinary actions, up to and including termination;</text>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>On the third conviction, be terminated.</text>
-        </para>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>A sensitive or safety-sensitive employee convicted of any controlled dangerous substance offense shall be terminated.</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>A sensitive or safety-sensitive employee who tests positive for a controlled dangerous substance as a result of a random drug test shall be suspended for fifteen (15) workdays and be required to successfully participate in a drug treatment program designated by an EAP, as provided for by the appointing authority's drug testing protocol.</text>
-      </para>
-      <para>
-        <num>5.</num>
-        <text>A sensitive or safety-sensitive employee who abuses a legally prescribed drug or an over-the-counter drug shall, on the first offense:</text>
-        <para>
-          <num>a.</num>
-          <text>Be suspended for five (5) workdays; and</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>Be required to participate successfully in a drug treatment program designated by an EAP.</text>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>H.</num>
-      <heading>Assistance &amp; Treatment.</heading>
-      <para>
-        <num>1.</num>
-        <text>An employee may request referral to the EAP for access to confidential professional assistance for substance use problems or may self-refer to the MyMDCares program or similar state-sponsored assistance program to receive confidential professional assistance.</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Employees will not be terminated solely for requesting referral to the EAP or voluntarily obtaining other assistance and/or treatment for a substance use problem. The State of Maryland encourages any employee who needs such assistance and treatment to seek and obtain it. However, participation in a treatment or recovery program will neither relieve employees from the requirement of satisfactory job performance, nor insulate them from termination or adverse personnel actions for failing to comply with any of the State’s policies and procedures.</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Substance abuse-related disciplinary actions, up to and including termination, may be, but do not have to be, held in abeyance pending an employee’s completion of an assistance and treatment program. The option of holding a disciplinary action in abeyance is not an employee entitlement or right but is a privilege to be granted at the discretion of the appointing authority, in consultation with the Department of Budget and Management, or the individual responsible for Human Resources for the respective State agency under appropriate circumstances.</text>
-      </para>
-    </para>
-    <para>
-      <num>I.</num>
-      <heading>Implementation.</heading>
-      <para>
-        <num>1.</num>
-        <text>The Secretary of Budget &amp; Management and the head of every other personnel system in the Executive Branch shall adopt such policies and regulations as are necessary or desirable for the implementation of this Executive Order.</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>All appointing authorities and supervisory employees are responsible for implementing, enforcing, and monitoring compliance with the requirements of this Executive Order.</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>All employees are required to acknowledge receipt of a copy of this Executive Order by returning an acknowledgement of receipt to their supervisor for insertion in their personnel file.</text>
-      </para>
-    </para>
-    <para>
-      <num>J.</num>
-      <heading>Enforcement.</heading>
-      <para>
-        <num>1.</num>
-        <text>If a supervisor or appointing authority observes any signs of possible substance abuse in any employee during working hours, this shall constitute reasonable grounds for an investigation.</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>If a non-supervisory employee observes any signs of possible substance abuse in any employee during working hours and reports it to a supervisor or appointing authority, this shall constitute reasonable grounds for an investigation.</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>A supervisor and/or appointing authority, on observing such signs or receiving a report, in consultation with the Department of Budget and Management, or the individual responsible for Human Resources for the respective State agency, should investigate by appropriate measures.</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>If the supervisory investigation supports a conclusion of substance abuse by the investigated employee(s), the supervisor and/or appointing authority shall consult the Department of Budget and Management, the individual responsible for Human Resources for the respective State agency, or the State Medical Director to determine the appropriate next steps, which may include testing.</text>
-      </para>
-      <para>
-        <num>5.</num>
-        <text>When an appointing authority learns or based on observation or reliable information, suspects that an employee has committed an alcohol-related offense, cannabis-related offense, controlled dangerous substance offense, or other drug-related offense, the appointing authority shall refer the matter to the appropriate law enforcement authority for further investigation and prosecution.</text>
-      </para>
-      <para>
-        <num>6.</num>
-        <text>All employees shall cooperate fully with law enforcement authorities in the investigation and prosecution of suspected criminal violations.</text>
-      </para>
-    </para>
-    <para>
-      <num>K.</num>
-      <heading>Employee Education.</heading>
-      <text>All appointing authorities shall educate and inform their employees about:</text>
-      <para>
-        <num>1.</num>
-        <text>The dangers of drug and alcohol abuse in the workplace;</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>The State of Maryland's policy of maintaining a drug-free workplace;</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Any drug and alcohol abuse counseling, rehabilitation, and EAP that is available; and</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>The penalties that may be imposed upon employees for violations of this Executive Order.</text>
-      </para>
-    </para>
-    <para>
-      <num>L.</num>
-      <text>This policy does not constitute or create an express or implied contract. It is not intended to, and does not, create contractual obligations with respect to any matter it covers.</text>
-    </para>
-    <para>
-      <num>M.</num>
-      <text>This Executive Order shall be implemented in a manner that is consistent with all applicable statutes and regulations. Nothing in this Executive Order shall operate to contravene any State or federal law or to affect the State's receipt of federal funding.</text>
-    </para>
-    <para>
-      <num>N.</num>
-      <text>If a State entity is subject to a federal law or regulation that conflicts with this Executive Order, the federal law or regulation shall take precedence.</text>
-    </para>
-    <para>
-      <num>O.</num>
-      <text>If any provision of this Executive Order or its application to any person, entity, or circumstance is held invalid by any court of competent jurisdiction, all other provisions or applications of the Executive Order shall remain in effect to the extent possible without the invalid provision or application. To achieve this purpose, the provisions of this Executive Order are severable.</text>
-    </para>
-    <annotations>
-      <annotation managed="false" type="History" subtype="Administrative History" effective="2023-11-08">Effective Date: November 8, 2023</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -1824,6 +1279,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-07-20">Effective Date: July 20, 2023</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -1983,6 +1439,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-07-20">Effective Date: July 20, 2023</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -2205,6 +1662,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-07-03">Effective Date: July 3, 2023</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -2353,6 +1811,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-06-08">Effective Date: June 8, 2023</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -2409,6 +1868,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-06-05">Effective Date: June 5, 2023.</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -2508,6 +1968,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-05-19">Effective date: May 19, 2023</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -2605,6 +2066,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-05-17">Effective date: May 17, 2023</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -2773,6 +2235,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-05-05">Effective date: May 5, 2023</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -3256,6 +2719,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-03-07">Effective date: March 7, 2023</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -3380,6 +2844,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-02-16">Effective date: February 16, 2023</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -3720,6 +3185,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-01-19">Effective date: January 19, 2023</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section type="eo">
@@ -3797,6 +3263,8 @@
     </para>
     <annotations>
       <annotation managed="false" type="History" subtype="Administrative History" effective="2023-01-19">Effective date: January 19, 2023</annotation>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
     </annotations>
   </section>
+  <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="eos" target-path="01|01|2023|.16" type="History" display="false"/>
 </container>

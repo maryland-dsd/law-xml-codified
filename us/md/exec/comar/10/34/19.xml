@@ -16,7 +16,9 @@
       <num>B.</num>
       <text>Compounding of radiopharmaceuticals, except where U.S. Pharmacopeia (USP) General Chapter 797 Pharmaceutical Compounding — Sterile Preparations addresses radiopharmaceuticals, U.S. Pharmacopeia (USP) Chapter 821 Radioactivity, and U.S. Pharmacopeia (USP) Chapter 823 Radiopharmaceuticals for Positron Emission Tomography — Compounding would apply.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -39,7 +41,9 @@
       <num>D.</num>
       <text>U.S. Pharmacopeia (USP) Chapter 823 Radiopharmaceuticals for Positron Emission Tomography — Compounding, which has been incorporated by reference in 21 U.S.C. §351(b) (as amended).</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -201,7 +205,9 @@
         <text>“USP 797 Standards” means standards set forth in the U.S. Pharmacopeia (USP) General Chapter 797 Pharmaceutical Compounding — Sterile Preparations.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -235,7 +241,9 @@
       <num>E.</num>
       <text>Ensuring that licensed pharmacists meeting the requirements of <cite path="10|34|19|.05|A.">§A of this regulation</cite>, or registered pharmacy technicians under direct supervision of a licensed pharmacist meeting the requirements of <cite path="10|34|19|.05|A.">§A of this regulation</cite>, prepare, compound, and dispense compounded sterile preparations.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -321,7 +329,9 @@
       <num>D.</num>
       <text>Expiration or Beyond-Use Dating. In the absence of direct testing evidence, as detailed in the Stability Criteria and Beyond Use Dating section of USP 795 Standards, the pharmacist shall use “beyond-use dating” as determined by USP 797 Standards and reference materials as cited in <cite path="|10|34|19|.16">Regulation .16 of this chapter</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.06" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|34|19|.07">
     <prefix>Regulation</prefix>
@@ -423,7 +433,9 @@
         <text>A pharmacy shall maintain records of media fill verification results for 5 years.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.07" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -445,7 +457,9 @@
         <text>Pharmacy maintains the prescription on file for such preparations dispensed.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.08" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -563,7 +577,9 @@
         <text>Isolator vendor or manufacturer specifications.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.09" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -637,7 +653,9 @@
         <text>Incubator.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -704,7 +722,9 @@
       <num>H.</num>
       <text>Closed system vial transfer devices (CSTD), as required for cytotoxic compounding, if applicable.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.11" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -878,7 +898,9 @@
         <text>Written documentation of policies and procedures assuring the sterility and stability of compounded sterile preparations.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.12" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -936,7 +958,9 @@
       <num>B.</num>
       <text>The requirements of this regulation are not applicable if a compounding aseptic isolator is used to compound sterile preparations in accordance with USP 797 Standards and isolator vendor/manufacturer specifications.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.13" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|34|19|.14">
     <prefix>Regulation</prefix>
@@ -1034,7 +1058,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.14" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1073,7 +1099,9 @@
       <num>H.</num>
       <text>A process that complies with applicable USP 797 Standards for performing sterility checks or pyrogen testing, or both, for applicable compounded sterile preparations.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.15" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1092,7 +1120,9 @@
       <num>C.</num>
       <text>Reference materials concerning drug interactions and incompatibility.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.16" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1154,7 +1184,9 @@
         <text>Investigate a complaint.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.17" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1193,7 +1225,9 @@
         <text>Disciplinary actions taken against any other known permit, or any other authorization, held by the pharmacy permit holder.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.18" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1208,7 +1242,9 @@
       <num>B.</num>
       <text>If applicable, a wholesale distributor’s permit, issued by the Board under <cite doc="Md. Code" path="gho">Health Occupations Article, Title 12, Subtitle 6C, Annotated Code of Maryland</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.19" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|12-205">12-205</cite>, <cite doc="Md. Code" path="gho|12-403">12-403</cite>, <cite doc="Md. Code" path="gho|12-503">12-503</cite>, <cite doc="Md. Code" path="gho|12-505">12-505</cite>, <cite doc="Md. Code" path="gho|12-6">12-6</cite>C-<cite doc="Md. Code" path="gho|01">01</cite>, and <cite doc="Md. Code" path="gho|12-6">12-6</cite>C-03, Annotated Code of Maryland</annotation>

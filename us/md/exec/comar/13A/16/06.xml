@@ -586,7 +586,7 @@
       <text>To qualify or continue to qualify as a child care teacher in a preschool center, an individual shall:</text>
       <para>
         <num>(1)</num>
-        <text>Be 19 years old or older;</text>
+        <text>Be 18 years old or older;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -685,7 +685,9 @@
         <text>Have completed approved training in supporting breastfeeding practices.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-111-F" target-path="13A|16|06|.09" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="13A|16|06|.09-1">
     <prefix>Regulation</prefix>
@@ -700,7 +702,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Is 19 years old or older;</text>
+        <text>Is 18 years old or older;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -807,7 +809,9 @@
         <text>Upon a showing of good cause, grant the request and allow the probationary teacher to remain in a teaching position at the center for a period of time determined by the Department and approved by the Superintendent.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-111-F" target-path="13A|16|06|.09-1" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="13A|16|06|.10">
     <prefix>Regulation</prefix>
@@ -818,7 +822,7 @@
       <text>To qualify as a child care teacher in a school age center, an individual shall:</text>
       <para>
         <num>(1)</num>
-        <text>Be 19 years old or older;</text>
+        <text>Be 18 years old or older;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -921,7 +925,9 @@
         <text>Document that the health and safety training, as required by the office, is completed by each staff member by the end of each 12-month period, measured each calendar year.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-111-F" target-path="13A|16|06|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="13A|16|06|.10-1">
     <prefix>Regulation</prefix>
@@ -936,7 +942,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Is 19 years old or older;</text>
+        <text>Is 18 years old or older;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -1043,7 +1049,9 @@
         <text>Upon a showing of good cause, grant the request and allow the probationary teacher to remain in a teaching position at the center for a period of time determined by the Department and approved by the Superintendent.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-111-F" target-path="13A|16|06|.10-1" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1263,11 +1271,15 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-01-13"><cite path="|13A|16|06|.06|A.">Regulation .06A</cite> amended effective July 20, 2015 (42:14 Md. R. 883); January 13, 2020 (47:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-07-20"><cite path="|13A|16|06|.08|C.">Regulation .08C</cite> amended effective July 20, 2015 (42:14 Md. R. 883)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|13A|16|06|.09">Regulation .09</cite> amended effective April 19, 2010 (37:8 Md. R. 618)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23"><cite path="|13A|16|06|.09|A.">Regulation .09A</cite> amended effective November 23, 2026 (53:23 Md. R. 1168)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-07-20"><cite path="|13A|16|06|.09|A.">Regulation .09A</cite>, C amended effective July 20, 2015 (42:14 Md. R. 883)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13"><cite path="|13A|16|06|.09-1">Regulation .09-1</cite> adopted effective November 13, 2023 (50:22 Md. R. 977)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23"><cite path="|13A|16|06|.09-1A">Regulation .09-1A</cite> amended effective November 23, 2026 (53:23 Md. R. 1168)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-01-13"><cite path="|13A|16|06|.10">Regulation .10</cite> amended effective January 13, 2020 (47:1 Md. R. 14)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23"><cite path="|13A|16|06|.10|A.">Regulation .10A</cite> amended effective November 23, 2026 (53:23 Md. R. 1168)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-07-20"><cite path="|13A|16|06|.10|B.">Regulation .10B</cite> amended effective July 20, 2015 (42:14 Md. R. 883)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13"><cite path="|13A|16|06|.10-1">Regulation .10-1</cite> adopted effective November 13, 2023 (50:22 Md. R. 977)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23"><cite path="|13A|16|06|.10-1A">Regulation .10-1A</cite> amended effective November 23, 2026 (53:23 Md. R. 1168)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-07-20"><cite path="|13A|16|06|.11|A.">Regulation .11A</cite> amended effective July 20, 2015 (42:14 Md. R. 883)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-01-13"><cite path="|13A|16|06|.11|A.">Regulation .11A</cite>, C amended effective January 13, 2020 (47:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-01-13"><cite path="|13A|16|06|.12">Regulation .12</cite> amended effective January 13, 2020 (47:1 Md. R. 14)</annotation>

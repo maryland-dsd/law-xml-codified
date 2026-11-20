@@ -51,8 +51,8 @@
         <volume start="36"/>
       </volumes>
     </print>
-    <recency through="2026-11-09">
-      <doc id="Maryland Register, Volume 53, Issue 22" type="register"/>
+    <recency through="2026-11-23">
+      <doc id="Maryland Register, Volume 53, Issue 23" type="register"/>
     </recency>
   </meta>
   <heading>Code of Maryland Regulations</heading>
@@ -92,4 +92,5 @@
   <xi:include href="./34/index.xml"/>
   <xi:include href="./35/index.xml"/>
   <xi:include href="./36/index.xml"/>
+  <xi:include href="./37/index.xml"/>
 </document>

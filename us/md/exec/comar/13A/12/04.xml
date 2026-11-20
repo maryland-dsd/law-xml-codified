@@ -731,28 +731,37 @@
     <prefix>Regulation</prefix>
     <num>.11</num>
     <heading>School Social Worker.</heading>
-    <text>To obtain educator licensure as a school social worker, the applicant shall:</text>
     <para>
       <num>A.</num>
-      <text>Be licensed by the Maryland State Board of Social Work Examiners as a:</text>
-      <para>
-        <num>(1)</num>
-        <text>Masters Social Worker;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Certified Social Worker; or</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Certified Social Worker — Clinical.</text>
-      </para>
+      <text>Definition. “School Social Worker” means an individual who is a mental health professional, with a license in social work, who provides services related to a person’s social, emotional, and life adjustment to school and/or society.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Complete 3 semester hours or State-approved CPD credits in special education coursework</text>
+      <text>To obtain an MSDE educator licensure as a school social worker, the applicant shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be licensed by the Maryland State Board of Social Work Examiners, Health Occupation Title 19. Social Workers, Subtitle 3 Licensing §19-301, Annotated Code of Maryland as a:</text>
+        <para>
+          <num>(a)</num>
+          <text>Licensed Masters Social Worker (LMSW);</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Licensed Certified Social Worker (LCSW); or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Licensed Certified Social Worker — Clinical (LCSW-C); and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Complete 3 semester hours or State-approved CPD credits in special education coursework.</text>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-121-F" target-path="13A|12|04|.11" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1228,6 +1237,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|04|.06">Regulation .06</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|04|.07|A.">Regulation .07A</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|13A|12|04|.10|A.">Regulation .10A</cite> amended effective May 11, 2026 (53:9 Md. R. 414)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23"><cite path="|13A|12|04|.11">Regulation .11</cite> amended effective November 23, 2026 (53:23 Md. R. 1168)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|04|.13|D.">Regulation .13D</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|04|.15|C.">Regulation .15C</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
     <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-107-F" target-path="13A|12|04|annos" type="History" display="false"/>

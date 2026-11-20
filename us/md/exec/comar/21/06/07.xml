@@ -372,7 +372,7 @@
       <text>Payment Bonds.</text>
       <para>
         <num>(1)</num>
-        <text>General. A payment bond is required for all construction contracts in excess of the applicable small procurement amount in <cite path="21.05.07.01">COMAR 21.05.07.01</cite> in the amount equal to at least 100 percent of the contract price. The payment bond shall be delivered by the contractor to the State not later than the time the contract is executed. If a contractor fails to deliver the required payment bond, the contractor's bid shall be rejected, its bid security shall be enforced, and award of the contract shall be made to the next lowest responsive and responsible bidder.</text>
+        <text>General. A payment bond is required for all construction contracts in excess of the applicable small procurement amount in <cite path="21.05.07.01">COMAR 21.05.07.01</cite> in the amount equal to at least 100 percent of the contract price. A payment bond may be required for a contract for services, supplies, maintenance, or construction-related services expected to exceed the applicable small procurement amount in <cite path="21.05.07.01">COMAR 21.05.07.01</cite>, as determined by the procurement officer. The payment bond shall be delivered by the contractor to the State not later than the time the contract is executed. If a contractor fails to deliver the required payment bond, the contractor's bid shall be rejected, its bid security shall be enforced, and award of the contract shall be made to the next lowest responsive and responsible bidder.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -393,6 +393,7 @@
     </para>
     <annotations>
       <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|06|07|.10" type="History" display="false"/>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-117-F" target-path="21|06|07|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -425,7 +426,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-16">Regulations <cite path="|21|06|07|.02">.02</cite>—<cite path="|21|06|07|.08">.08</cite> repealed effective March 16, 2015 (42:5 Md. R. 488)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|06|07|.09|A.">Regulation .09A</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-01-02"><cite path="|21|06|07|.09|D.">Regulation .09D</cite> amended effective March 16, 2015 (42:5 Md. R. 488); January 2, 2017 (43:26 Md. R. 1449)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|06|07|.10|A.">Regulation .10A</cite> amended effective January 2, 2017 (43:26 Md. R. 1449); August 31, 2026 (53:17 Md. R. 711)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|06|07|.10|B.">Regulation .10B</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23"><cite path="|21|06|07|.10|A.">Regulation .10A</cite> amended effective January 2, 2017 (43:26 Md. R. 1449); August 31, 2026 (53:17 Md. R. 711); November 23, 2026 (53:23 Md. R. 1168)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23"><cite path="|21|06|07|.10|B.">Regulation .10B</cite> amended effective August 31, 2026 (53:17 Md. R. 711); November 23, 2026 (53:23 Md. R. 1168)</annotation>
   </annotations>
 </container>

@@ -3,12 +3,125 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>Local Boards of Education</heading>
-  <section>
+  <section cache:ref-path="13A|02|01|.01">
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Rules for Meetings.</heading>
-    <text>The rules generally adopted by deliberative bodies for their government shall be observed by the local board of education. A motion or resolution may not be declared adopted without the concurrence of a majority of the whole board; namely: three members when the board consists of five, four members when the board consists of six or seven, and five members when the board consists of eight or nine.</text>
-    <annotations/>
+    <para>
+      <num>A.</num>
+      <text>This regulation governs the requirements for any meeting of a local board of education (local board). A local board shall comply with the rules generally adopted by deliberative bodies for their governance to ensure that all meetings are conducted in an open and transparent manner and as required by this Chapter.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined. In this chapter, the following terms have the meaning indicated.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Exceptional circumstances” means a temporary, unexpected event that makes an in-person meeting unfeasible or unsafe, such as a State or local government-declared public health emergency, severe weather event that closes schools and government offices, or an infrastructure failure that renders the designated meeting location unusable.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“In-person meeting” means the physical gathering of a quorum of a local board in a location to conduct public business.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Open session” means a meeting or part of a meeting of the local board that is open to the public as required by the Maryland Open Meetings Act, <cite doc="Md. Code" path="ggp">General Provisions Article, Title 3, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Regularly scheduled business meeting” means a recurring, pre-announced gathering of a quorum of the local board, conducted under a formal agenda for the purpose of conducting regular business.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Special meetings” means any non-regularly scheduled meeting of a local board that is typically called to address urgent or specific matters that arise between regular meetings.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Requirements for Regularly Scheduled Business Meetings.</text>
+      <para>
+        <num>(1)</num>
+        <text>In-Person Meetings Required. A local board shall meet in person for a monthly regularly scheduled business meeting that includes an open session.  The open session in-person meeting requirement does not apply to committees and task forces of the local board.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Public Observation. Regularly scheduled business meetings shall be held in a physical location that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Admits the public;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is reasonably accessible to individuals who wish to attend; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Permits the public to observe and hear the meeting.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Hybrid Meetings. Board members may participate remotely by video or telephone conference.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Virtual Meetings — Limited Exception.</text>
+        <para>
+          <num>(a)</num>
+          <text>A local board may only meet virtually for a regularly scheduled business meeting under exceptional circumstances or special meetings as defined in <cite path="13A|02|01|.01|B.">§B of this regulation</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A local board shall meet the notice, access, and transparency requirements of Maryland’s Open Meetings Act.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Closed Session. This regulation permits a local board to meet virtually when convening in closed session, consistent with the requirements of the Maryland Open Meetings Act, <cite doc="Md. Code" path="ggp">General Provisions Article, Title 3, Annotated Code of Maryland</cite>.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Public Comment.</text>
+      <para>
+        <num>(1)</num>
+        <text>Opportunity for Public Comment. The local board shall permit a period during at least one of its regularly scheduled business meetings each month to hear comments from members of the public.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Adoption of Policy. The local board shall adopt a written policy regarding the process, rules, and procedures for public comment, which shall include:</text>
+        <para>
+          <num>(a)</num>
+          <text>The rules for registering to speak;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any reasonable limitations on the time allotted to each speaker; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The subject matter that may be addressed during the public comment period.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The local board shall make its public comment policy readily available to the public on its official website.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Motions and Resolutions.</text>
+      <para>
+        <num>(1)</num>
+        <text>A motion or resolution may not be declared adopted without the concurrence of a majority of the members of the local board.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A majority of members of the local board consists of three members when the board consists of five, four members when the board consists of six or seven, and five members when the board consists of eight or nine.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-080-F" target-path="13A|02|01|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -235,7 +348,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-07-01"><cite path="|13A|02|01|.03|B.">Regulation .03B</cite> amended effective July 1, 1987 (14:10 Md. R. 1172)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1982-08-30"><cite path="|13A|02|01|.03|E.">Regulation .03E</cite> amended effective March 30, 1977 (4:7 Md. R. 580); June 15, 1979 (6:12 Md. R. 1052); May 2, 1980 (7:9 Md. R. 848); August 30, 1982 (9:17 Md. R. 1709)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-01-15" discontinuity="true">Chapter revised effective January 15, 1989 (15:27 Md. R. 3130)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-07-31"><cite path="|13A|02|01|.01">Regulation .01</cite> amended effective July 31, 2017 (44:15 Md. R. 760)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23"><cite path="|13A|02|01|.01">Regulation .01</cite> amended effective July 31, 2017 (44:15 Md. R. 760); November 23, 2026 (53:23 Md. R. 1168)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-10-19"><cite path="|13A|02|01|.02|C.">Regulation .02C</cite> amended effective December 16, 1996 (23:25 Md. R. 1786); November 2, 1998 (25:22 Md. R. 1652); October 19, 2009 (36:21 Md. R. 1592)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-08-15"><cite path="|13A|02|01|.03|B.">Regulation .03B</cite> amended effective August 15, 1994 (21:16 Md. R. 1385)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-09-24"><cite path="|13A|02|01|.04">Regulation .04</cite> amended effective September 24, 2018 (45:19 Md. R. 865)</annotation>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>Regulations and Related Procedures</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this title, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Department” means the Maryland Department of Disabilities.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Secretary” means the Secretary of the Maryland Department of Disabilities.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Unit” means all programs, divisions, boards, commissions, offices, and other bodies within the Department's jurisdiction.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-086-F" target-path="" type="History" display="false"/>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-082-F" target-path="37|01" type="History" display="false"/>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-082-F" target-path="37|01|01" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Secretary of the Department.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Secretary is responsible for promulgating the regulations of the Department and its units.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>For all units within the jurisdiction of the Department, the Secretary shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Review all proposed new regulations and amendments to regulations; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Adopt, revise, or disapprove the proposed action.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-086-F" target-path="" type="History" display="false"/>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-082-F" target-path="37|01" type="History" display="false"/>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-082-F" target-path="37|01|01" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Adoption of Regulations.</heading>
+    <text>The Secretary shall propose and adopt all new, amended, and repealed regulations for regular promulgation and emergency action as prescribed in the Administrative Procedure Act, Annotated Code of Maryland.</text>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-086-F" target-path="" type="History" display="false"/>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-082-F" target-path="37|01" type="History" display="false"/>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-082-F" target-path="37|01|01" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="ghu|7-110">Human Services Article, §7-110, </cite>Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23">Effective date: Effective Date: November 23, 2026 (53:23 Md. R. 1169)</annotation>
+  </annotations>
+  <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-082-F" target-path="37|01|01" type="History" display="false"/>
+</container>

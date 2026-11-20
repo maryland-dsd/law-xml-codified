@@ -469,7 +469,7 @@
     <heading>Family Child Care Teachers.</heading>
     <para>
       <num>A.</num>
-      <text>A family child care teacher in a child care home shall be 19 years old or older.</text>
+      <text>A family child care teacher in a child care home shall be 18 years old or older.</text>
     </para>
     <para>
       <num>B.</num>
@@ -587,7 +587,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Be 19 years old or older and:</text>
+          <text>Be 18 years old or older and:</text>
           <para>
             <num>(i)</num>
             <text>Meet the requirements of §B(1)(a), (b), (d), (e), and (2) of this regulation; and</text>
@@ -599,7 +599,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-111-F" target-path="13A|18|06|.06" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="13A|18|06|.06-1">
     <prefix>Regulation</prefix>
@@ -614,7 +616,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Is 19 years old or older;</text>
+        <text>Is 18 years old or older;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -721,7 +723,9 @@
         <text>Upon a showing of good cause, grant the request and allow the probationary teacher to remain in a teaching position at the child care home for a period of time determined by the Department and approved by the Superintendent.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-111-F" target-path="13A|18|06|.06-1" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="13A|18|06|.07">
     <prefix>Regulation</prefix>
@@ -881,9 +885,11 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-07-20"><cite path="|13A|18|06|.05|E.">Regulation .05E</cite> amended effective July 20, 2015 (42:14 Md. R. 884)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-01-13"><cite path="|13A|18|06|.05|E.">Regulation .05E</cite>—G amended effective January 13, 2020 (47:1 Md. R. 17)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-01-13"><cite path="|13A|18|06|.06">Regulation .06</cite> amended effective January 13, 2020 (47:1 Md. R. 17)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23"><cite path="|13A|18|06|.06|A.">Regulation .06A</cite>, E amended effective November 23, 2026 (53:23 Md. R. 1168)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-07-20"><cite path="|13A|18|06|.06|B.">Regulation .06B</cite> amended effective June 24, 2013 (40:12 Md. R. 1043); July 20, 2015 (42:14 Md. R. 884)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-06-24"><cite path="|13A|18|06|.06|F.">Regulation .06F</cite> repealed effective June 24, 2013 (40:12 Md. R. 1043)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13"><cite path="|13A|18|06|.06-1">Regulation .06-1</cite> adopted effective November 13, 2023 (50:22 Md. R. 977)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23"><cite path="|13A|18|06|.06-1A">Regulation .06-1A</cite> amended effective November 23, 2026 (53:23 Md. R. 1168)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-01-13"><cite path="|13A|18|06|.07|A.">Regulation .07A</cite> amended effective January 13, 2020 (47:1 Md. R. 17)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-07-20"><cite path="|13A|18|06|.07|B.">Regulation .07B</cite> amended effective July 20, 2015 (42:14 Md. R. 884)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-01-13"><cite path="|13A|18|06|.08">Regulation .08</cite> amended effective January 13, 2020 (47:1 Md. R. 17)</annotation>

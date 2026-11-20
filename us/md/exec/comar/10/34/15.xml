@@ -24,7 +24,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>Pass the MPJE; and</text>
+        <text>Pass one of the examinations in <cite path="10|34|15|.01|B.">§B of this regulation</cite>; and</text>
       </para>
       <para>
         <num>(5)</num>
@@ -33,9 +33,23 @@
     </para>
     <para>
       <num>B.</num>
+      <text>Examination Requirements. An individual applying for licensure as a pharmacist by reciprocity shall pass either:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Maryland Multistate Pharmacy Jurisprudence Examination (MPJE); or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Uniform Multistate Pharmacy Jurisprudence Examination (UMPJE) and the Maryland law webinar.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
       <text>The Board shall waive the requirements of <cite path="10|34|15|.01|A.|(5)">§A(5) of this regulation</cite> if the candidate for licensure by reciprocity submits to the Board written documentation that the candidate has passed an equivalent oral English competency exam in another state that was required by the other state's licensing procedures.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-100-F" target-path="10|34|15|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|12-205">12-205</cite> and <cite doc="Md. Code" path="gho|12-305">12-305</cite>, Annotated Code of Maryland</annotation>
@@ -45,5 +59,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-04-06"><cite path="|10|34|15|.01">Regulation .01</cite> repealed and new Regulation .01 adopted effective April 6, 1998 (25:7 Md. R. 527)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-06"><cite path="|10|34|15|.01">Regulation .01</cite> amended as an emergency provision effective January 7, 2022 (49:4 Md. R. 299) ); emergency status expired effective July 6, 2022</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-07-01"><cite path="|10|34|15|.01|A.">Regulation .01A</cite> amended effective July 1, 2010 (37:10 Md. R. 722)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23"><cite path="|10|34|15|.01">Regulation .01</cite> amended effective November 23, 2026 (53:23 Md. R. 1167)</annotation>
   </annotations>
 </container>

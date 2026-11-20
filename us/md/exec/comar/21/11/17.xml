@@ -1,0 +1,458 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>17</num>
+  <heading>Good Labor Practices Evaluation Factor</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Commissioner” means the Commissioner of Labor and Industry for the Maryland Department of Labor.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Department” means the Maryland Department of Labor.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Good labor practices evaluation factor” means a factor for good labor practices that will be used to evaluate technical proposals received for procurements being conducted through the competitive sealed proposals procurement method under <cite doc="Md. Code" path="gsf|13-104">State Finance and Procurement Article, §13-104, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Public body” has the meaning stated in <cite doc="Md. Code" path="gsf|17-201">State Finance and Procurement Article, §17-201, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Public work contract” has the meaning stated in <cite doc="Md. Code" path="gsf|17-201">State Finance and Procurement Article, §17-201, Annotated Code of Maryland</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-117-F" target-path="21|11|17" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Scope.</heading>
+    <para>
+      <num>A.</num>
+      <text>Applicability. This chapter applies to any competitive sealed proposals procurement that will result in:</text>
+      <para>
+        <num>(1)</num>
+        <text>A public work contract procured by a public body; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A contract subject to <cite doc="Md. Code" path="gsf|18-102">State Finance and Procurement Article, §18-102, Annotated Code of Maryland</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Master Contracts. For master contracting under <cite path="|21.05.13">COMAR 21.05.13</cite>, this chapter applies to secondary competition procurements using task order request for proposals and not to solicitations for awarding master contractor agreements.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Responsibility. The procurement officer is responsible for determining if a procurement is subject to the requirements of this chapter.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-117-F" target-path="21|11|17" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Procurement Procedures.</heading>
+    <para>
+      <num>A.</num>
+      <text>Solicitation. For any procurement subject to the requirements of this chapter:</text>
+      <para>
+        <num>(1)</num>
+        <text>The procurement officer shall include a good labor practices evaluation factor in the solicitation’s technical evaluation factors;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The good labor practices evaluation factor shall be:</text>
+        <para>
+          <num>(a)</num>
+          <text>If a point system is used for evaluation of proposals, 10 percent of the total allocable technical points; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If a point system is not used for evaluation of proposals, ranked in its relative order of importance;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The procurement officer shall include the affidavit found in <cite path="|21|11|17|.04">Regulation .04 of this chapter</cite> as an addendum in the solicitation; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The procurement officer shall provide notice in the solicitation that the affidavit must be completed and submitted with the offeror’s proposal for the offeror to qualify for application of the good labor practices evaluation factor.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Good Labor Practices Affidavit.</text>
+      <para>
+        <num>(1)</num>
+        <text>An offeror seeking to qualify for application of the good labor practices evaluation factor shall submit a completed affidavit to attest that, on any contract resulting from the solicitation, the contractor will adhere to certain good labor practices in connection with the performance of the contract.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The completed affidavit submitted by an offeror applies to any contract resulting from the solicitation and all subcontracts issued under that contract at any tier.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Completion of the affidavit is optional. If an offeror elects not to submit a completed affidavit, its proposal will still be evaluated but will not qualify for any points or other consideration under the good labor practices evaluation factor.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If a vendor wants to be added to the list described in <cite path="|21|11|17|.05|A.">Regulation .05A of this chapter</cite> independent of a procurement solicitation:</text>
+        <para>
+          <num>(a)</num>
+          <text>The vendor may submit a completed affidavit directly to the Department; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the vendor subsequently submits a proposal in response to a solicitation with a good labor practices evaluation factor, and wants to qualify for the evaluation factor, the vendor shall also submit a completed affidavit in accordance with the solicitation instructions.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Evaluation.</text>
+      <para>
+        <num>(1)</num>
+        <text>The procurement officer shall evaluate proposals received, including any proposals submitted with completed affidavits, in accordance with <cite path="21.05.03.03">COMAR 21.05.03.03</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For any proposal that includes a completed affidavit, prior to finalizing the technical evaluation, the procurement officer shall confirm that the offeror is not ineligible for the good labor practices evaluation factor, using the information available from the Commissioner under <cite path="|21|11|17|.05">Regulation .05 of this chapter</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Contract Award.</text>
+      <para>
+        <num>(1)</num>
+        <text>Award Provision. If the proposal recommended for contract award includes a completed affidavit, the procurement officer shall include the provision found in <cite path="21.07.01.32">COMAR 21.07.01.32</cite> in the contract.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Payment Bond. Not later than the time the contract is executed, if the proposal recommended for contract award includes a completed affidavit:</text>
+        <para>
+          <num>(a)</num>
+          <text>The offeror shall deliver a payment bond sufficient to ensure payment of wages to all employees performing work under the contract in accordance with <cite path="21.06.07.10">COMAR 21.06.07.10</cite> and solicitation and affidavit requirements; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The procurement officer shall save a copy of this payment bond to the procurement file.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Coordination with the Department. Within 1 week after contract award:</text>
+        <para>
+          <num>(a)</num>
+          <text>The procurement officer shall provide a copy to the Commissioner or designee of all offerors’ completed affidavits received in response to the solicitation; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If a proposal containing a completed affidavit receives a contract award, the procurement officer shall notify the Commissioner or designee that a new contract has been awarded to a vendor with an affidavit, noting the name of the vendor, date of award, contract period of performance, contract value, and a description of the contract scope of work.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Contract Administration. If the procurement officer has reason to believe the contractor or a subcontractor may not be following the good labor practices identified in the completed affidavit, the procurement officer shall report such a concern to the Commissioner or designee.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-117-F" target-path="21|11|17" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="21|11|17|.04">
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Good Labor Practices Affidavit.</heading>
+    <para>
+      <num>A.</num>
+      <text>A solicitation subject to the requirements of this chapter shall include the affidavit in <cite path="21|11|17|.04|B.">§B of this regulation</cite> as an addendum.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The solicitation addendum shall be in substantially the same form as follows:</text>
+      <text>GOOD LABOR PRACTICES AFFIDAVIT</text>
+    </para>
+    <para>
+      <num proof="done">A.</num>
+      <text>AUTHORITY</text>
+      <text>I HEREBY AFFIRM THAT:</text>
+      <text>I (print name)_____________________ possess the legal authority to make this Affidavit.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>ATTESTATION REGARDING GOOD LABOR PRACTICES</text>
+      <text>I ATTEST THAT ON ANY CONTRACT RESULTING FROM THIS PROPOSAL, THE UNDERSIGNED OFFEROR WILL:</text>
+      <para>
+        <num>(1)</num>
+        <text>Directly employ and classify all workers performing tasks under the contract as W-2 employees, with the exception of persons exempt under the <cite doc="Md. Code" path="gle">Labor and Employment Article, Title 3, Subtitle 9, Annotated Code of Maryland</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Pay all workers by hard or electronic check that is convertible on demand into United States currency, and comply with its obligation to furnish each worker with paystubs under the <cite doc="Md. Code" path="gle|3-504">Labor and Employment Article, § 3-504, Annotated Code of Maryland</cite>;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Not pay any workers in cash or cash equivalents.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Strictly comply with all legal obligations as an employer, including its obligations as an employer under:</text>
+        <para>
+          <num>(a)</num>
+          <text>Labor and Employment Article, Title 3 (Employment Standards and Conditions), Title 5 (Occupational Safety and Health), Title 8 (Unemployment Insurance), and Title 9 (Workers’ Compensation), Annotated Code of Maryland; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>State Finance and Procurement Article, Title 17 (Special Provisions—State and Local Subdivisions) and Title 18 (Living Wage), Annotated Code of Maryland, as applicable;</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Obtain from each subcontractor at any tier performing work under the contract a fully executed Subcontractor Requirements Notice and Acknowledgement Form, reflecting the subcontractor’s written acknowledgement that they have been notified of the requirements of items (1), (2), (3), and (4) above, and agreed to these requirements.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Reasonably in advance of subcontract execution, notify the procurement officer and the Maryland Department of Labor, Division of Labor and Industry (DLI.GLP@maryland.gov) of any subcontractors at any tier performing work under the contract on a Notice of Subcontractor Form that requires, at a minimum, the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>The registered business name of the subcontractor;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Contact information for the subcontractor, including the name, title, and contact information of the person responsible for overseeing performance of work on the contract;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A description of the scope of the subcontractor’s work;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The registered business name of the party that contracted with the subcontractor;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The expected dates of performance by the subcontractor; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>A copy of the subcontractor’s written acknowledgments obtained under Item (5) above;</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Successfully complete a comprehensive consultation visit by the Maryland Occupational Safety and Health program, as outlined at https://www.labor.maryland.gov/labor/mosh/volcsurveyrequest.shtml, following the start of work under the contract, within a reasonable time specified by the Division of Labor and Industry;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Be held jointly and severally liable as an employer for any violation(s) of a subcontractor under State Finance and Procurement Article, Title 17 or Title 18, Annotated Code of Maryland;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Promptly disclose in writing to the Division of Labor and Industry (DLI.GLP@maryland.gov), on a Disclosure Form supplied by the Division of Labor and Industry and made available both on the Division’s website and directly from the procurement officer, any suits, charges, demands, orders, findings, or adjudications made against the contractor or against any subcontractors at any tier in connection with violations of the requirements of Items (1), (2), (3), or (4) above; and</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>If the contract is subject to <cite doc="Md. Code" path="gsf|18-102">State Finance and Procurement Article, § 18-102, Annotated Code of Maryland</cite>:</text>
+        <para>
+          <num>(a)</num>
+          <text>Obtain a payment bond in accordance with <cite path="21.06.07.10">COMAR 21.06.07.10</cite> sufficient to guarantee full payment of the required wages to all employees performing work under the contract, including all employees employed by both the contractor and subcontractors at any tier; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Deliver this payment bond to the procurement officer not later than the time the contract is executed.</text>
+        </para>
+        <aftertext>The forms referenced in paragraphs (5), (6), and (9) above shall be available directly from the procurement officer and on the website of the Division of Labor and Industry.</aftertext>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>AFFIRMATION REGARDING ELIGIBILITY FOR GOOD LABOR PRACTICES EVALUATION FACTOR</text>
+      <text>I FURTHER AFFIRM THAT:</text>
+      <text>The undersigned offeror has not, within the prior 12 months, been determined by the Maryland Department of Labor, Division of Labor and Industry to be ineligible for the Good Labor Practices evaluation factor under <cite path="|21.11.17">COMAR 21.11.17</cite>.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>CERTIFICATION REGARDING PROHIBITED FRAUDULENT ACTIVITIES</text>
+      <text>I HEREBY CERTIFY THAT:</text>
+      <text>The undersigned offeror has fully complied with the <cite doc="Md. Code" path="gsf|14-905">State Finance and Procurement Article, §14-905(a), Annotated Code of Maryland</cite>, which provides that a person may not engage in prohibited conduct to qualify for a good labor practices evaluation factor, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Knowingly and with intent to defraud, fraudulently obtaining, attempting to obtain, or aiding another person in fraudulently obtaining or attempting to obtain public money, procurement contracts, or funds expended under a procurement contract to which the person is not entitled under the State Finance and Procurement Article;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Willfully and knowingly making or subscribing to any statement, declaration, or other document that is fraudulent or false as to any material matter, whether or not that falsity or fraud is committed with the knowledge or consent of the person authorized or required to present the declaration, statement, or document;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Willfully and knowingly aiding, assisting in, procuring, counseling, or advising the preparation or presentation of a declaration, statement, or other document that is fraudulent or false as to any material matter, regardless of whether that falsity or fraud is committed with the knowledge or consent of the person authorized or required to present the declaration, statement, or document;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Willfully and knowingly failing to file any declaration or notice with the unit that is required by <cite path="|21.11.17">COMAR 21.11.17</cite>; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Establishing, knowingly aiding in the establishment of, or exercising control over a business found to have violated a provision of items (1) through (4) of this subsection.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>ACKNOWLEDGEMENT</text>
+      <text>I ACKNOWLEDGE THAT this Affidavit shall be furnished to the procurement officer and may be distributed to units of: (1) the State of Maryland and (2) counties or other subdivisions of the State of Maryland. I further acknowledge that this Affidavit is subject to applicable laws of the United States and the State of Maryland, both criminal and civil, and that nothing in this Affidavit or any contract resulting from the submission of this proposal shall be construed to supersede, amend, modify or waive, on behalf of the State of Maryland, or any unit of the State of Maryland having jurisdiction, the exercise of any statutory right or remedy conferred by the Constitution and the laws of Maryland with respect to any misrepresentation made or any violation of the obligations, terms and covenants undertaken by the undersigned offeror with respect to (1) this Affidavit, (2) the contract, and (3) other Affidavits comprising part of the contract.</text>
+      <text>I DO SOLEMNLY DECLARE AND AFFIRM UNDER THE PENALTIES OF PERJURY THAT THE CONTENTS OF THIS AFFIDAVIT ARE TRUE AND CORRECT TO THE BEST OF MY KNOWLEDGE, INFORMATION, AND BELIEF.</text>
+      <text>Date: ______________</text>
+      <text>Offeror’s Name: ______________</text>
+      <text>By: ________________________________ (print name of Authorized Representative and Affiant)</text>
+      <text>_________________________________ (signature of Authorized Representative and Affiant)</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-117-F" target-path="21|11|17" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="21|11|17|.05">
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Department of Labor Procedures.</heading>
+    <para>
+      <num>A.</num>
+      <text>List of Affiants.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Commissioner or designee shall maintain a list for the preceding 12 months of all vendors that have submitted the affidavit described in <cite path="|21|11|17|.04">Regulation .04 of this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Commissioner or designee shall publish this list of affiants on the Department’s public website.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Alleged Non-compliance.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department may receive reports of alleged non-compliance from the procurement officer and sources other than the procurement officer, including the public.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department shall share reports of alleged non-compliance with the procurement officer.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Determining Non-compliance. When the Department has reason to believe that a vendor is not complying with the good labor practices identified in its completed affidavit:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Commissioner or designee may request information from the vendor related to its completed affidavit and labor practices;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Commissioner or designee may receive information regarding the vendor’s compliance from sources other than the vendor, including the public;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Commissioner shall determine whether the vendor is following the good labor practices identified in its completed affidavit, based on information received, and shall consider the following factors:</text>
+        <para>
+          <num>(a)</num>
+          <text>The circumstances, nature, and gravity of the non-compliance;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The scope of the non-compliance, including the number of persons affected by the non-compliance;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The willfulness of the conduct constituting the non-compliance, including the extent to which the existence of the non-compliance was known to the vendor but uncorrected by the vendor;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Past instances of non-compliance that the vendor may have had; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Any other factor the Commissioner finds appropriate in the public interest and within the purposes fairly intended by the provisions of State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|14-901">14-901</cite>—<cite doc="Md. Code" path="gsf|14-906">14-906</cite>, Annotated Code of Maryland.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Before finalizing a determination, if the Commissioner believes that a vendor is not complying with the good labor practices identified in its completed affidavit, the Commissioner or designee shall provide the vendor with the opportunity to respond to reports of alleged non-compliance.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Notification. If the Commissioner determines that a vendor is not following the good labor practices identified in its completed affidavit:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Commissioner or designee shall send a notification to the vendor with a description of the non-compliance, the Commissioner’s determination, and the date of the determination;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Commissioner or designee shall remove the vendor from the list maintained under <cite path="21|11|17|.05|A.">§A of this regulation</cite>; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The vendor will not be eligible for the good labor practices evaluation factor in solicitations for a period of 12 months following the date of the Commissioner’s determination.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Sharing eligibility information. The Commissioner or designee shall provide the list in <cite path="21|11|17|.05|A.">§A of this regulation</cite>, supplemented with a list of vendors who have been removed from the list in the past 12 months due to <cite path="21|11|17|.05|D.">§D of this regulation</cite>, to all procurement officers at least once every 6 months and upon request by a procurement officer.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-117-F" target-path="21|11|17" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Fraudulent Actions Prohibited; Penalties.</heading>
+    <para>
+      <num>A.</num>
+      <text>A person shall not engage in conduct prohibited under <cite doc="Md. Code" path="gsf|14-605">State Finance and Procurement Article, §14-605(a), Annotated Code of Maryland</cite> in connection with any act undertaken to qualify for a good labor practices evaluation factor.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The penalties established in State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|14-605">14-605</cite>(b) and (c) and 14-606, Annotated Code of Maryland of this title apply to violations of this chapter.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A person that willfully misrepresents or willfully omits any material matter in connection with an application, a proposal, or required disclosure for purposes of obtaining or retaining a contract or subcontract under this chapter may be subject to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Suspension or debarment procedures of this title; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Civil penalties under the Maryland False Claims Act.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-117-F" target-path="21|11|17" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|14-901">14-901</cite>—<cite doc="Md. Code" path="gsf|14-906">14-906</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23">Effective date: November 23, 2026 (53:23 Md. R. 1168)</annotation>
+  </annotations>
+  <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-117-F" target-path="21|11|17" type="History" display="false"/>
+</container>
