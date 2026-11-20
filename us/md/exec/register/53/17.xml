@@ -15,7 +15,7 @@
     <container name="emergency">
       <container codify:applicability="2026-07-20" codify:expire="2027-01-16">
         <num>26-094-E</num>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="14|17|23" codified:replace-or-insert-action="insert" codified:doc="Code of Maryland Regulations" codified:path="14|17|23|.01|annos">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="14|17|23">
           <container>
             <prefix>Chapter</prefix>
             <num>23</num>
