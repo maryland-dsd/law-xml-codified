@@ -4,6 +4,27 @@
   <num>2017</num>
   <section type="eo">
     <prefix>Executive Order</prefix>
+    <num>.31</num>
+    <heading>Recognition of the Maryland Indian Status of the Accohannock Tribe</heading>
+    <para>
+      <num>A.</num>
+      <text>The State formally recognizes the Accohannock Tribe’s Maryland Indian status.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Accohannock Tribe and its members shall be accorded all the rights and privileges to which formal State recognition of the Accohannock Tribe’s Maryland Indian status entitles them.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>This Executive Order should not be interpreted as creating any rights to land, entitlements of any kind, or any special privileges related to gaming.</text>
+    </para>
+    <annotations>
+      <annotation type="History" subtype="Administrative History" effective="2017-12-19">Effective Date: December 19, 2017</annotation>
+      <annotation app="2026-11-19" doc="Editor Action 2026-11-19" eff="2026-11-19" path="" target-path="01|01|2017|.31" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section type="eo">
+    <prefix>Executive Order</prefix>
     <num>.30</num>
     <heading>Governor's Council on Gangs and Violent Criminal Networks</heading>
     <para>

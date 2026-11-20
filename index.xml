@@ -44,10 +44,10 @@
     <history-start>2025-08-18</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="maryland-dsd/law-xml" commit="38d953577a732d29eae5de0570f148a49696c1f4"/>
+        <repository name="maryland-dsd/law-xml" commit="9d8ef5780ee111489bd8a14e3ec28c4e68fe4cf6"/>
       </repositories>
-      <platform version="2.23.5" reproducible="true"/>
-      <build-date>2026-11-18</build-date>
+      <platform version="2.23.6" reproducible="true"/>
+      <build-date>2026-11-20</build-date>
       <codified-date>2026-11-20</codified-date>
       <publication>publication/2026-11-06</publication>
     </build>
@@ -59,12 +59,13 @@
     <xi:include href="./us/md/exec/register/52/index.xml"/>
   </collection>
   <collection name="editorial-actions" display="false">
-    <xi:include href="./editorial-actions/2026-09-23.xml"/>
+    <xi:include href="./editorial-actions/2026-11-19.xml"/>
     <xi:include href="./editorial-actions/2026-11-18.xml"/>
     <xi:include href="./editorial-actions/2026-11-17.xml"/>
     <xi:include href="./editorial-actions/2026-10-21.xml"/>
     <xi:include href="./editorial-actions/2026-10-05.xml"/>
     <xi:include href="./editorial-actions/2026-09-29.xml"/>
+    <xi:include href="./editorial-actions/2026-09-23.xml"/>
     <xi:include href="./editorial-actions/2026-09-21.xml"/>
     <xi:include href="./editorial-actions/2026-09-15.xml"/>
     <xi:include href="./editorial-actions/2026-09-11.xml"/>
