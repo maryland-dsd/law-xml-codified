@@ -139,7 +139,6 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|04|.02" type="History" display="false" exp="2027-02-21"/>
       <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|04|.02" type="History" display="false"/>
     </annotations>
   </section>
@@ -258,7 +257,6 @@
       <text>Once an application is deemed abandoned under <cite path="10|39|04|.04|F.">§F of this regulation</cite>, an individual seeking MT certification must submit a new application and meet all of the requirements for MT certification and pay the required fees that are in effect at the time of re-application.</text>
     </para>
     <annotations>
-      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|04|.04" type="History" display="false" exp="2027-02-21"/>
       <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|04|.04" type="History" display="false"/>
     </annotations>
   </section>
@@ -371,7 +369,6 @@
       <text>For renewal applicants who are required to submit a CHRC, the Board may not renew a certificate without written documentation that the applicant has submitted to a CHRC in accordance with <cite doc="Md. Code" path="gho|8-303">Health Occupations Article, §8-303, Annotated Code of Maryland</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|04|.05" type="History" display="false" exp="2027-02-21"/>
       <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|04|.05" type="History" display="false"/>
     </annotations>
   </section>
@@ -589,23 +586,6 @@
     </para>
     <annotations/>
   </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.11</num>
-    <heading>Administrative Reinstatement.</heading>
-    <para>
-      <num>A.</num>
-      <text>The Board shall reinstate the certificate of a certificate holder who has failed to renew the certificate for any reason, if the certificate holder meets the renewal requirements in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-08, Annotated Code of Maryland and <cite path="|10|39|04|.05">Regulation .05 of this chapter</cite>.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>An applicant for administrative reinstatement who has failed to renew the certificate for a period of 1 year or more shall submit to a CHRC in accordance with <cite path="|10|39|04|.05|D.|(3)">Regulation .05D(3) of this chapter</cite> before the certificate is reinstated.</text>
-    </para>
-    <annotations>
-      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|04|.11" type="History" display="false" exp="2027-02-21"/>
-      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|04|.11" type="History" display="false"/>
-    </annotations>
-  </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>(a), <cite doc="Md. Code" path="gho|8-303">8-303</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-01—8-6A-16, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-04-24">Effective date: April 24, 2006 (33:8 Md. R. 734)</annotation>
@@ -622,4 +602,20 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-03-12"><cite path="|10|39|04|.09|C.">Regulation .09C</cite> amended effective March 12, 2007 (34:5 Md. R. 561)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|10|39|04|.11">Regulation .11</cite> adopted as an emergency provision effective August 25, 2026 (53:19 Md. R. 943); adopted permanently effective November 9, 2026 (53:22 Md. R 1109)</annotation>
   </annotations>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Administrative Reinstatement.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Board shall reinstate the certificate of a certificate holder who has failed to renew the certificate for any reason, if the certificate holder meets the renewal requirements in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-08, Annotated Code of Maryland and <cite path="|10|39|04|.05">Regulation .05 of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An applicant for administrative reinstatement who has failed to renew the certificate for a period of 1 year or more shall submit to a CHRC in accordance with <cite path="|10|39|04|.05|D.|(3)">Regulation .05D(3) of this chapter</cite> before the certificate is reinstated.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|04|.11" type="History" display="false"/>
+    </annotations>
+  </section>
 </container>
