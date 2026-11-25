@@ -2279,8 +2279,8 @@
       </container>
       <container codify:applicability="2026-05-24" codify:expire="2027-05-27">
         <num>25-138-E-I</num>
-        <codify:repeal history="false" doc="Code of Maryland Regulations" path="26|04|12" codified:doc="Code of Maryland Regulations" codified:path="26|04|12"/>
-        <codify:replace-or-insert history="none" path="26|04|12|annos" codified:replace-or-insert-action="insert">
+        <codify:repeal history="false" doc="Code of Maryland Regulations" path="26|04|12"/>
+        <codify:replace-or-insert history="none" path="26|04|12|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gen|9-217">Environment Article, §9-217</cite>.2, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
@@ -2289,14 +2289,14 @@
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-28">Regulations <cite path="|26|04|12|.01" doc="Code of Maryland Regulations">.01</cite> — <cite path="|26|04|12|.07" doc="Code of Maryland Regulations">.07</cite> repealed as an emergency provision effective November 25, 2025 (52:26 Md. R. 1306); emergency status extended to November 28, 2026 (53:13 Md. R. 583)</annotation>
           </annotations>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="26|31" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="26|31">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="26|31">
           <container>
             <prefix>Subtitle</prefix>
             <num>31</num>
             <heading>STATE BOARD OF ON-SITE WASTEWATER PROFESSIONALS</heading>
           </container>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="26|31|01" codified:replace-or-insert-action="insert">
+        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="26|31|01">
           <container>
             <prefix>Chapter</prefix>
             <num>01</num>
