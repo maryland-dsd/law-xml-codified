@@ -7,14 +7,42 @@
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Scope.</heading>
-    <text>This chapter applies to a licensed pharmacy in Maryland engaging in:</text>
+    <text>This chapter applies to a pharmacy licensed in Maryland engaging in:</text>
     <para>
       <num>A.</num>
-      <text>Compounding or mixing sterile prescription solutions or suspensions to be administered parenterally or by irrigation, inhalation, or intraocular routes; and</text>
+      <text>Compounding or mixing sterile prescription solutions or suspensions to be administered by:</text>
+      <para>
+        <num>(1)</num>
+        <text>Injection or infusion;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Irrigations for internal body cavities;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Ophthalmic;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Pulmonary inhalation;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Baths and soaks for live organs and tissues; or</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Implant routes;</text>
+      </para>
     </para>
     <para>
       <num>B.</num>
-      <text>Compounding of radiopharmaceuticals, except where U.S. Pharmacopeia (USP) General Chapter 797 Pharmaceutical Compounding — Sterile Preparations addresses radiopharmaceuticals, U.S. Pharmacopeia (USP) Chapter 821 Radioactivity, and U.S. Pharmacopeia (USP) Chapter 823 Radiopharmaceuticals for Positron Emission Tomography — Compounding would apply.</text>
+      <text>Compounding of Hazardous Drugs when U.S. Pharmacopeia (USP) General Chapter 797 Pharmaceutical Compounding––Sterile Preparations states that U.S. Pharmacopeia (USP) Chapter 800 Hazardous Drugs––Handling in Healthcare Settings would apply; and</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Compounding of radiopharmaceuticals, when U.S. Pharmacopeia (USP) General Chapter 797 Pharmaceutical Compounding––Sterile Preparations states that USP Chapter 825 Radiopharmaceuticals––Preparation, Compounding, Dispensing, and Repackaging would apply.</text>
     </para>
     <annotations>
       <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.01" type="History" display="false"/>
@@ -27,19 +55,15 @@
     <text>In this chapter, the following documents are incorporated by reference:</text>
     <para>
       <num>A.</num>
-      <text>U.S. Pharmacopeia (USP) General Chapter 797 Pharmaceutical Compounding — Sterile Preparations (USP 797 Standards), which has been incorporated by reference in 21 U.S.C. §351(b) (as amended).</text>
+      <text>U.S. Pharmacopeia (USP) General Chapter 797 Pharmaceutical Compounding—Sterile Preparations (USP 797 Standards), which has been incorporated by reference in 21 U.S.C. §353a (as amended);</text>
     </para>
     <para>
       <num>B.</num>
-      <text>U.S. Pharmacopeia (USP) General Chapter 795 Pharmaceutical Compounding — Non-Sterile Preparations (USP 795 Standards), which has been incorporated by reference in 21 U.S.C. §351(b) (as amended).</text>
+      <text>U.S. Pharmacopeia (USP) General Chapter 800 Hazardous Drugs––Handling in Healthcare Settings (USP 800 Standards), which has been incorporated by reference in 21 U.S.C. §353a (as amended); and</text>
     </para>
     <para>
       <num>C.</num>
-      <text>U.S. Pharmacopeia (USP) Chapter 821 Radioactivity, which has been incorporated by reference in 21 U.S.C. §351(b) (as amended).</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>U.S. Pharmacopeia (USP) Chapter 823 Radiopharmaceuticals for Positron Emission Tomography — Compounding, which has been incorporated by reference in 21 U.S.C. §351(b) (as amended).</text>
+      <text>U.S. Pharmacopeia (USP) Chapter 825 Radiopharmaceuticals—Preparation, Compounding, Dispensing, and Repackaging, which has been incorporated by reference in 21 U.S.C. §353a (as amended).</text>
     </para>
     <annotations>
       <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.02" type="History" display="false"/>
@@ -58,6 +82,42 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
+        <text>Active Pharmaceutical Ingredient.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Active pharmaceutical ingredient” means any substance or mixture of substances intended to be used in the compounding of a preparation, thereby becoming the active ingredient in that preparation, and furnishing pharmacological activity or other direct effect in:</text>
+          <para>
+            <num>(i)</num>
+            <text>The diagnosis;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The cure;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The mitigation;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>The treatment;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>The prevention of disease in humans and animals; or</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>How the structure and function of the body is affected.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Active pharmaceutical ingredient” does not include a conventionally manufactured drug product that is typically manufactured from an active pharmaceutical ingredient.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
         <text>“Adverse event” means:</text>
         <para>
           <num>(a)</num>
@@ -69,12 +129,8 @@
         </para>
       </para>
       <para>
-        <num>(2)</num>
-        <text>“Antineoplastic” means an agent that prevents the development, growth, or proliferation of malignant cells.</text>
-      </para>
-      <para>
         <num>(3)</num>
-        <text>“Anteroom” means the area, room, or rooms where personnel perform hand hygiene and garbing immediately adjacent to the designated clean room where the compounding of sterile preparations is performed.</text>
+        <text>“Anteroom” means an International Standards Organization Class 8 or cleaner room with fixed walls and doors where personnel hand hygiene, garbing procedures, and other activities that generate high particulate levels may be performed. The anteroom is the transition room between the unclassified area of the facility and the buffer room.</text>
       </para>
       <para>
         <num>(4)</num>
@@ -90,7 +146,11 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>“Biological safety cabinet” means a containment unit:</text>
+        <text>“Beyond-use date” means the date, or hour and the date, after which a CSP must not be used, stored, or transported. The date is determined from the date and time the preparation is compounded.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Biological safety cabinet” means a ventilated containment unit:</text>
         <para>
           <num>(a)</num>
           <text>Suitable for work involving agents that pose higher risk of exposure to operators during compounding; and</text>
@@ -101,20 +161,28 @@
         </para>
       </para>
       <para>
-        <num>(6)</num>
-        <text>“Clean room” means a room with an International Standards Organization (ISO) Class 5 environment or an ISO Class 7 environment that meets USP 797 Standards, inside which compounding occurs within an ISO Class 5 engineering control device such as a laminar airflow workstation or a biological safety cabinet.</text>
-      </para>
-      <para>
         <num>(7)</num>
-        <text>“Closed system vial transfer device (CSTD)” means a closed system drug transfer device that mechanically, not by means of vents or filters, prohibits the transfer of environmental contaminants into the system and the escape of hazardous drug aerosols or vapors into the environment.</text>
+        <text>“Buffer room” means an International Standards Organization Class 7 or cleaner room with fixed walls and doors where primary engineering controls that generate and maintain an International Standards Organization Class 5 environment are physically located. The buffer room may only be accessed through the anteroom or another buffer room.</text>
       </para>
       <para>
         <num>(8)</num>
-        <text>“Compounded sterile preparation” means sterile medication preparations, such as intravenous, epidural, and intraocular medications, compounded in the pharmacy using currently accepted aseptic compounding techniques under acceptable compounding conditions.</text>
+        <text>“Classified area” means an area that maintains an air quality classification based on the ISO standards required by US Pharmacopeia 797 Standards.</text>
       </para>
       <para>
         <num>(9)</num>
-        <text>“Compounding” means the preparation, mixing, assembling, packaging, or labeling of a drug:</text>
+        <text>“Cleanroom suite” means a classified area that consists of both an anteroom and a buffer room.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Closed-system drug-transfer device” means a drug-transfer device that mechanically prohibits the transfer of environmental contaminants into the system and the escape of hazardous drugs or vapor concentrations outside of the system.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>“Compounded sterile preparation (CSP)” means a medication preparation intended to be sterile that is created by combining, admixing, diluting, pooling, reconstituting, repackaging, assembling, or otherwise altering a drug product or bulk drug substance.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>“Compounding” means the process of combining, admixing, diluting, pooling, reconstituting, repackaging, assembling, or otherwise altering a drug product or bulk drug substance to create a sterile preparation:</text>
         <para>
           <num>(a)</num>
           <text>As the result of a practitioner’s prescription drug order or initiative based on the practitioner/patient relationship in the course of professional practice;</text>
@@ -129,20 +197,16 @@
         </para>
       </para>
       <para>
-        <num>(10)</num>
-        <text>“Compounding aseptic isolator” means an enclosed positive or negative pressure environment especially designed for sterile preparation compounding that maintains a physical barrier between the workspace and the operator.</text>
-      </para>
-      <para>
-        <num>(11)</num>
-        <text>“Controlled environment” means a designated area for compounding sterile preparations that consists of a clean room and an anteroom.</text>
-      </para>
-      <para>
-        <num>(12)</num>
-        <text>“Cytotoxic” means drug entities that are damaging or debilitating to cells, tissues, or organs.</text>
-      </para>
-      <para>
         <num>(13)</num>
-        <text>“Designee” means a public agency or private entity trained in:</text>
+        <text>“Compounding aseptic isolator” means a type of restricted access barrier that uses high efficiency particulate air filtration to provide an ISO Class 5 unidirectional air environment designed for compounding of sterile non-hazardous drugs.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>“Compounding aseptic containment isolator” means a type of restricted-access barrier that uses high efficiency particulate air filtration to provide an ISO Class 5 unidirectional air environment designed for the compounding of sterile hazardous drugs.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>“Designee” means a public agency or private entity recognized by the Board to conduct sterile compounding inspections that is trained in:</text>
         <para>
           <num>(a)</num>
           <text>USP 797 Standards;</text>
@@ -153,56 +217,124 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Both §B(13)(a) and (b) of this regulation.</text>
+          <text>Both §B(15)(a) and (b) of this regulation.</text>
         </para>
       </para>
       <para>
-        <num>(14)</num>
-        <text>“Laminar air flow workstation” means an ISO Class 5 (“Class 100”) laminar airflow hood inside which sterile compounding occurs.</text>
-      </para>
-      <para>
-        <num>(15)</num>
-        <text>“Media fill verification” means a process of practical examination to verify the aseptic technique of personnel or an aseptic process by manual manipulation of microbiological growth media which simulates compounding processes and techniques used in actual compounding procedures.</text>
-      </para>
-      <para>
         <num>(16)</num>
-        <text>“Parenteral” means routes of drug administration or fluid administration other than via the gastrointestinal tract.</text>
+        <text>“Dynamic operating conditions” means conditions in the compounding area in which operating personnel are present and simulating or performing compounding activities.</text>
       </para>
       <para>
         <num>(17)</num>
-        <text>“Pharmacist” means an individual who is licensed to practice pharmacy regardless of the location where the activities of practice are performed.</text>
+        <text>“Expiration” means the time period during which a manufactured product is expected to remain stable, or retain its identity, strength, quality, and purity, when it is properly stored according to its labeled storage conditions.</text>
       </para>
       <para>
         <num>(18)</num>
-        <text>“Pharmacy” means an establishment in which prescription or nonprescription drugs or devices are compounded, dispensed, or distributed.</text>
+        <text>“Hazardous drug” means a drug included on the National Institute for Occupational Safety and Health list of antineoplastic and other hazardous drugs in healthcare settings, which are identified by at least one of the following six criteria:</text>
+        <para>
+          <num>(a)</num>
+          <text>Carcinogenicity;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Teratogenicity or developmental toxicity;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Reproductive toxicity in humans;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Organ toxicity at low dose in humans or animals;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Genotoxicity; or</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>New drugs that mimic existing hazardous drugs in structure or toxicity<em>.</em></text>
+        </para>
       </para>
       <para>
         <num>(19)</num>
-        <text>“Pyrogen testing” means an analysis of sterile preparations for the presence of cell material from microbiological organisms in sufficient quantity to elicit a febrile reaction.</text>
+        <text>“Healthcare practitioner intermediary” means an entity or person that connects healthcare providers with patients, payers, or other relevant parties.</text>
       </para>
       <para>
         <num>(20)</num>
-        <text>“Risk level” means a risk level of low, medium, or high as defined in USP 797 Standards.</text>
+        <text>“High efficiency particulate air filtration” means a filtration system that has the ability to capture particles at its most penetrating particle size and removing <cite path="|99.97">99.97</cite> percent of particles at .03 micrometers.</text>
       </para>
       <para>
         <num>(21)</num>
-        <text>“Sterile” means free from living microorganisms or any other contaminants.</text>
+        <text>“International Organization for Standardization class” means an air-quality classification from the International Organization for Standardization.</text>
       </para>
       <para>
         <num>(22)</num>
-        <text>“Sterile compounding” means compounding of biologics, diagnostics, drugs, nutrients, and radiopharmaceuticals that, under USP 797 Standards, are prepared using aseptic techniques.</text>
+        <text>“Laminar airflow system” means a device or zone within a buffer room that provides an International Standards Organization Class 5 or better air quality environment for sterile compounding. The system provides a unidirectional high efficiency particulate air-filtered airflow.</text>
       </para>
       <para>
         <num>(23)</num>
-        <text>“Total parenteral nutrition” means providing caloric needs by the parenteral route for a patient who is unable to ingest sufficient calories.</text>
+        <text>“Laminar airflow workbench” means a device that is a type of laminar airflow system that provides an International Standards Organization Class 5 or better air quality environment for sterile compounding. The device provides a unidirectional high efficiency particulate air-filtered airflow.</text>
       </para>
       <para>
         <num>(24)</num>
-        <text>“USP 795 Standards” means standards set forth in the US Pharmacopeia (USP) General Chapter 795 Pharmaceutical Compounding — Non-Sterile Preparations.</text>
+        <text>“Media-fill test” means a simulation used to qualify processes and personnel engaged in sterile compounding to ensure that the processes and personnel are able to prepare compounding sterile preparations without contamination.</text>
       </para>
       <para>
         <num>(25)</num>
+        <text>“National Institute for Occupational Safety and Health list” means the list maintained by the National Institute for Occupational Safety and Health of antineoplastic and other hazardous drugs used in healthcare.</text>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text>“Parenteral” means routes of drug administration or fluid administration other than via the gastrointestinal tract.</text>
+      </para>
+      <para>
+        <num>(27)</num>
+        <text>“Pharmacist” means an individual who is licensed to practice pharmacy regardless of the location where the activities of practice are performed.</text>
+      </para>
+      <para>
+        <num>(28)</num>
+        <text>“Pharmacy” means an establishment in which prescription or nonprescription drugs or devices are compounded, dispensed, or distributed.</text>
+      </para>
+      <para>
+        <num>(29)</num>
+        <text>“Primary engineering control” means a device or zone that provides an International Standards Organization Class 5 air quality environment for sterile compounding.</text>
+      </para>
+      <para>
+        <num>(30)</num>
+        <text>“Pyrogen testing” means an analysis of sterile preparations for the presence of cell material from microbiological organisms in sufficient quantity to elicit a febrile reaction.</text>
+      </para>
+      <para>
+        <num>(31)</num>
+        <text>“Restricted-access barrier system” means an enclosure that provides high efficiency particulate air-filtered International Standards Organization Class 5 unidirectional air that allows for the ingress or egress, or both, of materials through defined openings that have been designed and validated to preclude the transfer of contamination, and that generally are not to be opened during operations.</text>
+      </para>
+      <para>
+        <num>(32)</num>
+        <text>“Secondary engineering control” means a space which provides a classified area where primary engineering controls are placed.</text>
+      </para>
+      <para>
+        <num>(33)</num>
+        <text>“Sterile” means free from viable microorganisms.</text>
+      </para>
+      <para>
+        <num>(34)</num>
+        <text>“Sterile compounding” means the process of combining, admixing, diluting, pooling, reconstituting, repackaging, assembling, or otherwise altering a drug product or bulk drug substance to create a preparation using aseptic techniques in accordance with US Pharmacopeia 797 Standards.</text>
+      </para>
+      <para>
+        <num>(35)</num>
+        <text>“Total parenteral nutrition” means providing nutritional needs by the parenteral route for a patient who is unable to ingest sufficient calories.</text>
+      </para>
+      <para>
+        <num>(36)</num>
         <text>“USP 797 Standards” means standards set forth in the U.S. Pharmacopeia (USP) General Chapter 797 Pharmaceutical Compounding — Sterile Preparations.</text>
+      </para>
+      <para>
+        <num>(37)</num>
+        <text>“US Pharmacopeia 800 Standards” means the standards set forth in US Pharmacopeia General Chapter 800 Hazardous Drugs––Handling in Healthcare Settings.</text>
+      </para>
+      <para>
+        <num>(38)</num>
+        <text>“US Pharmacopeia 825 Standards” means the standards set forth in US Pharmacopeia General Chapter 825 Radiopharmaceuticals––Preparation, Compounding, Dispensing, and Repackaging.</text>
       </para>
     </para>
     <annotations>
@@ -216,11 +348,11 @@
     <text>The compounding, preparation, and dispensing of compounded sterile preparations shall be accomplished in a pharmacy environment subject to State and federal laws, regulations, and standards.</text>
     <annotations/>
   </section>
-  <section cache:ref-path="10|34|19|.05">
+  <section>
     <prefix>Regulation</prefix>
     <num>.05</num>
     <heading>General Requirements.</heading>
-    <text>A licensed pharmacist who has appropriate practical and didactic training in compounding sterile preparations, clean room technology, laminar flow technology, quality assurance techniques, and clinical application of intravenous drug therapy shall control and supervise the section of the pharmacy that prepares compounded sterile preparations and is responsible for, at a minimum, the following:</text>
+    <text>A licensed supervising pharmacist who has appropriate practical and didactic training in compounding sterile preparations, cleanroom technology, laminar flow technology, quality assurance techniques, and clinical application of intravenous drug therapy shall control and supervise the section of the pharmacy that prepares compounded sterile preparations and is responsible for, at a minimum, the following:</text>
     <para>
       <num>A.</num>
       <text>Preparation of compounded sterile preparations within the pharmacy or decentralized pharmacy;</text>
@@ -231,15 +363,43 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Labeling of containers of compounded sterile preparations compounded within the pharmacy;</text>
+      <text>Labeling of containers of compounded sterile preparations compounded within or dispensed by the pharmacy;</text>
     </para>
     <para>
       <num>D.</num>
-      <text>Recording of transactions of the pharmacy as may be applicable to State and federal laws and regulations, as may be necessary to maintain accurate control over, and accountability for, pharmaceutical materials; and</text>
+      <text>Recording of transactions of the pharmacy as may be applicable to State and federal laws and regulations, as may be necessary to maintain accurate control over, and accountability for, pharmaceutical materials;</text>
     </para>
     <para>
       <num>E.</num>
-      <text>Ensuring that licensed pharmacists meeting the requirements of <cite path="10|34|19|.05|A.">§A of this regulation</cite>, or registered pharmacy technicians under direct supervision of a licensed pharmacist meeting the requirements of <cite path="10|34|19|.05|A.">§A of this regulation</cite>, prepare, compound, and dispense compounded sterile preparations.</text>
+      <text>Overseeing an initial and ongoing training and competency program for all staff with duties within the cleanroom in accordance with US Pharmacopeia 797 Standards and <cite path="|10|34|19|.14">Regulation .14 of this chapter</cite>;</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Ensuring engineering controls and equipment utilized for compounding meet the US Pharmacopeia 797 Standards and <cite path="|10|34|19|.09">Regulation .09 of this chapter</cite>;</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Ensuring policies and procedures, provided in US Pharmacopeia 797 Standards and <cite path="|10|34|19|.12">Regulation .12 of this chapter</cite>, are implemented, maintained, and reviewed on an annual basis; and</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Overseeing a quality assurance and quality control program to monitor:</text>
+      <para>
+        <num>(1)</num>
+        <text>Adherence to policies and procedures;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Prevention and detection of errors and quality issues;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Investigation of complaints and reported adverse events; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Corrective actions and recall programs.</text>
+      </para>
     </para>
     <annotations>
       <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.05" type="History" display="false"/>
@@ -251,26 +411,30 @@
     <heading>Special Handling, Packaging, Labeling, and Beyond Use Dating.</heading>
     <para>
       <num>A.</num>
-      <text>The pharmacy shall make available special handling and packaging materials to maintain container integrity and drug stability of the prepared prescription orders, including antineoplastic or other hazardous sterile preparations, during handling and administration to the patient including:</text>
+      <text>The pharmacy shall make available special handling and packaging materials to maintain container integrity and drug stability of the prepared prescription orders, including hazardous sterile preparations, during handling and administration to the patient including:</text>
       <para>
         <num>(1)</num>
-        <text>A reasonable effort to provide tamper-evident packaging if appropriate to setting;</text>
+        <text>A reasonable effort to provide tamper-evident packaging on compounded sterile preparations;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Proper in-transit storage consistent with preparation labeling; and</text>
+        <text>Proper in-transit storage consistent with preparation labeling;</text>
       </para>
       <para>
         <num>(3)</num>
+        <text>For medications not distributed to a Healthcare Practitioner Intermediary, the enclosure of information to inform the patient if the prescription is a temperature sensitive medication that is at risk for damage due to extreme hot or cold temperatures or moisture; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
         <text>Delivery to the patient within a reasonable time.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>The dispensed container for any compounded sterile preparation shall include labeling according to Maryland law and regulations, in addition to the following information that is required by federal law:</text>
+      <text>The dispensed container for any compounded sterile preparation shall include labeling according to State law and regulations, in addition to the following information:</text>
       <para>
         <num>(1)</num>
-        <text>The date of preparation unless otherwise readily retrievable from prescription records;</text>
+        <text>The date of the preparation unless otherwise readily retrievable from prescription records;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -302,7 +466,7 @@
       </para>
       <para>
         <num>(9)</num>
-        <text>The name or identifying initials of the pharmacist who checked or prepared the compounded sterile preparation unless otherwise readily retrievable from prescription records;</text>
+        <text>The name or identifying initials of the individual who prepared the compounded sterile preparation and the pharmacist who checked the compounded sterile preparation unless otherwise readily retrievable from prescription records;</text>
       </para>
       <para>
         <num>(10)</num>
@@ -310,7 +474,7 @@
       </para>
       <para>
         <num>(11)</num>
-        <text>The beyond-use/expiration dating and time of the compounded sterile preparation, and if no time is stated, the time is presumed to be at 11:59 p.m. of the stated beyond use date;</text>
+        <text>The beyond-use date and time of the compounded sterile preparation, and if no time is stated, the time is presumed to be at 11:59 p.m. of the stated date;</text>
       </para>
       <para>
         <num>(12)</num>
@@ -318,16 +482,24 @@
       </para>
       <para>
         <num>(13)</num>
-        <text>A pertinent warning consistent with applicable federal and State law that cytotoxic preparations are biohazardous, when applicable.</text>
+        <text>A pertinent warning consistent with applicable federal and State law of the presence of hazardous drugs including instructions for safe handling and proper disposal.</text>
       </para>
     </para>
     <para>
       <num>C.</num>
-      <text>A pharmacy compounding sterile infusion preparations shall provide a 24-hour telephone number to allow its patients or other health care providers who may be administering its prescriptions to contact its pharmacists.</text>
+      <text>A pharmacy compounding sterile preparations shall provide a 24-hour telephone number to allow its patients or other health care providers who may be administering its prescriptions to contact its pharmacists.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>Expiration or Beyond-Use Dating. In the absence of direct testing evidence, as detailed in the Stability Criteria and Beyond Use Dating section of USP 795 Standards, the pharmacist shall use “beyond-use dating” as determined by USP 797 Standards and reference materials as cited in <cite path="|10|34|19|.16">Regulation .16 of this chapter</cite>.</text>
+      <text>Beyond-use Dates.</text>
+      <para>
+        <num>(1)</num>
+        <text>A pharmacy shall use timeframes for beyond-use dates as determined by US Pharmacopeia 797 Category 1 or 2 Standards; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Beyond-use dates greater than those set forth in US Pharmacopeia 797 Category 1 or 2 Standards shall comply with US Pharmacopeia 797 Category 3 Standards and appropriate reference materials cited in <cite path="|10|34|19|.16">Regulation .16 of this chapter</cite>.</text>
+      </para>
     </para>
     <annotations>
       <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.06" type="History" display="false"/>
@@ -377,7 +549,15 @@
         <text>For a pharmacy preparing compounded sterile preparations, the following records shall be maintained for at least 5 years:</text>
         <para>
           <num>(a)</num>
-          <text>The training and competency evaluation of employees in sterile preparation procedures;</text>
+          <text>The training and competency evaluation of:</text>
+          <para>
+            <num>(i)</num>
+            <text>Pharmacy employees in sterile preparation procedures; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Non-pharmacy employees responsible for the maintenance and cleaning of the cleanroom;</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
@@ -385,23 +565,79 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Certification of the sterile compounding environment, including ISO 5 workstations and the clean and anterooms;</text>
+          <text>Incubator temperatures when in use;</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>Other facility quality control logs specific to the pharmacy's policies and procedures, for example, cleaning logs for facilities and equipment;</text>
+          <text>Certification of the classified area, including ISO 5 workstations cleanrooms, and other controlled rooms, such as hazardous drug storage areas;</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>Records documenting inspection for expired or recalled pharmaceutical preparations or raw ingredients;</text>
+          <text>Other daily facility quality control logs specific to the pharmacy's policies and procedures, such as:</text>
+          <para>
+            <num>(i)</num>
+            <text>Cleaning logs for facilities and equipment;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Cleanroom pressures; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Temperature and humidity;</text>
+          </para>
         </para>
         <para>
           <num>(f)</num>
-          <text>Preparation records including compounding work sheets, and records of the registered pharmacy technicians' checking/sign-off process; and</text>
+          <text>Records documenting inspection for expired or recalled pharmaceutical preparations, components, or raw ingredients;</text>
         </para>
         <para>
           <num>(g)</num>
-          <text>Preparation records including compounding work sheets and records of the pharmacists' checking/sign-off process.</text>
+          <text>Trending of microbiological growth and actions taken for adverse trending;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Investigations, corrective actions, and preventative measures for any adverse event;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Certificates of analysis of active pharmaceutical ingredient components of compounded sterile preparations, and microbial growth;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Safety data sheets of active pharmaceutical ingredients utilized in the process of sterile compounding and other chemicals and cleaning agents utilized in the cleanroom suite;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Documentation of recalls initiated by the pharmacy of compounded sterile products;</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Compounding and preparation records, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>Worksheets;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Processing checklists;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Procedure sign-off forms; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Final check logs;</text>
+          </para>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Master formulation record as described by US Pharmacopeia 797 Standards for all compounded sterile preparations prepared from nonsterile ingredients or compounded sterile preparations prepared for more than one patient; and</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>The results and documentation of applicable end product sterilization, testing, and validation.</text>
         </para>
       </para>
       <para>
@@ -417,20 +653,20 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Expiration dates;</text>
+          <text>Expiration dates of components;</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>Drug/diluent amounts; and</text>
+          <text>Drug/diluent amounts;</text>
         </para>
         <para>
           <num>(e)</num>
+          <text>Assigned beyond-use dates; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
           <text>Date on which the compounded sterile batch preparations were prepared.</text>
         </para>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>A pharmacy shall maintain records of media fill verification results for 5 years.</text>
       </para>
     </para>
     <annotations>
@@ -443,19 +679,27 @@
     <heading>Batch Preparation.</heading>
     <para>
       <num>A.</num>
-      <text>A pharmacist may prepare batched sterile preparations for future use in limited quantities supported by prior valid prescriptions or physician orders before receiving a valid written prescription or medication order.</text>
+      <text>A pharmacy may prepare batched sterile preparations for future use before receiving a valid written prescription or medication order.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Batch preparation of specific compounded sterile preparations is acceptable if the:</text>
+      <text>Batch preparation of specific compounded sterile preparations is acceptable if the pharmacy:</text>
       <para>
         <num>(1)</num>
-        <text>Pharmacist can document a history of valid prescriptions or physician orders that have been generated solely within an established professional prescriber-patient-pharmacist relationship; and</text>
+        <text>Compounds limited quantities based on a documented history of valid prescriptions or physician orders that have been generated solely within an established professional prescriber-patient-pharmacist relationship; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Pharmacy maintains the prescription on file for such preparations dispensed.</text>
+        <text>Maintains the prescription on file for each compounded sterile preparation dispensed.</text>
       </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Batch preparation labeling shall meet the requirements of <cite path="|10|34|19|.06">Regulation .06 of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Record keeping of batch preparations shall meet the requirements of <cite path="|10|34|19|.07">Regulation .07 of this chapter</cite>.</text>
     </para>
     <annotations>
       <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.08" type="History" display="false"/>
@@ -467,42 +711,46 @@
     <heading>Minimum Facility Requirements.</heading>
     <para>
       <num>A.</num>
-      <text>Controlled Environment.</text>
+      <text>Classified Area.</text>
       <para>
         <num>(1)</num>
-        <text>The pharmacy shall have a controlled environment that meets USP 797 Standards.</text>
+        <text>The pharmacy shall have a classified area that meets USP 797, 800, or 825 Standards, as applicable.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>A pharmacist shall ensure that the controlled environment is:</text>
+        <text>The pharmacy shall ensure that the classified area is:</text>
         <para>
           <num>(a)</num>
           <text>Accessible only to designated personnel; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Used only for the preparation of compounded sterile preparations, or such other tasks that require a controlled environment.</text>
+          <text>Used only for the preparation of compounded sterile preparations, or other tasks that require a classified area.</text>
         </para>
       </para>
       <para>
         <num>(3)</num>
-        <text>The permit holder shall ensure that the controlled environment is:</text>
+        <text>The pharmacy shall ensure that the classified area is:</text>
         <para>
           <num>(a)</num>
           <text>Structurally isolated from other areas within the pharmacy by means of restricted entry or access; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Air conditioned to maintain a temperature of the controlled environment according to USP 797 standards.</text>
+          <text>Air conditioned to maintain the temperature and humidity of the classified area according to USP 797 Standards.</text>
         </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If compounding occurs outside of a cleanroom, the area and procedures shall meet US Pharmacopeia 797 Standards for a segregated compounding area or for immediate use administration.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>Controlled Environment — Clean Room. The permit holder shall ensure that the clean room in the controlled environment:</text>
+      <text>Buffer Room. The pharmacy shall ensure that the buffer room in the classified area:</text>
       <para>
         <num>(1)</num>
-        <text>Meets USP 797 Standards for design and USP 797 performance criteria quality standards for clean rooms;</text>
+        <text>Meets USP 797 Standards for design and USP 797 Standards for performance criteria quality for buffer rooms;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -514,22 +762,22 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>If cytotoxic agents are routinely used in compounding preparations, contains room or rooms equipped with special pressurization requirements consistent with USP 797 Standards and the National Institute for Occupational Safety and Health (NIOSH) standards;</text>
+        <text>If hazardous drugs are used in compounded preparations, contains room or rooms equipped with special pressurization requirements consistent with USP 797 and 800 Standards;</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>Has in place appropriate environmental engineering control devices capable of maintaining USP 797 air-quality standards during normal compounding activity; and</text>
+        <text>Has in place appropriate environmental engineering control devices capable of maintaining USP 797 Standards for air-quality during routine operations and under dynamic operating conditions; and</text>
       </para>
       <para>
         <num>(6)</num>
         <text>Contains the following equipment:</text>
         <para>
           <num>(a)</num>
-          <text>A laminar airflow workstation or other suitable International Standards Organization (ISO) Class 5 compounding environment;</text>
+          <text>Primary engineering controls validated to maintain International Standards Organization (ISO) Class 5 compounding environment during routine operations and under dynamic operating conditions;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Waste containers that are approved by Occupational Safety and Health Administration (OSHA) for used needles and syringes, and for chemotherapy waste; and</text>
+          <text>Waste containers that are approved by the Occupational Safety and Health Administration (OSHA) for used needles and syringes, and for hazardous drug waste; and</text>
         </para>
         <para>
           <num>(c)</num>
@@ -539,7 +787,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Controlled Environment — Anteroom. The permit holder shall ensure that the anteroom in the controlled environment:</text>
+      <text>Anteroom. The pharmacy shall ensure that the anteroom in the classified area:</text>
       <para>
         <num>(1)</num>
         <text>Meets USP 797 Standards for design and USP 797 performance criteria quality standards for anterooms; and</text>
@@ -549,32 +797,24 @@
         <text>Contains the following equipment:</text>
         <para>
           <num>(a)</num>
-          <text>A sink with hot and cold running water;</text>
+          <text>A sink with hot and cold running water:</text>
+          <para>
+            <num>(i)</num>
+            <text>At least a meter away from a primary engineering control within a segregated compounding area; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If outside the cleanroom suite, the pharmacy shall have a policy and procedure on how to maintain hand hygiene while entering the cleanroom and donning protective garb;</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>Waste containers for personal protective equipment;</text>
+          <text>Waste containers; and</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>An eyewash station or sink design suitable for flushing an eye injury; and</text>
+          <text>An eyewash station or sink design suitable for flushing an eye injury.</text>
         </para>
-        <para>
-          <num>(d)</num>
-          <text>A hazardous waste spill kit, if applicable.</text>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>The requirements specified in §§B(1) and C(1) of this regulation are not applicable if a compounding aseptic isolator is used to compound sterile preparations in accordance with the:</text>
-      <para>
-        <num>(1)</num>
-        <text>Compounding aseptic isolator conditions set forth in USP 797 Standards; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Isolator vendor or manufacturer specifications.</text>
       </para>
     </para>
     <annotations>
@@ -587,14 +827,14 @@
     <heading>Minimum Requirements for Equipment.</heading>
     <para>
       <num>A.</num>
-      <text>The permit holder shall provide at least the following equipment that is maintained in working order:</text>
+      <text>The pharmacy shall provide at least the following equipment that is maintained in working order:</text>
       <para>
         <num>(1)</num>
         <text>Adequate refrigerator and freezer space (if applicable);</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>A sink and wash area in the anteroom;</text>
+        <text>A sink for hand hygiene and if applicable, cleaning equipment;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -605,16 +845,16 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Cytotoxic waste including disposable apparel used in its preparation, if applicable;</text>
+          <text>Hazardous drug waste including disposable personal protective equipment used in its preparation, if applicable;</text>
         </para>
       </para>
       <para>
         <num>(4)</num>
-        <text>Laminar air flow workstation or compounding aseptic isolator that meets USP 797 Standards, dedicated for products other than antineoplastics;</text>
+        <text>Primary engineering controls that meet USP 797 Standards, dedicated for products other than hazardous drugs;</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>If applicable to types of preparations compounded, biological safety cabinet, or compounding aseptic isolator that meets USP 797 Standards, dedicated for use with antineoplastics or other hazardous sterile preparations;</text>
+        <text>If applicable to types of preparations compounded, biological safety cabinet, or compounding aseptic containment isolator that meets USP 797 Standards, dedicated for use with hazardous or radiopharmaceutical sterile preparations;</text>
       </para>
       <para>
         <num>(6)</num>
@@ -622,35 +862,23 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>A device for light/dark field examination.</text>
+        <text>A dedicated space or equipment for light/dark field examination.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>If used, the permit holder shall provide the following equipment that is maintained in working order, calibrated, or certified where appropriate:</text>
+      <text>All equipment, devices, and monitoring tools utilized in the sterile compounding process shall be:</text>
       <para>
         <num>(1)</num>
-        <text>Autoclave;</text>
+        <text>Maintained in working order;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Automated compounding devices (for example, total parenteral nutrition compounding pumps);</text>
+        <text>Calibrated; and</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Electronic balance;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Convection oven;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Thermometers or other temperature device; and</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>Incubator.</text>
+        <text>Certified, where appropriate.</text>
       </para>
     </para>
     <annotations>
@@ -664,7 +892,7 @@
     <text>A pharmacy engaging in compounding sterile preparations shall maintain adequate stock levels of the following supplies according to USP 797 Standards, including but not limited to:</text>
     <para>
       <num>A.</num>
-      <text>Personal protective equipment:</text>
+      <text>Garb for sterile compounding including:</text>
       <para>
         <num>(1)</num>
         <text>Sterile gloves;</text>
@@ -691,7 +919,7 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>Other personal protective equipment;</text>
+        <text>Other garb and personal protective equipment for handling hazardous drugs as required per US Pharmacopeia 800 Standards;</text>
       </para>
     </para>
     <para>
@@ -700,7 +928,15 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Disinfectant cleaning agents as specified in USP 797 Standards, including 70 percent sterile isopropyl alcohol;</text>
+      <text>Cleaning agents as specified in USP 797 Standards including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Disinfectant and sporicidal cleaning agents; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Water, if utilized as part of the primary engineering control cleaning process, such as for rinsing surfaces or diluting cleaning agents, which shall be sterile;</text>
+      </para>
     </para>
     <para>
       <num>D.</num>
@@ -708,19 +944,35 @@
     </para>
     <para>
       <num>E.</num>
-      <text>Hand washing materials, including antimicrobial skin cleanser;</text>
+      <text>Hand washing materials, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Nail picks;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Antimicrobial skin cleanser; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Alcohol-based hand rub;</text>
+      </para>
     </para>
     <para>
       <num>F.</num>
-      <text>Adequate equipment and materials for antineoplastic or cytotoxic agent spills;</text>
+      <text>Sesventyt at percent sterile isopropyl or ethyl alcohol;</text>
     </para>
     <para>
       <num>G.</num>
-      <text>Supplies necessary for the aseptic preparation of compounded sterile preparations; and</text>
+      <text>Supplies necessary for the aseptic preparation of compounded sterile preparations;</text>
     </para>
     <para>
       <num>H.</num>
-      <text>Closed system vial transfer devices (CSTD), as required for cytotoxic compounding, if applicable.</text>
+      <text>A hazardous waste spill kit, if applicable; and</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Closed system vial transfer devices (CSTD), as required for hazardous compounding, if applicable.</text>
     </para>
     <annotations>
       <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.11" type="History" display="false"/>
@@ -732,11 +984,11 @@
     <heading>Minimum Requirements for Policies and Procedures.</heading>
     <para>
       <num>A.</num>
-      <text>The permit holder shall ensure that the pharmacist or the pharmacist's designee shall maintain a policy and procedure manual, reviewed annually, that sets forth in detail the permit holder's standard operating procedures with regard to compounding sterile preparations.</text>
+      <text>The pharmacy shall ensure that a supervising pharmacist shall maintain a policy and procedure manual, reviewed annually, that sets forth in detail the pharmacy’s standard operating procedures with regard to compounding sterile preparations.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>The permit holder shall insure that the policy and procedure manual that sets forth the standard operating procedures with regard to compounding sterile preparations is implemented and adhered to.</text>
+      <text>The pharmacy shall ensure that the policy and procedure manual that sets forth the standard operating procedures with regard to compounding sterile preparations is implemented and adhered to.</text>
     </para>
     <para>
       <num>C.</num>
@@ -746,15 +998,19 @@
         <text>A risk-management program which includes documentation of outcomes including, but not limited to:</text>
         <para>
           <num>(a)</num>
-          <text>An incident reporting system;</text>
+          <text>Environmental excursions;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>An adverse drug reaction reporting system; and</text>
+          <text>Adverse drug reactions;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>A preparation contamination reporting system;</text>
+          <text>Preparation contamination; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Recalls of compounded sterile preparations prepared by the pharmacy.</text>
         </para>
       </para>
       <para>
@@ -779,11 +1035,11 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>Sanitation standards and procedures including monitoring for bacterial microorganisms to demonstrate effectiveness of cleaning activities;</text>
+        <text>Sanitation and cleaning standards and procedures;</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>Reference materials as set forth in <cite path="|10|34|19|.16">Regulation .16 of this chapter</cite>;</text>
+        <text>Maintenance and availability of reference materials as set forth in <cite path="|10|34|19|.16">Regulation .16 of this chapter</cite>;</text>
       </para>
       <para>
         <num>(6)</num>
@@ -806,22 +1062,26 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>Beyond-use/expiration dating;</text>
+          <text>Beyond-use dating;</text>
         </para>
         <para>
           <num>(f)</num>
-          <text>Delivery;</text>
+          <text>Release testing and verification;</text>
         </para>
         <para>
           <num>(g)</num>
-          <text>Destruction;</text>
+          <text>Delivery;</text>
         </para>
         <para>
           <num>(h)</num>
-          <text>Recalls; and</text>
+          <text>Destruction;</text>
         </para>
         <para>
           <num>(i)</num>
+          <text>Recalls; and</text>
+        </para>
+        <para>
+          <num>(j)</num>
           <text>Returns;</text>
         </para>
       </para>
@@ -831,71 +1091,103 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>Handling, dispensing, and documentation of investigational drugs;</text>
+        <text>Facility and equipment control monitoring as set forth in <cite path="|10|34|19|.07">Regulation .07 of this chapter</cite>;</text>
       </para>
       <para>
         <num>(9)</num>
-        <text>A quality assurance program;</text>
+        <text>Facility certification and viable testing program, as described by US Pharmacopeia 797 Standards;</text>
       </para>
       <para>
         <num>(10)</num>
-        <text>Verification of training and competency guidelines;</text>
+        <text>Handling, dispensing, and documentation of investigational drugs;</text>
       </para>
       <para>
         <num>(11)</num>
-        <text>Compounding process media fill verification procedures;</text>
+        <text>A quality assurance program;</text>
       </para>
       <para>
         <num>(12)</num>
-        <text>Description of appropriate garb;</text>
+        <text>Training verification procedures, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Gloved thumb and fingertip sampling;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Visual observation for adherence to aseptic technique; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Media-fill testing with post gloved fingertip and thumb, and surface sampling;</text>
+        </para>
       </para>
       <para>
         <num>(13)</num>
-        <text>Conduct guidelines for personnel in the controlled areas;</text>
+        <text>Description of appropriate garb donning and doffing processes;</text>
       </para>
       <para>
         <num>(14)</num>
-        <text>Personnel responsibilities;</text>
+        <text>Conduct guidelines for personnel in the controlled areas;</text>
       </para>
       <para>
         <num>(15)</num>
-        <text>Patient education, if appropriate;</text>
+        <text>Personnel responsibilities including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Pharmacists who are not physically involved in the compounding process;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Compounding staff; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Cleaning and maintenance staff who have access to the cleanroom;</text>
+        </para>
       </para>
       <para>
         <num>(16)</num>
-        <text>Protocol and procedures to maintain the integrity of the interior work area of the laminar air flow workstations;</text>
+        <text>Patient education, unless in an inpatient setting;</text>
       </para>
       <para>
         <num>(17)</num>
-        <text>Written procedures as applicable for handling antineoplastic agents and other hazardous substances including:</text>
+        <text>Protocols and procedures to maintain the integrity of the cleanroom suite and the primary engineering controls;</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>Handling of hazardous drugs as per US Pharmacopeia 800 Standards, if applicable, including:</text>
         <para>
           <num>(a)</num>
           <text>Utilizing the proper equipment and supplies;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>A statement that compounding shall be conducted within a properly certified biological safety cabinet or negative pressure compounding aseptic isolator;</text>
+          <text>A statement that compounding shall be conducted within a properly certified biological safety cabinet or compounding aseptic containment isolator;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Proper use of protective attire; and</text>
+          <text>Proper use of personal protective equipment; and</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>Proper techniques to prevent both contamination of the preparation and chemical exposure of the individual preparing the prescription;</text>
+          <text>Proper techniques to prevent both contamination of the preparation and chemical exposure of the individual preparing the medication;</text>
         </para>
       </para>
       <para>
-        <num>(18)</num>
-        <text>Written procedures as applicable for the disposal of infectious materials or materials containing cytotoxic residues, or hazardous waste;</text>
-      </para>
-      <para>
         <num>(19)</num>
-        <text>Written documentation of policy and procedure changes based on data gathered from quality assurance evaluations; and</text>
+        <text>Segregation of biological and hazardous material from other compounding activities to prevent cross-contamination, if applicable;</text>
       </para>
       <para>
         <num>(20)</num>
-        <text>Written documentation of policies and procedures assuring the sterility and stability of compounded sterile preparations.</text>
+        <text>The disposal of infectious materials or materials containing hazardous drugs or waste, as per USP 800 Standards, if applicable;</text>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>Written documentation of policy and procedure changes based on data gathered from quality assurance evaluations; and</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>Assurance of the sterility and stability of compounded sterile preparations including end-product testing and sterilization, if applicable.</text>
       </para>
     </para>
     <annotations>
@@ -905,58 +1197,63 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.13</num>
-    <heading>Attire.</heading>
+    <heading>Cleanroom Garbing.</heading>
+    <text>When compounding sterile preparations, individuals shall comply with the following standards:</text>
     <para>
       <num>A.</num>
-      <text>When compounding sterile preparations, individuals shall comply with the following standards:</text>
-      <para>
-        <num>(1)</num>
-        <text>Sequencing of garbing that complies with USP 797 Standards;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Thorough hand-washing before gowning;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Wearing clean room garb inside the designated area at all times, which consists of:</text>
-        <para>
-          <num>(a)</num>
-          <text>A non-shedding coverall or gown;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Head and facial hair covers;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>A face mask; and</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Shoe covers;</text>
-        </para>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Clean room garb, with the exception of sterile gloves, shall be donned and removed outside the designated clean room area;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>All jewelry shall be removed;</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>Sterile gloves are required; and</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>Make-up may not be worn in the clean room.</text>
-      </para>
+      <text>Sequencing of garbing that complies with USP 797 and 800 Standards, as applicable;</text>
     </para>
     <para>
       <num>B.</num>
-      <text>The requirements of this regulation are not applicable if a compounding aseptic isolator is used to compound sterile preparations in accordance with USP 797 Standards and isolator vendor/manufacturer specifications.</text>
+      <text>Thorough handwashing before gowning;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Wearing clean room garb inside the designated area at all times, which consists of:</text>
+      <para>
+        <num>(1)</num>
+        <text>A non-shedding coverall or gown;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Head and facial hair covers;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A face mask;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Shoe covers; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Other personal protective equipment required for the handling and preparation of hazardous drugs, in accordance with US Pharmacopeia 800 Standards;</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Cleanroom garb, with the exception of sterile gloves, shall be donned and removed outside the designated cleanroom area;</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Personal protective equipment and garb required for the handling and preparation of hazardous drugs shall be removed, in accordance with US Pharmacopeia 800 Standards;</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>All jewelry that can be physically removed, shall be removed;</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Sterile powder-free gloves are required;</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Make-up, cosmetic lotions, creams, ointments, false nails, and other cosmetic accessories may not be worn in the cleanroom; and</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Nails shall be natural and short, not extending past the nail bed.</text>
     </para>
     <annotations>
       <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.13" type="History" display="false"/>
@@ -968,37 +1265,57 @@
     <heading>Training of Staff, Patient, and Caregiver.</heading>
     <para>
       <num>A.</num>
-      <text>The pharmacist shall make counseling available to the patient or primary caregiver, or both, concerning proper use of compounded sterile preparations and related supplies furnished by the pharmacy.</text>
+      <text>The pharmacy shall make counseling available to the patient or primary caregiver, or both, concerning:</text>
+      <para>
+        <num>(1)</num>
+        <text>Proper use of compounded sterile preparations and related supplies dispensed by the pharmacy;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Signs of contamination or other issues seen in CSPs; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Proper disposal of:</text>
+        <para>
+          <num>(a)</num>
+          <text>Excess medications;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Biohazards;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Sharps; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Hazardous drug waste.</text>
+        </para>
+      </para>
     </para>
     <para>
       <num>B.</num>
-      <text>The permit holder shall ensure that pharmacy personnel engaging in compounding sterile preparations are trained and demonstrate competence in the safe handling and compounding of compounded sterile preparations and parenteral solutions, including cytotoxic agents if applicable.</text>
+      <text>The pharmacy shall ensure that pharmacy personnel engaging in compounding sterile preparations are trained and demonstrate competence in the safe handling and compounding of sterile preparations, including hazardous drugs, if applicable.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>The permit holder shall maintain records of training and demonstrated competence for individual employees for 5 years.</text>
+      <text>The pharmacy shall maintain records of training and demonstrated competence for individual employees for 5 years.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>The permit holder shall ensure the continuing competence of pharmacy personnel engaged in compounding sterile preparations.</text>
+      <text>The pharmacy shall ensure the continuing competence of pharmacy personnel engaged in compounding sterile preparations.</text>
     </para>
     <para>
       <num>E.</num>
       <text>A pharmacy that compounds sterile preparations shall comply with the following training requirements:</text>
       <para>
         <num>(1)</num>
-        <text>The pharmacy shall establish and follow a written program of training and performance evaluation designed to ensure that individuals working in the designated area have the knowledge and skills necessary to perform the assigned tasks properly and include at least the following:</text>
+        <text>The pharmacy shall establish and follow a written program of annual training and performance evaluation designed to ensure that individuals working in the designated area have the knowledge and skills necessary to perform the assigned tasks properly and include at least the following:</text>
         <para>
           <num>(a)</num>
-          <text>Aseptic technique with media fill verification at a frequency defined by risk level as described in USP 797 Standards:</text>
-          <para>
-            <num>(i)</num>
-            <text>12 months for low and medium risk; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>6 months for high risk;</text>
-          </para>
+          <text>Aseptic technique with gloved fingertip and thumb sampling, and media-fill testing with post gloved thumb and fingertip and surface sampling at a minimum frequency defined by USP 797 Standards;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1006,7 +1323,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Compounding sterile preparation documentation process;</text>
+          <text>Sterile compounding documentation process;</text>
         </para>
         <para>
           <num>(d)</num>
@@ -1014,32 +1331,44 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>Aseptic preparation procedures;</text>
+          <text>Aseptic preparation procedures, including principles of unidirectional airflow;</text>
         </para>
         <para>
           <num>(f)</num>
-          <text>Proper cleansing, gowning, and gloving techniques;</text>
+          <text>Proper hand cleansing, gowning, and gloving techniques;</text>
         </para>
         <para>
           <num>(g)</num>
-          <text>General conduct in the controlled area;</text>
+          <text>General conduct within the controlled area;</text>
         </para>
         <para>
           <num>(h)</num>
-          <text>Cleaning, sanitizing, and maintaining equipment used in the controlled area;</text>
+          <text>Cleaning, sanitizing, and maintaining:</text>
+          <para>
+            <num>(i)</num>
+            <text>Equipment used in the classified area; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The cleanroom suite;</text>
+          </para>
         </para>
         <para>
           <num>(i)</num>
-          <text>Sterilization techniques for high risk preparations; and</text>
+          <text>Sterilization techniques, if applicable;</text>
         </para>
         <para>
           <num>(j)</num>
-          <text>Container, equipment, and closure system selection.</text>
+          <text>Container and closure system selection; and</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Identifying and reporting problems, failures, and errors to designated individuals.</text>
         </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>Individuals assigned to the controlled area shall successfully complete practical skills training in aseptic technique and aseptic area practices.</text>
+        <text>Individuals assigned to the classified area shall successfully complete practical skills training in aseptic technique and aseptic area practices prior to compounding medication for patients.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -1054,8 +1383,24 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Media fill verification as set forth in <cite path="10|34|19|.14|E.|(1)|(a)">§E(1)(a) of this regulation</cite>.</text>
+          <text>Media-fill testing with gloved fingertip and thumb sampling, and surface sampling as set forth in <cite path="10|34|19|.14|E.|(1)|(a)">§E(1)(a) of this regulation</cite>.</text>
         </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A pharmacy with only one pharmacist performing compounding shall establish and maintain training and competencies through a third party who is competent in the requirements set forth in this chapter and US Pharmacopeia 797 Standards.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Ensuring that all individuals who enter the cleanroom for cleaning, maintenance, or any other reason shall, at a minimum, have demonstrated competence and understanding of appropriate garbing, hand hygiene, conduct, and duties within the cleanroom.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Ensuring that all individuals responsible for handling, storing, packing, and transporting of CSPs shall be trained in duties associated with their position.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The completion, upon initial hire, evaluations as set forth in <cite path="10|34|19|.14|E.|(1)">§E(1) of this regulation</cite>, including three passing consecutive gloved fingertip and thumb samplings.</text>
       </para>
     </para>
     <annotations>
@@ -1066,38 +1411,55 @@
     <prefix>Regulation</prefix>
     <num>.15</num>
     <heading>Quality Assurance.</heading>
-    <text>The permit holder shall ensure that the compounded sterile preparation retains its potency and sterility throughout the assigned “beyond use” dating period through a written quality assurance program that includes:</text>
+    <text>The pharmacy shall ensure that the CSP retains its potency and sterility throughout the assigned beyond-use date through a written quality assurance program that includes:</text>
     <para>
       <num>A.</num>
       <text>A reasonable effort by the pharmacist to assure that compounded sterile preparations shall be kept under appropriate controlled conditions before dispensing, during transport, and at the location of use by providing adequate labeling and verbal or written instructions regarding proper storage and administration, as set forth by the product manufacturer and established standards and literature, with each compounded sterile preparation dispensed;</text>
     </para>
     <para>
       <num>B.</num>
-      <text>The phases of compounded sterile preparation, distribution, storage, administration, and directions for use for each type of preparation dispensed;</text>
+      <text>The sterile compounding process, distribution, storage, administration, and directions for use for each type of preparation dispensed;</text>
     </para>
     <para>
       <num>C.</num>
-      <text>Environmental sampling for microbial organisms in laminar air flow workstations and clean rooms is performed according to methods and schedules specified by USP 797 Standards and if microbial contamination is suspected, for example, in the event of positive media fill verification results;</text>
+      <text>Primary engineering controls certification by a trained and qualified operator, according to US Pharmacopeia 797 Standards;</text>
     </para>
     <para>
       <num>D.</num>
-      <text>Laminar air flow workstations, biological safety cabinets, and compounding aseptic isolators certified by a trained and qualified operator;</text>
+      <text>Secondary engineering control certification by a trained and qualified operator according to US Pharmacopeia 797 Standards;</text>
     </para>
     <para>
       <num>E.</num>
-      <text>Clean room and anteroom certification by a trained and qualified operator according to USP 797 Standards;</text>
+      <text>Environmental sampling for microbial organisms is performed according to methods and schedules specified by US Pharmacopeia 797 Standards;</text>
     </para>
     <para>
       <num>F.</num>
-      <text>The proper disposal in accordance with accepted professional standards and applicable State and federal laws of unused drugs and materials used in the preparation of compounded sterile preparations, including antineoplastic agents and hazardous materials;</text>
+      <text>Trending of microbial growth observed during viable testing;</text>
     </para>
     <para>
       <num>G.</num>
-      <text>A formal written review process to report and evaluate compliance with this chapter; and</text>
+      <text>A formal written process for reviewing and investigating environmental excursions occurring, both with personnel and within the cleanroom, including suspected sources of contamination, corrective and preventative actions, follow-up actions, associated recalls, and reporting to State and federal agencies, as required by law or regulation;</text>
     </para>
     <para>
       <num>H.</num>
-      <text>A process that complies with applicable USP 797 Standards for performing sterility checks or pyrogen testing, or both, for applicable compounded sterile preparations.</text>
+      <text>The proper disposal in accordance with accepted professional standards and applicable State and federal laws of unused drugs and materials used in the preparation of compounded sterile preparations, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Hazardous drugs;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Radiopharmaceutical waste; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any potentially contaminated materials;</text>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>A written review process to document, report, and evaluate compliance with this chapter; and</text>
+      <text>J A process that complies with applicable US Pharmacopeia Standards for performing sterility, potency, pyrogen and endotoxin testing, or other quality attributes, for applicable compounded sterile preparations.</text>
     </para>
     <annotations>
       <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.15" type="History" display="false"/>
@@ -1110,15 +1472,31 @@
     <text>Minimum reference materials in a pharmacy shall include:</text>
     <para>
       <num>A.</num>
-      <text>U.S. Pharmaceutical, General Chapter 797, Pharmaceutical Compounding — Sterile Preparations and other applicable reference materials in order to perform sterile compounding;</text>
+      <text>United States Pharmacopeia, General Chapter 797 Pharmaceutical Compounding—Sterile Preparations;</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Reference materials containing drug stability and compatibility data; and</text>
+      <text>United States Pharmacopeia, General Chapter 800 Hazardous Drugs––Handling in Healthcare Settings;</text>
     </para>
     <para>
       <num>C.</num>
-      <text>Reference materials concerning drug interactions and incompatibility.</text>
+      <text>United States Pharmacopeia, General Chapter 825 Radiopharmaceuticals––Preparation, Compounding, Dispensing, and Repackaging;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Other applicable reference materials in order to perform sterile compounding;</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Reference materials containing drug stability and compatibility data;</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Reference materials concerning drug interactions and incompatibility; and</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Reference materials containing drug dosing for veterinary patients, if applicable.</text>
     </para>
     <annotations>
       <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.16" type="History" display="false"/>
@@ -1137,24 +1515,16 @@
       <text>The pharmacy shall provide as part of the inspection process:</text>
       <para>
         <num>(1)</num>
-        <text>Quality assurance testing reports;</text>
+        <text>Documents, reports, and information required in accordance with this chapter; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Documentation of reporting adverse events as required in <cite path="|10|34|19|.18">Regulation .18 of this chapter</cite>;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Microbial testing of a sampling of the sterile compounded preparations of the pharmacy if applicable according to USP 797 Standards; and</text>
-      </para>
-      <para>
-        <num>(4)</num>
         <text>Any other information requested to ensure compliance with USP 797 Standards.</text>
       </para>
     </para>
     <para>
       <num>C.</num>
-      <text>Within 90 days before the date of application, inspections of nonresident pharmacies may be conducted by:</text>
+      <text>Non-resident Pharmacies. Within 90 days before the date of application, inspections may be conducted by:</text>
       <para>
         <num>(1)</num>
         <text>A designee of the Board;</text>
@@ -1184,6 +1554,10 @@
         <text>Investigate a complaint.</text>
       </para>
     </para>
+    <para>
+      <num>F.</num>
+      <text>The Board may reference guidance documents issued by the United States Food and Drug Administration (FDA) when inspecting and reviewing compounding practices not specifically outlined in this chapter or a chapter of US Pharmacopeia.</text>
+    </para>
     <annotations>
       <annotation app="2027-07-01" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|25-234-F" target-path="10|34|19|.17" type="History" display="false"/>
     </annotations>
@@ -1195,7 +1569,7 @@
     <text>A pharmacy shall:</text>
     <para>
       <num>A.</num>
-      <text>Document and perform routine testing as required by USP 797 Standards for the appropriate risk levels of sterile compounded preparations; and</text>
+      <text>Document and perform routine testing as required by US Pharmacopeia 797 Standards for the appropriate categories of sterile compounded preparations; and</text>
     </para>
     <para>
       <num>B.</num>
@@ -1218,11 +1592,11 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Disciplinary actions taken against a pharmacist who is an owner, operator, or employee of the pharmacy; and</text>
+        <text>Disciplinary actions taken against a pharmacist or technician who is an owner, operator, or employee of the pharmacy; and</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>Disciplinary actions taken against any other known permit, or any other authorization, held by the pharmacy permit holder.</text>
+        <text>Disciplinary actions taken against any other permit, or any other authorization, held by the pharmacy permit holder.</text>
       </para>
     </para>
     <annotations>
@@ -1236,7 +1610,7 @@
     <text>Unless otherwise authorized, a person that prepares and distributes sterile compounded medications for office use into, out of, or within the State shall hold:</text>
     <para>
       <num>A.</num>
-      <text>A manufacturer’s permit or other permit designated by the U.S. Food and Drug Administration to ensure the safety of sterile compounded medications for office use; and</text>
+      <text>A manufacturer’s permit or other registration as designated by the U.S. Food and Drug Administration to ensure the safety of sterile compounded medications for office use; and</text>
     </para>
     <para>
       <num>B.</num>
@@ -1270,5 +1644,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-01"><cite path="|10|34|19|.17">Regulation .17</cite> adopted effective February 1, 2016 (43:2 Md. R. 127)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-01"><cite path="|10|34|19|.18">Regulation .18</cite> adopted effective February 1, 2016 (43:2 Md. R. 127)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-01"><cite path="|10|34|19|.19">Regulation .19</cite> adopted effective February 1, 2016 (43:2 Md. R. 127)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2027-07-01" discontinuity="true">Chapter revised effective July 1, 2027 (53:23 Md. R. 1168)</annotation>
   </annotations>
 </container>
