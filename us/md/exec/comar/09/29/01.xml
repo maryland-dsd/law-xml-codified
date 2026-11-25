@@ -30,14 +30,14 @@
       <text>An application shall contain:</text>
       <para>
         <num>(1)</num>
-        <text>Statements made under oath showing the applicant's education, including the applicant's official college transcript, which reflects completion of a program accredited by the Society of American Foresters or approved by the Board, including:</text>
+        <text>Statements made under oath showing the applicant's education, including the applicant's official college transcript, which reflects completion of a program accredited by the Society of American Foresters and approved by the Board, including:</text>
         <para>
           <num>(a)</num>
           <text>An undergraduate degree in forestry; or</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>A master’s degree in forestry;</text>
+          <text>A comparable graduate or international degree in forestry as set forth in <cite doc="Md. Code" path="gbo|7-304">Business Occupations and Professions Article, §7-304(b)(2), Annotated Code of Maryland</cite>;</text>
         </para>
       </para>
       <para>
@@ -49,7 +49,9 @@
         <text>At least five signed references to indicate endorsement of the applicant, of which three or more shall be foresters having personal or professional knowledge of the applicant's forestry experience.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-134-F" target-path="09|29|01|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -333,7 +335,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-05-23"><cite path="|09|29|01|.05">Regulation .05</cite> repealed and new Regulation .05 adopted effective May 23, 1994 (21:10 Md. R. 843)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-03-13"><cite path="|09|29|01|.06">Regulation .06</cite> adopted effective March 13, 1995 (22:5 Md. R. 367)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-05-08" discontinuity="true">Regulations <cite path="|09|29|01|.01">.01</cite>—<cite path="|09|29|01|.06">.06</cite> repealed and new Regulations <cite path="|09|29|01|.01">.01</cite>—<cite path="|09|29|01|.05">.05</cite> adopted effective May 8, 2017 (44:9 Md. R. 437)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-05-03"><cite path="|09|29|01|.02|B.">Regulation .02B</cite> amended effective May 3, 2021 (48:9 Md. R. 359)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23"><cite path="|09|29|01|.02|B.">Regulation .02B</cite> amended effective May 3, 2021 (48:9 Md. R. 359); November 23, 2026 (53:23 Md. R. 1167)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-02-25"><cite path="|09|29|01|.06">Regulation .06</cite> adopted effective February 25, 2019 (46:4 Md. R. 191)</annotation>
   </annotations>
 </container>

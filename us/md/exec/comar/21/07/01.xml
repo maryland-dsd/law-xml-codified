@@ -870,8 +870,33 @@
     </para>
     <annotations/>
   </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.32</num>
+    <heading>Good Labor Practices.</heading>
+    <text>If a proposal recommended for contract award includes a completed good labor practices affidavit in accordance with <cite path="|21.11.17">COMAR 21.11.17</cite>, the procurement officer shall include a provision in the contract in substantially the same form as follows:</text>
+    <para>
+      <num>A.</num>
+      <text>In accordance with <cite path="|21.11.17">COMAR 21.11.17</cite>, the contractor shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Adhere to the labor practices it attested to in the completed Good Labor Practices Affidavit submitted with its proposal;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Complete the forms provided by the Maryland Department of Labor’s Division of Labor and Industry for the notification and disclosure procedures required by the contractor’s completed affidavit; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a request for information is made by the procurement officer or the Maryland Department of Labor regarding compliance with the affidavit, provide a timely and complete response to the procurement officer and the Maryland Department of Labor.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-117-F" target-path="21|07|01|.32" type="History" display="false"/>
+    </annotations>
+  </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|14-101">14-101</cite>—<cite doc="Md. Code" path="gel|14-108">14-108</cite>; General Provisions Article, §§<cite doc="Md. Code" path="ggp|5-101">5-101</cite> and <cite doc="Md. Code" path="ggp|5-503">5-503</cite>; State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|13-207">13-207</cite>, <cite doc="Md. Code" path="gsf|13-211">13-211</cite>, <cite doc="Md. Code" path="gsf|13-217">13-217</cite>—<cite doc="Md. Code" path="gsf|13-219">13-219</cite>, <cite doc="Md. Code" path="gsf|13-221">13-221</cite>—<cite doc="Md. Code" path="gsf|13-223">13-223</cite>, <cite doc="Md. Code" path="gsf|13-317">13-317</cite>, <cite doc="Md. Code" path="gsf|15-226">15-226</cite> ,16-202, 17-401, 17-402, and 19-114; Annotated Code of Maryland; Chs. 588, 589, and 630, Acts of 2017; Ch. 403, Acts of 2019, Ch. 601, Acts of 2025</annotation>
+    <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|14-101">14-101</cite>—<cite doc="Md. Code" path="gel|14-108">14-108</cite>; General Provisions Article, §§<cite doc="Md. Code" path="ggp|5-101">5-101</cite> and <cite doc="Md. Code" path="ggp|5-503">5-503</cite>; State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|13-207">13-207</cite>, <cite doc="Md. Code" path="gsf|13-211">13-211</cite>, <cite doc="Md. Code" path="gsf|13-217">13-217</cite>—<cite doc="Md. Code" path="gsf|13-219">13-219</cite>, <cite doc="Md. Code" path="gsf|13-221">13-221</cite>—<cite doc="Md. Code" path="gsf|13-223">13-223</cite>, <cite doc="Md. Code" path="gsf|13-317">13-317</cite>, <cite doc="Md. Code" path="gsf|14-901">14-901</cite>—<cite doc="Md. Code" path="gsf|14-906">14-906</cite><em>, </em>15-226 ,16-202, 17-401, 17-402, and 19-114; Annotated Code of Maryland; Chs. 588, 589, and 630, Acts of 2017; Ch. 403, Acts of 2019, Ch. 601, Acts of 2025</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-07-01">Effective date: July 1, 1981 (8:13 Md. R. II-5)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-05-06"><cite path="|21|07|01|.09|A.">Regulation .09A</cite> amended effective May 6, 1985 (12:9 Md. R. 816)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-01-09" discontinuity="true">Chapter revised effective January 9, 1989 (15:27 Md. R. 3138)</annotation>
@@ -903,6 +928,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-06-29"><cite path="|21|07|01|.30">Regulation .30</cite> adopted effective June 29, 2020 (47:13 Md. R. 643)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-09-18"><cite path="|21|07|01|.31">Regulation .31</cite> adopted effective September 18, 2023 (50:18 Md. R. 800)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|21|07|01|.31">Regulation .31</cite> amended effective March 3, 2025 (52:4 Md. R. 221)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23"><cite path="|21|07|01|.32">Regulation .32</cite> adopted effective November 23, 2026 (53:23 Md. R. 1168)</annotation>
   </annotations>
   <attachments>
     <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|07|01|attachments|21.07.01.27" type="History" display="false"/>

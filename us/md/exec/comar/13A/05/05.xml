@@ -20,16 +20,28 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>School psychology; and</text>
+        <text>School psychology;</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Health services.</text>
+        <text>Health services; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>School Social Work.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>The Pupil Services Program shall focus on the health, personal, interpersonal, academic, and career development of students.</text>
+      <text>The Pupil Services Program shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Focus on supporting student wellness, including physical, mental and behavioral health; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Support social and emotional development to facilitate the academic achievement and career development of all students..</text>
+      </para>
     </para>
     <para>
       <num>C.</num>
@@ -115,7 +127,9 @@
       <num>G.</num>
       <text>Individuals providing services to students in the coordinated program of Pupil Services shall meet the State Certification requirements set forth in COMAR 13A.12.03, except nurses who shall meet the requirements set forth in <cite doc="Md. Code" path="gho">Health Occupations Article, Title 8, Subtitle 3, Annotated Code of Maryland</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-121-F" target-path="13A|05|05|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1274,6 +1288,130 @@
     <text>Issues of parental consent and confidentiality shall be administered in accordance with Health-General Article, §20-102, Annotated Code of Maryland, and COMAR 13A.08.02.</text>
     <annotations/>
   </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.16</num>
+    <heading>School Social Worker Program.</heading>
+    <para>
+      <num>A.</num>
+      <text>The School Social Worker Program is a program that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Promotes student academic success and well-being;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Enhances awareness of mental health and promotes positive, healthy behaviors;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provides school-based prevention and universal and targeted interventions for students with mental health and behavioral health concerns;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Is aligned with school system goals and objectives;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Is an integral component of the school’s program and mission;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Addresses the needs of the whole child so that each student has the opportunity to be healthy, safe, engaged, supported, and challenged for long-term success; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Is monitored and reviewed through accountability systems.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>School Social Workers are:</text>
+      <para>
+        <num>(1)</num>
+        <text>Trained mental health professionals, with a license in social work, who provide services related to student wellbeing in academics, school climate, social-emotional development, and mental health.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The link between the home, school, and community in providing direct as well as indirect services to students, families, and school personnel to promote and support students' academic and social success.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>State-credentialed as defined in COMAR 13A.12.04.11.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>School Social Workers shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Adhere to the ethics and values of the social work profession to guide ethical practice while understanding the unique aspects of school social work practice and the needs of the students, families, educational settings, and communities they serve;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Meet the provisions for professional practice of the State Department of Education and possess knowledge and understanding basic to the social work profession as well as the local school system;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Conduct assessments with the goal of improving student social, emotional, and academic learning outcomes.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Use assessment as the starting point of intervention within a multitiered system of supports;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Use data to guide service delivery and to evaluate their practice regularly to determine if services and supports need to be faded, continued, added, or increased;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Maintain accurate data and records that are relevant to assessment, planning, implementation, and evaluation of school social work services;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Organize their workloads to fulfill their responsibilities and clarify their critical roles within the educational mission of the school and county in which they work;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Use technology to enhance communication, design and deliver services, obtain, manage, and store information, and demonstrate accountability to students and families in the school setting;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Engage in professional development to provide students, families, schools, and communities with the highest-quality, culturally informed services;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Ensure that students and their families are provided services within the context of multicultural understanding and competence;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Share leadership in developing a positive school climate;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Work collaboratively with school administration, school personnel, family members, and community partners to increase accessibility to and effectiveness of all services;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Engage in advocacy that seeks to ensure that all students have equal access to education and services to enhance their academic progress;</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Provide a pivotal role in creating and executing a schoolwide safety plan and provide direct and indirect services that relate to all safety concerns of students, families, and educators;</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>Be prepared for changes in the needs of the school community they serve and how services will be delivered when a natural disaster, (public) emergency, and/or pandemic occurs; and</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>Uphold the confidentiality of the students and families they serve in all formats (verbal, written, and electronic communication) according to federal, State, and local regulations and policies.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-11-23" doc="Maryland Register, Volume 53, Issue 23" eff="2026-11-23" path="regulations|final|26-121-F" target-path="13A|05|05|.16" type="History" display="false"/>
+    </annotations>
+  </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|2-205">2-205</cite>(b) and (c), 7-401—7-404, 7-409, and 7-426, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-07-01">Effective date: July 1, 1985 (12:13 Md. R. 1281)</annotation>
@@ -1281,6 +1419,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-02-23">Regulations <cite path="|13A|05|05|.03">.03</cite>—<cite path="|13A|05|05|.05">.05</cite> adopted effective February 23, 1987 (14:4 Md. R. 419)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-01-15" discontinuity="true">Chapter revised effective January 15, 1989 (15:27 Md. R. 3134)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-12-01"><cite path="|13A|05|05|.01">Regulation .01</cite> amended effective December 1, 2008 (35:24 Md. R. 2079)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23"><cite path="|13A|05|05|.01|A.">Regulation .01A</cite>, B amended effective November 23, 2026 (53:23 Md. R. 1168)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-12-01"><cite path="|13A|05|05|.02|A.">Regulation .02A</cite>, B amended effective December 1, 2008 (35:24 Md. R. 2079)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-07-29"><cite path="|13A|05|05|.02">Regulation .02</cite> repealed and new Regulation .02 adopted effective July 29, 2019 (46:15 Md. R. 655)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-07-29"><cite path="|13A|05|05|.04">Regulation .04</cite> repealed and new Regulation .04 adopted effective July 29, 2019 (46:15 Md. R. 655)</annotation>
@@ -1288,5 +1427,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-05-13">Regulations <cite path="|13A|05|05|.06">.06</cite>—<cite path="|13A|05|05|.15">.15</cite> adopted effective May 13, 1991 (18:9 Md. R. 1010)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-06-28"><cite path="|13A|05|05|.06|B.">Regulation .06B</cite> amended effective June 28, 2010 (37:13 Md. R. 853)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-06-28"><cite path="|13A|05|05|.07|C.">Regulation .07C</cite> amended effective June 28, 2010 (37:13 Md. R. 853)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-23"><cite path="|13A|05|05|.06">Regulation .06</cite> adopted effective November 23, 2026 (53:23 Md. R. X)</annotation>
   </annotations>
 </container>
