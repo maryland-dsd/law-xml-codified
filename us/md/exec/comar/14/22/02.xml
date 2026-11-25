@@ -29,6 +29,7 @@
     <text>Commercial Fraud, Other</text>
     <text>Conspiracy</text>
     <text>Consumer Protection Laws</text>
+    <text>Counterfeit Tobacco Tax Stamps</text>
     <text>Counterfeiting</text>
     <text>Credit Card Crimes</text>
     <text>Crimes Against the Person, Generally</text>
@@ -38,6 +39,7 @@
     <text>Destructive Devices</text>
     <text>Disturbing the Peace, Disorderly Conduct, and Related Crimes</text>
     <text>E</text>
+    <text>Economic Development and Financial Assistance Programs</text>
     <text>Election Offenses</text>
     <text>Estates, Crimes Against</text>
     <text>Extortion and Other Threats</text>
@@ -80,6 +82,7 @@
     <text>Obscene Matter</text>
     <text>P</text>
     <text>Perjury</text>
+    <text>Pet Cremation and Burial Services</text>
     <text>Prescription Drugs and Other Substances</text>
     <text>Pretrial Release, Crimes Involving</text>
     <text>Prostitution and Related Crimes</text>
@@ -488,7 +491,7 @@
           <tr>
             <td>9-6</td>
             <td><strong>Animals, Crimes Against</strong><br/>Aggravated animal cruelty</td>
-            <td>1-0505<br/>1-0508</td>
+            <td>1-0505</td>
             <td>CR, §10-606</td>
             <td data-text-align="center">Felony</td>
             <td data-text-align="center">3Y</td>
@@ -496,6 +499,41 @@
             <td data-text-align="center">Property</td>
             <td data-text-align="center">VI</td>
             <td>$5,000</td>
+          </tr>
+          <tr>
+            <td>9-7</td>
+            <td><strong>Animals, Crimes Against</strong><br/>Intentionally harass or injure emergency response animal</td>
+            <td>
+              <p>1-2263</p>
+              <p>1-2264</p>
+            </td>
+            <td>CR, §10-606.1(c)(1)</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">1Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$5,000</td>
+          </tr>
+          <tr>
+            <td>9-8</td>
+            <td>
+              <p>
+                <strong>Animals, Crimes Against</strong>
+              </p>
+              <p>Intentionally harass or injure emergency response animal during commission of a crime; intentionally kill or seriously injure emergency response animal</p>
+            </td>
+            <td>
+              <p>1-2265</p>
+              <p>1-2266</p>
+            </td>
+            <td>CR, §10-606.1(c)(2)</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">2Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VI</td>
+            <td>$10,000</td>
           </tr>
           <tr>
             <td>10</td>
@@ -592,6 +630,30 @@
             <td data-text-align="center">Property</td>
             <td data-text-align="center">VI</td>
             <td>$2,500</td>
+          </tr>
+          <tr>
+            <td>12-5</td>
+            <td data-vertical-align="middle"><strong>Animals, Crimes Against</strong><br/>Slaughter or cause the slaughter of a racehorse in the State for any commercial purpose, 1<sup>st</sup> offense</td>
+            <td/>
+            <td>BR, §11-1002(c)(1)(i)</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">1Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$1,000</td>
+          </tr>
+          <tr>
+            <td>12-6</td>
+            <td data-vertical-align="middle"><strong>Animals, Crimes Against</strong><br/>Slaughter or cause the slaughter of a racehorse in the State for any commercial purpose, <strong>subsequent</strong></td>
+            <td/>
+            <td>BR, §11-1002(c)(1)(ii)</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">1Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$2,000</td>
           </tr>
           <tr>
             <td>13</td>
@@ -742,15 +804,22 @@
           </tr>
           <tr>
             <td>25</td>
-            <td><strong>Assault and Other Bodily Woundings</strong><br/>Female genital mutilation—perform or consent to</td>
-            <td>1-0965<br/>1-0970</td>
-            <td>HG, §20-601<br/>HG, §20-603</td>
+            <td><strong>Assault and Other Bodily Woundings</strong><br/>Female genital mutilation—perform, attempt, conspire, or consent to perform, or transport out of state to perform</td>
+            <td>
+              <p>1-2271</p>
+              <p>1-2272</p>
+              <p>1-2273</p>
+            </td>
+            <td>
+              <p>HG, §20-602</p>
+              <p>HG, §20-604(a) (penalty)</p>
+            </td>
             <td data-text-align="center">Felony</td>
-            <td data-text-align="center">5Y</td>
+            <td data-text-align="center">10Y</td>
             <td/>
             <td data-text-align="center">Person</td>
-            <td data-text-align="center">V</td>
-            <td>$5,000</td>
+            <td data-text-align="center">IV</td>
+            <td>$10,000</td>
           </tr>
           <tr>
             <td>25-1</td>
@@ -1060,9 +1129,16 @@
           </tr>
           <tr>
             <td>33</td>
-            <td><strong>Assault Weapons</strong><br/>Unlawfully possess, sell, offer to sell, etc., an assault weapon; manufacture, sell, offer to sell, etc., a detachable magazine with a capacity of more than 10 rounds; manufacture, possess, sell, etc., a rapid fire activator</td>
-            <td>3-5250 <br/>3-5255<br/>1-1448</td>
-            <td>CR, §4-303(a) <br/>CR, §4-305(b) <br/>CR, §4-305.1(a)<br/>CR, §4-306(a) <br/>(penalty)</td>
+            <td><strong>Assault Weapons</strong><br/>Unlawfully possess, sell, offer to sell, etc., an assault weapon; manufacture, sell, offer to sell, etc., a detachable magazine with a capacity of more than 10 rounds; manufacture, possess, sell, etc., a rapid fire activator; manufacture, sell, offer to sell, etc., a machine gun convertible pistol</td>
+            <td>
+              <p>1-1448</p>
+              <p>1-2281</p>
+              <p>3-5250 <br/>3-5255</p>
+            </td>
+            <td>
+              <p>CR, §4-303(a) <br/>CR, §4-305(b) <br/>CR, §4-305.1(a)<br/>CR, §4-305.2 (a)</p>
+              <p>CR, §4-306(a) <br/>(penalty)</p>
+            </td>
             <td data-text-align="center">Misd.</td>
             <td data-text-align="center">3Y</td>
             <td/>
@@ -1613,7 +1689,7 @@
             <td>54-1</td>
             <td><strong>CDS and Paraphernalia</strong><br/>Unlawfully distribute, PWID, manufacture, possess production equipment, distribute counterfeit, PWID counterfeit, possess counterfeiting equipment, keep common nuisance, possess false prescription—MDMA (methylenedioxymethamphetamine), 750 grams or more</td>
             <td>1-1127<br/>1-1128<br/>1-1129<br/>1-1131<br/>1-1132<br/>1-1133<br/>1-1556<br/>1-1557<br/>1-1558</td>
-            <td>CR, §5-602(a)<br/>CR, §5-603(a)<br/>CR, §5-604<br/>CR, §5-605<br/>CR, §5-606<br/><br/>CR, §5-609(a)<br/>(penalty)</td>
+            <td>CR, §5-602(a)<br/>CR, §5-603(a)<br/>CR, §5-604<br/>CR, §5-605<br/>CR, §5-606<br/>CR, §5-609(a)<br/>(penalty)</td>
             <td data-text-align="center">Felony</td>
             <td data-text-align="center">20Y</td>
             <td/>
@@ -1726,8 +1802,7 @@
             <td><strong>CDS and Paraphernalia</strong><br/>Unlawfully distribute, distribute counterfeit, PWID counterfeit, possess counterfeiting equipment, keep common nuisance, possess false prescription—cannabis</td>
             <td>
               <p>1-0234</p>
-              <p>1-0235</p>
-              <p>1-0236</p>
+              <p>1-0235<br/>1-0236</p>
               <p>1-0238</p>
               <p>1-0239</p>
               <p>1-0728</p>
@@ -1984,10 +2059,10 @@
               <p>
                 <strong>CDS and Paraphernalia</strong>
               </p>
-              <p>Preparation, distribution, or sale of kratom products to an individual under 21; without proper label disclosures; or that contain certain other substances</p>
+              <p>Prepare, distribute, sell, or expose for sale kratom product without required disclosures; not recognized by the FDA; adulterated or contaminated with a dangerous substance; or to an individual under the age of 21 years; advertise or promote kratom in certain manners</p>
             </td>
             <td/>
-            <td>HG, §21-2E-02(f)</td>
+            <td>HG, §21-2E-02(f)<br/>HG, §21-2E-03(e)</td>
             <td data-text-align="center">Misd.</td>
             <td data-text-align="center">90D</td>
             <td/>
@@ -2001,10 +2076,10 @@
               <p>
                 <strong>CDS and Paraphernalia</strong>
               </p>
-              <p>Prepare, distribute, sell, or expose for sale phenibut product without required disclosures; not recognized by the FDA; adulterated or contaminated with a dangerous substance; or to an individual under the age of 21 years</p>
+              <p>Prepare, distribute, sell, or expose for sale phenibut product without required disclosures; not recognized by the FDA; adulterated or contaminated with a dangerous substance; or to an individual under the age of 21 years; advertise or promote phenibut in certain manners</p>
             </td>
             <td/>
-            <td>HG, §21-2F-02(f)</td>
+            <td>HG, §21-2F-02(f)<br/>HG, §21-2F-03(e)</td>
             <td data-text-align="center">Misd.</td>
             <td data-text-align="center">90D</td>
             <td/>
@@ -2137,6 +2212,30 @@
           </tr>
           <tr>
             <td>80-1</td>
+            <td><strong>Commercial Fraud, Other </strong>Unauthorized representation as a bank, national banking association, other-state bank, or savings and loan association</td>
+            <td/>
+            <td>FI, §5-806(d)</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">5Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$3,000</td>
+          </tr>
+          <tr>
+            <td>80-2</td>
+            <td><strong>Commercial Fraud, Other</strong><br/>Unauthorized representation as a credit union</td>
+            <td>1-1539</td>
+            <td>FI, §6-901</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">5Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$3,000</td>
+          </tr>
+          <tr>
+            <td>80-3</td>
             <td><strong>Commercial Fraud, Other </strong><br/>Providing an unlicensed loan</td>
             <td>1-0049</td>
             <td>FI, §11-203.1(a)<br/>FI, §11-222<br/>(penalty)</td>
@@ -2703,7 +2802,16 @@
             <td colspan="10">96 Vacant</td>
           </tr>
           <tr>
-            <td colspan="10">97 Vacant</td>
+            <td>97</td>
+            <td><strong>Commercial Fraud, Other</strong><br/>Altering or tampering with a gift card with the intent to defraud another</td>
+            <td>1-2268</td>
+            <td>CR, §8-409</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">18M</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$500</td>
           </tr>
           <tr>
             <td>98</td>
@@ -2776,6 +2884,74 @@
             <td data-text-align="center">Person<br/>Drug<br/>Property</td>
             <td data-text-align="center">Same seriousness category as most serious unlawful means</td>
             <td/>
+          </tr>
+          <tr>
+            <td>99-1</td>
+            <td data-vertical-align="middle">
+              <p>
+                <strong>Counterfeit Tobacco Tax Stamps</strong>
+              </p>
+              <p>Creation or procurement of an altered or counterfeited tobacco tax stamp</p>
+            </td>
+            <td/>
+            <td>TG, §13-1012 (a)</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">5Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VI</td>
+            <td>$5,000</td>
+          </tr>
+          <tr>
+            <td>99-2</td>
+            <td data-vertical-align="middle">
+              <p>
+                <strong>Counterfeit Tobacco Tax Stamps</strong>
+              </p>
+              <p>Use, transfer, or possession of an altered or counterfeited tobacco tax stamp</p>
+            </td>
+            <td/>
+            <td>TG, §13-1012 (b)(1)</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">5Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VI</td>
+            <td>$5,000</td>
+          </tr>
+          <tr>
+            <td>99-3</td>
+            <td data-vertical-align="middle">
+              <p>
+                <strong>Counterfeit Tobacco Tax Stamps</strong>
+              </p>
+              <p>Use of a tobacco tax stamp more than once</p>
+            </td>
+            <td/>
+            <td>TG, §13-1012 (b)(2)</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">5Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VI</td>
+            <td>$5,000</td>
+          </tr>
+          <tr>
+            <td>99-4</td>
+            <td data-vertical-align="middle">
+              <p>
+                <strong>Counterfeit Tobacco Tax Stamps</strong>
+              </p>
+              <p>Purchase of a tobacco tax stamp from unauthorized individuals</p>
+            </td>
+            <td/>
+            <td>TG, §13-1012 (c)</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">1Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$1,000</td>
           </tr>
           <tr>
             <td>100</td>
@@ -3444,6 +3620,57 @@
             <td>$3,000</td>
           </tr>
           <tr>
+            <td>129-3</td>
+            <td>
+              <p>
+                <strong>Economic Development and Financial Assistance Programs, Crimes Involving</strong>
+              </p>
+              <p>False statement or report in an application or document submitted to, or to influence an action of, the Maryland Economic Development Assistance Authority — Small Business Development Contract Financing</p>
+            </td>
+            <td/>
+            <td>EC, §5-524</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">5Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$50,000</td>
+          </tr>
+          <tr>
+            <td>129-4</td>
+            <td>
+              <p>
+                <strong>Economic Development and Financial Assistance Programs, Crimes Involving</strong>
+              </p>
+              <p>False statement or report in an application or document submitted to, or to influence an action of, the Maryland Economic Development Assistance Authority — Small Business Development Guaranty Program</p>
+            </td>
+            <td/>
+            <td>EC, §5-534</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">5Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$50,000</td>
+          </tr>
+          <tr>
+            <td>129-5</td>
+            <td>
+              <p>
+                <strong>Economic Development and Financial Assistance Programs, Crimes Involving</strong>
+              </p>
+              <p>False statement or report in an application or document submitted to, or to influence an action of, the Maryland Economic Development Assistance Authority — Small Business Surety Bond Program</p>
+            </td>
+            <td/>
+            <td>EC, §5-559</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">5Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$50,000</td>
+          </tr>
+          <tr>
             <td>130</td>
             <td><strong>Election Offenses </strong><br/>False reports by election judge or election official</td>
             <td>1-1529<br/>2-0381</td>
@@ -3529,6 +3756,18 @@
           </tr>
           <tr>
             <td>135-2</td>
+            <td><strong>Election Offenses</strong><br/>Creating, using, or disseminating a deepfake to produce false information to influence an election</td>
+            <td>1-0835</td>
+            <td>EL, §16-905</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">5Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$5,000</td>
+          </tr>
+          <tr>
+            <td>135-3</td>
             <td><strong>Election Offenses </strong><br/>Voter registration offenses</td>
             <td>2-0372</td>
             <td>EL, §16-101</td>
@@ -3540,7 +3779,7 @@
             <td>$1,000</td>
           </tr>
           <tr>
-            <td>135-3</td>
+            <td>135-4</td>
             <td><strong>Election Offenses </strong><br/>Neglect of official duties by election official or official of political party</td>
             <td>2-0376</td>
             <td>EL, §16-301</td>
@@ -4423,6 +4662,53 @@
             <td>$20,000 <br/>per day</td>
           </tr>
           <tr>
+            <td>159-16</td>
+            <td><strong>Fraud, Miscellaneous</strong><br/>Practicing acupuncture without a license or misrepresentation as practitioner of acupuncture</td>
+            <td>1-1541</td>
+            <td>
+              <p>HO, §1A-401</p>
+              <p>HO, §1A-402</p>
+              <p>HO, §1A-404(a)(1)</p>
+              <p>(penalty)</p>
+            </td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">3Y</td>
+            <td/>
+            <td data-text-align="center">Person</td>
+            <td data-text-align="center">VI</td>
+            <td>$5,000</td>
+          </tr>
+          <tr>
+            <td>159-17</td>
+            <td><strong>Fraud, Miscellaneous</strong><br/>Employing an individual to practice acupuncture without a license or aiding or abetting the unauthorized practice of acupuncture in violation of HO, §1A-401, 1<sup>st</sup> offense</td>
+            <td/>
+            <td>
+              <p>HO, §1A-403</p>
+              <p>HO, §1A-404 (b)(1)(i) (penalty)</p>
+            </td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">1Y</td>
+            <td/>
+            <td data-text-align="center">Person</td>
+            <td data-text-align="center">VII</td>
+            <td>$5,000</td>
+          </tr>
+          <tr>
+            <td>159-18</td>
+            <td><strong>Fraud, Miscellaneous</strong><br/>Employing an individual to practice acupuncture without a license or aiding or abetting the unauthorized practice of acupuncture in violation of HO, §1A-401, <strong>subsequent</strong></td>
+            <td/>
+            <td>
+              <p>HO, §1A-403</p>
+              <p>HO, §1A-404 (b)(1)(ii) (penalty)</p>
+            </td>
+            <td data-text-align="center">Felony</td>
+            <td data-text-align="center">5Y</td>
+            <td/>
+            <td data-text-align="center">Person</td>
+            <td data-text-align="center">VI</td>
+            <td>$5,000 per day</td>
+          </tr>
+          <tr>
             <td>160</td>
             <td><strong>Fraud, Miscellaneous </strong><br/>Fraud—falsely representing self as lawyer</td>
             <td>2-0592</td>
@@ -4921,7 +5207,7 @@
           <tr>
             <td>194</td>
             <td><strong>Harboring, Escape, and Contraband</strong><br/>Escape, 1<sup>st</sup> degree</td>
-            <td>1-0615 <br/>2-1010</td>
+            <td>1-0615 <br/>2-0835<br/>2-1010</td>
             <td>CR, §9-404</td>
             <td data-text-align="center">Felony</td>
             <td data-text-align="center">10Y</td>
@@ -5246,7 +5532,7 @@
             <td>206-1</td>
             <td><strong>Identity Fraud</strong><br/>Possess, obtain personally identifying information or willfully assume the identity of another, benefit $100,000 or greater</td>
             <td>1-1359<br/>1-1366<br/>1-1370</td>
-            <td>CR, §8-301(b), (c)<br/>CR, §8-301(g)(1)(iii)<br/>(penalty)</td>
+            <td>CR, §8-301(b), (c) (2)(i), (ii), (iii)<br/>CR, §8-301(g)(1)(iii)<br/>(penalty)</td>
             <td data-text-align="center">Felony</td>
             <td data-text-align="center">20Y</td>
             <td/>
@@ -5258,7 +5544,7 @@
             <td>206-2</td>
             <td><strong>Identity Fraud</strong><br/>Possess, obtain personally identifying information or willfully assume the identity of another, benefit at least $25,000 but less than $100,000</td>
             <td>1-1360<br/>1-1367<br/>1-1371</td>
-            <td>CR, §8-301(b), (c)<br/>CR, §8-301(g)(1)(ii)<br/>(penalty)</td>
+            <td>CR, §8-301(b), (c) (2)(i), (ii), (iii)<br/>CR, §8-301(g)(1)(ii)<br/>(penalty)</td>
             <td data-text-align="center">Felony</td>
             <td data-text-align="center">10Y</td>
             <td/>
@@ -5270,7 +5556,7 @@
             <td>206-3</td>
             <td><strong>Identity Fraud</strong><br/>Possess, obtain personally identifying information or willfully assume the identity of another, benefit at least $1,500 but less than $25,000</td>
             <td>1-1361<br/>1-1368<br/>1-1372</td>
-            <td>CR, §8-301(b), (c)<br/>CR, §8-301(g)(1)(i)<br/>(penalty)</td>
+            <td>CR, §8-301(b), (c) (2)(i), (ii), (iii)<br/>CR, §8-301(g)(1)(i)<br/>(penalty)</td>
             <td data-text-align="center">Felony</td>
             <td data-text-align="center">5Y</td>
             <td/>
@@ -5282,7 +5568,7 @@
             <td>206-4</td>
             <td><strong>Identity Fraud</strong><br/>Possess, obtain personally identifying information or willfully assume the identity of another, benefit at least $100 but less than $1,500</td>
             <td>1-1362<br/>1-1369<br/>1-1373</td>
-            <td>CR, §8-301(b), (c)<br/>CR, §8-301(g)(2)<br/>(penalty)</td>
+            <td>CR, §8-301(b), (c) (2)(i), (ii), (iii)<br/>CR, §8-301(g)(2)<br/>(penalty)</td>
             <td data-text-align="center">Misd.</td>
             <td data-text-align="center">1Y</td>
             <td/>
@@ -5354,7 +5640,7 @@
             <td>207-3</td>
             <td><strong>Identity Fraud</strong><br/>Falsely represent self as another person</td>
             <td>1-1364<br/>1-1384</td>
-            <td>CR, §8-301(c)(1), (f) <br/>CR, §8-301(g)(4)<br/>(penalty)</td>
+            <td>CR, §8-301(c)(1), (f)(1)<br/>CR, §8-301(g)(4)<br/>(penalty)</td>
             <td data-text-align="center">Misd.</td>
             <td data-text-align="center">1Y</td>
             <td/>
@@ -5364,18 +5650,18 @@
           </tr>
           <tr>
             <td>207-4</td>
-            <td><strong>Identity Fraud</strong><br/>Use an interactive computer service to disclose personal identifying information of an individual in order to annoy, threaten, embarrass, or harass</td>
+            <td><strong>Identity Fraud</strong><br/>Use an interactive computer service to disclose personal identifying information of an individual in order to annoy, threaten, embarrass, or harass; use personal identifying information of an individual in order to cause harm</td>
             <td>1-1363</td>
-            <td>CR, §8-301(b-1)<br/>CR, §8-301(g)(4)<br/>(penalty)</td>
+            <td>CR, §8-301(b-1), (b-2))<br/>CR, §8-301(g)(4)<br/>(penalty)</td>
             <td data-text-align="center">Misd.</td>
             <td data-text-align="center">1Y</td>
             <td/>
-            <td data-text-align="center">Property</td>
+            <td data-text-align="center">Person<br/>Property</td>
             <td data-text-align="center">VII</td>
             <td>$500</td>
           </tr>
           <tr>
-            <td>207-6</td>
+            <td>207-5</td>
             <td><strong>Identity Fraud </strong><br/>Possess, obtain, or help another obtain a re-encoder or skimming device for purpose of identity theft</td>
             <td>1-1383</td>
             <td>CR, §8-301(e) <br/>CR, §8-301(g)(4) <br/>(penalty)</td>
@@ -5385,6 +5671,58 @@
             <td data-text-align="center">Property</td>
             <td data-text-align="center">VII</td>
             <td>$500</td>
+          </tr>
+          <tr>
+            <td>207-6</td>
+            <td><strong>Identity Fraud</strong><br/>Falsely represent self as another person with intent to harm, harass, intimidate, threaten, or coerce</td>
+            <td>1-2275</td>
+            <td>
+              <p>CR, §8-301(c)(2)(iv)</p>
+              <p>CR, §8-301 (g)(4)</p>
+              <p>(penalty)</p>
+            </td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">1Y</td>
+            <td/>
+            <td data-text-align="center">Person</td>
+            <td data-text-align="center">VII</td>
+            <td>$500</td>
+          </tr>
+          <tr>
+            <td>207-7</td>
+            <td><strong>Identity Fraud </strong><br/>Use artificial intelligence or deepfake representation to cause harm to another by impersonating, falsely depicting, or claiming to represent another person, or to create or distribute false records to cause harm to another, etc., one victim</td>
+            <td>
+              <p>1-2276</p>
+              <p>1-2277</p>
+            </td>
+            <td>
+              <p>CR, §8-301(f)(2)</p>
+              <p>CR, §8-301 (g)(5)(i) (penalty)</p>
+            </td>
+            <td data-text-align="center">Felony</td>
+            <td data-text-align="center">5Y</td>
+            <td/>
+            <td data-text-align="center">Person<br/>Property</td>
+            <td data-text-align="center">VI</td>
+            <td>$10,000</td>
+          </tr>
+          <tr>
+            <td>207-8</td>
+            <td><strong>Identity Fraud</strong><br/>Use artificial intelligence or deepfake representation to cause harm to another by impersonating, falsely depicting, or claiming to represent another person, or to create or distribute false records to cause harm to another, etc., two or more victims</td>
+            <td>
+              <p>1-2237</p>
+              <p>1-2238</p>
+            </td>
+            <td>
+              <p>CR, §8-301(f)(2)</p>
+              <p>CR, §8-301 (g)(5)(ii) (penalty)</p>
+            </td>
+            <td data-text-align="center">Felony</td>
+            <td data-text-align="center">10Y</td>
+            <td/>
+            <td data-text-align="center">Person<br/>Property</td>
+            <td data-text-align="center">V</td>
+            <td>$15,000</td>
           </tr>
           <tr>
             <td>208</td>
@@ -7030,6 +7368,30 @@
             <td>$50,000</td>
           </tr>
           <tr>
+            <td>286-1</td>
+            <td data-vertical-align="middle"><strong>Obscene Matter</strong><br/>Child pornography, with 100 images or more</td>
+            <td>1-2278</td>
+            <td>CR, §11-208.2(b)</td>
+            <td data-text-align="center">Felony</td>
+            <td data-text-align="center">10Y</td>
+            <td/>
+            <td data-text-align="center">Person</td>
+            <td data-text-align="center">IV</td>
+            <td>286-1</td>
+          </tr>
+          <tr>
+            <td>286-2</td>
+            <td data-vertical-align="middle"><strong>Obscene Matter</strong><br/>Child pornography, with image depicting child under the age of 13 years</td>
+            <td>1-2279</td>
+            <td>CR, §11-208.2 (c)</td>
+            <td data-text-align="center">Felony</td>
+            <td data-text-align="center">10Y</td>
+            <td/>
+            <td data-text-align="center">Person</td>
+            <td data-text-align="center">IV</td>
+            <td>286-2</td>
+          </tr>
+          <tr>
             <td>287</td>
             <td><strong>Obscene Matter</strong><br/>Sending or bringing into State for sale or distribution, publishing, etc., <strong>subsequent</strong></td>
             <td>1-3705 <br/>1-0294 <br/>1-0295 <br/>1-0296</td>
@@ -7248,6 +7610,21 @@
             <td/>
           </tr>
           <tr>
+            <td>301-3</td>
+            <td><strong>Perjury</strong><br/>Perjury—knowingly make a false statement to obtain a marriage license</td>
+            <td>2-0875</td>
+            <td>
+              <p>FL, §2-407</p>
+              <p>CR, §9-101 (penalty)</p>
+            </td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">10Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">IV</td>
+            <td>301-3</td>
+          </tr>
+          <tr>
             <td>302</td>
             <td><strong>Perjury</strong><br/>Perjury</td>
             <td>1-0307 <br/>1-0308 <br/>1-0309 <br/>1-0310<br/>1-5003</td>
@@ -7270,6 +7647,51 @@
             <td data-text-align="center">Property</td>
             <td data-text-align="center">IV</td>
             <td/>
+          </tr>
+          <tr>
+            <td>303-1</td>
+            <td><strong>Pet Cremation and Burial Services</strong><br/>Violation of any provision of the Maryland Pet Cremation and Burial Services Consumer Protection Act, 1<sup>st</sup> offense</td>
+            <td/>
+            <td>
+              <p>BR, §5-7A-07(a)(1)</p>
+              <p>HO, §7-4B-06 (a)(1)</p>
+            </td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">1Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$5,000</td>
+          </tr>
+          <tr>
+            <td>303-2</td>
+            <td><strong>Pet Cremation and Burial Services</strong><br/>Violation of any provision of the Maryland Pet Cremation and Burial Services Consumer Protection Act, 2<sup>nd</sup> offense</td>
+            <td/>
+            <td>
+              <p>BR, §5-7A-07(a)(2)</p>
+              <p>HO, §7-4B-06(a)(2)</p>
+            </td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">2Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$10,000</td>
+          </tr>
+          <tr>
+            <td>303-3</td>
+            <td><strong>Pet Cremation and Burial Services</strong><br/>Violation of any provision of the Maryland Pet Cremation and Burial Services Consumer Protection Act, 3<sup>rd</sup> or subsequent offense</td>
+            <td/>
+            <td>
+              <p>BR, §5-7A-07(a)(3)</p>
+              <p>HO, §7-4B-06(a)(3)</p>
+            </td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">3Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VI</td>
+            <td>$15,000</td>
           </tr>
           <tr>
             <td>304</td>
@@ -7597,6 +8019,54 @@
             <td data-text-align="center">Property</td>
             <td data-text-align="center">VII</td>
             <td/>
+          </tr>
+          <tr>
+            <td>328-2</td>
+            <td><strong>Public Fraud</strong><br/>Government benefits exploitation, less than $1,500</td>
+            <td>1-2241<br/>1-2245<br/>1-2249</td>
+            <td>CR, §8-524(c)(1)</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">1Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$500</td>
+          </tr>
+          <tr>
+            <td>328-3</td>
+            <td><strong>Public Fraud</strong><br/>Government benefits exploitation, at least $1,500 but less than $25,000</td>
+            <td>1-2242<br/>1-2246<br/>1-2250</td>
+            <td>CR, §8-524(c)(2)</td>
+            <td data-text-align="center">Felony</td>
+            <td data-text-align="center">5Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VI</td>
+            <td>$10,000</td>
+          </tr>
+          <tr>
+            <td>328-4</td>
+            <td><strong>Public Fraud</strong><br/>Government benefits exploitation, at least $25,000 but less than $100,000</td>
+            <td>1-2243<br/>1-2247<br/>1-2251</td>
+            <td>CR, §8-524(c)(3)</td>
+            <td data-text-align="center">Felony</td>
+            <td data-text-align="center">10Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">V</td>
+            <td>$15,000</td>
+          </tr>
+          <tr>
+            <td>328-5</td>
+            <td><strong>Public Fraud</strong><br/>Government benefits exploitation, $100,000 or more</td>
+            <td>1-2244<br/>1-2248<br/>1-2252</td>
+            <td>CR, §8-524(c)(4)</td>
+            <td data-text-align="center">Felony</td>
+            <td data-text-align="center">20Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">III</td>
+            <td>$25,000</td>
           </tr>
           <tr>
             <td>329</td>
@@ -8222,13 +8692,7 @@
           <tr>
             <td>356-1</td>
             <td><strong>Sexual Crimes</strong><br/>Sex Offense, 3<sup>rd</sup> degree (a)(1) employ or display a dangerous weapon, etc.; (a)(2) with substantially cognitively impaired, mentally incapacitated, or physically helpless individual</td>
-            <td>
-              <p>1-1824</p>
-              <p>1-1825</p>
-              <p>1-1826</p>
-              <p>1-1827</p>
-              <p>1-1828</p>
-            </td>
+            <td>1-1824<br/>1-1825<br/>1-1826<br/>1-1827<br/>1-1828<br/>1-2280</td>
             <td>CR, §3-307(a)(1)<br/>CR, §3-307(a)(2)</td>
             <td data-text-align="center">Felony</td>
             <td data-text-align="center">10Y</td>
@@ -8291,8 +8755,8 @@
           </tr>
           <tr>
             <td>359-2</td>
-            <td><strong>Sexual Crimes</strong><br/>Sexual conduct by law enforcement officer with victim, witness, or suspect in an open investigation; with person requesting assistance from or responding to law enforcement officer; or with person in custody of law enforcement officer</td>
-            <td>1-1462</td>
+            <td><strong>Sexual Crimes</strong><br/>Sexual conduct by law enforcement officer with victim, witness, or suspect in an open investigation; with person requesting assistance from or responding to law enforcement officer; with person in custody of law enforcement officer; or with student enrolled in a school where law enforcement officer is school resource officer</td>
+            <td>1-0836<br/>1-1462</td>
             <td>CR, §3-314(e)</td>
             <td data-text-align="center">Misd.</td>
             <td data-text-align="center">3Y</td>
@@ -8415,8 +8879,8 @@
           <tr>
             <td>363</td>
             <td><strong>Sexual Crimes</strong><br/>Sex Offense, 4<sup>th</sup> degree</td>
-            <td>1-1623<br/>1-1624<br/>1-1625<br/>1-1626<br/>4-3600</td>
-            <td>CR, §3-308(d)(1)</td>
+            <td>1-1623<br/>1-1624<br/>4-3600</td>
+            <td>CR, §3-308(b)(1)</td>
             <td data-text-align="center">Misd.</td>
             <td data-text-align="center">1Y</td>
             <td/>
@@ -8438,15 +8902,62 @@
           </tr>
           <tr>
             <td>363-2</td>
-            <td><strong>Sexual Crimes</strong><br/>Sex Offense, 4<sup>th</sup> degree, <strong>subsequent</strong></td>
-            <td>1-1623<br/>1-1624<br/>1-1625<br/>1-1626<br/>4-3600</td>
-            <td>CR, §3-308(d)(2)</td>
+            <td><strong>Sexual Crimes</strong><br/>Sex Offense, 4<sup>th</sup> degree, by a person previously convicted of a certain sexual crime</td>
+            <td>1-1623<br/>1-1624<br/>4-3600</td>
+            <td>CR, §3-308(b)(2)</td>
             <td data-text-align="center">Misd.</td>
             <td data-text-align="center">3Y</td>
             <td/>
             <td data-text-align="center">Person</td>
             <td data-text-align="center">VI</td>
             <td>$1,000</td>
+          </tr>
+          <tr>
+            <td>363-3</td>
+            <td><strong>Sexual Crimes </strong><br/>Sex Offense, by a person in a position of authority</td>
+            <td>1-2255<br/>1-2256</td>
+            <td>
+              <p>CR, §3-308.1 (b)</p>
+              <p>CR, §3-308.1 (e)(1)</p>
+              <p>(penalty)</p>
+            </td>
+            <td data-text-align="center" class="text-indent-1">Misd.</td>
+            <td data-text-align="center">1Y</td>
+            <td/>
+            <td data-text-align="center">Person</td>
+            <td data-text-align="center">VII</td>
+            <td>$1,000</td>
+          </tr>
+          <tr>
+            <td>363-4</td>
+            <td><strong>Sexual Crimes </strong><br/>Sex Offense, by a person in a position of authority with victim younger than 13 years old</td>
+            <td>1-2257<br/>1-2258</td>
+            <td>
+              <p>CR, §3-308.1 (c)</p>
+              <p>CR, §3-308.1 (e)(2)</p>
+              <p>(penalty)</p>
+            </td>
+            <td data-text-align="center">Felony</td>
+            <td data-text-align="center">10Y</td>
+            <td/>
+            <td data-text-align="center">Person</td>
+            <td data-text-align="center">IV</td>
+            <td>$25,000</td>
+          </tr>
+          <tr>
+            <td>363-5</td>
+            <td><strong>Sexual Crimes</strong><br/>Sex Offense, by a person in a position of authority previously convicted of a certain sexual crime</td>
+            <td>1-2259<br/>1-2260<br/>1-2261<br/>1-2262</td>
+            <td>
+              <p>CR, §3-308.1 (d)</p>
+              <p>CR, §3-308.1 (e)(3) (penalty)</p>
+            </td>
+            <td data-text-align="center">Felony</td>
+            <td data-text-align="center">20Y</td>
+            <td/>
+            <td data-text-align="center">Person</td>
+            <td data-text-align="center">III</td>
+            <td>$50,000</td>
           </tr>
           <tr>
             <td>364</td>
@@ -8464,13 +8975,25 @@
             <td>364-1</td>
             <td><strong>Stalking and Harassment</strong><br/>Stalking</td>
             <td>1-6525</td>
-            <td>CR, §3-802</td>
+            <td>CR, §3-802(d)(1)</td>
             <td data-text-align="center">Misd.</td>
             <td data-text-align="center">5Y</td>
             <td/>
             <td data-text-align="center">Person</td>
             <td data-text-align="center">V</td>
             <td>$5,000</td>
+          </tr>
+          <tr>
+            <td>364-2</td>
+            <td><strong>Stalking and Harassment</strong><br/>Stalking someone while a protective or court order involving the victim is in effect against the defendant, or after a prior stalking conviction</td>
+            <td>1-2282<br/>1-2283<br/>1-2284<br/>1-2285</td>
+            <td>CR, §3-802 (d)(2)</td>
+            <td data-text-align="center">Felony</td>
+            <td data-text-align="center">10Y</td>
+            <td/>
+            <td data-text-align="center">Person</td>
+            <td data-text-align="center">IV</td>
+            <td>$10,000</td>
           </tr>
           <tr>
             <td>365</td>
@@ -8790,12 +9313,7 @@
           </tr>
           <tr>
             <td>376-3</td>
-            <td>
-              <p>
-                <strong>Telecommunications and Electronics, Crimes Involving</strong>
-              </p>
-              <p>Taking certain actions with the intent to interrupt or impair the functioning of a public safety answering point</p>
-            </td>
+            <td><strong>Telecommunications and Electronics, Crimes Involving</strong><br/>Intentionally taking certain actions with the intent to impair critical infrastructure or a public safety answering point</td>
             <td>1-2231</td>
             <td>CR, §7-302(d)(5)</td>
             <td data-text-align="center">Felony</td>
@@ -8804,6 +9322,18 @@
             <td data-text-align="center">Property</td>
             <td data-text-align="center">V</td>
             <td>$25,000</td>
+          </tr>
+          <tr>
+            <td>376-4</td>
+            <td><strong>Telecommunications and Electronics, Crimes Involving</strong><br/>Intentionally taking certain actions that deny access to an authorized user or impair critical infrastructure or a public safety answering point</td>
+            <td>1-2286</td>
+            <td>CR, §7-302 (d)(6)</td>
+            <td data-text-align="center">Felony</td>
+            <td data-text-align="center">10Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">IV</td>
+            <td>$50,000</td>
           </tr>
           <tr>
             <td>377</td>
@@ -9795,11 +10325,11 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gcp|6-211">Criminal Procedure Article, §6-211, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-07-01">Effective date: July 1, 2001 (28:8 Md. R. 763)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-07-01"><cite path="|14|22|02|.01">Regulation .01</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); October 23, 2006 (33:21 Md. R. 1678); November 1, 2009 (36:21 Md. R. 1593); December 1, 2014 (41:22 Md. R. 1319); November 1, 2013 (40:21 Md. R. 1780); November 1, 2016 (43:21 Md. R. 1169); November 4, 2019 (46:22 Md. R. 978); April 1, 2020 (47:6 Md. R. 342); July 1, 2020 (47:11 Md. R. 560)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-12-01"><cite path="|14|22|02|.01">Regulation .01</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); October 23, 2006 (33:21 Md. R. 1678); November 1, 2009 (36:21 Md. R. 1593); December 1, 2014 (41:22 Md. R. 1319); November 1, 2013 (40:21 Md. R. 1780); November 1, 2016 (43:21 Md. R. 1169); November 4, 2019 (46:22 Md. R. 978); April 1, 2020 (47:6 Md. R. 342); July 1, 2020 (47:11 Md. R. 560); December 1, 2026 (53:23 Md. R. 1168)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-11-01"><cite path="|14|22|02|.01|C.">Regulation .01C</cite>, P amended effective November 1, 2024 (51:21 Md. R. 927)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-11-02"><cite path="|14|22|02|.01|C.">Regulation .01C</cite>, S amended effective November 2, 2020 (47:22 Md. R. 936)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-11-15"><cite path="|14|22|02|.01|D.">Regulation .01D</cite>, F, H amended effective November 15, 2021 (48:23 Md. R. 982)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|14|22|02|.02">Regulation .02</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); July 7, 2003 (30:13 Md. R. 854); March 28, 2005 (32:6 Md. R. 636); November 24, 2005 (32:23 Md. R. 1828); February 27, 2006 (33:4 Md. R. 353); April 10, 2006 (33:7 Md. R. 674); August 14, 2006 (33:16 Md. R. 1365); October 23, 2006 (33:21 Md. R. 1678); February 1, 2007 (34:2 Md. R. 138); January 1, 2008 (34:24 Md. R. 2159); July 1, 2008 (35:13 Md. R 1181); December 1, 2008 (35:22 Md. R. 1958); April 1, 2009 (36:6 Md. R. 492); November 1, 2009 (36:21 Md. R. 1593); May 1, 2010 (37:7 Md. R. 575); November 1, 2010 (37:21 Md. R. 1437); June 1, 2011 (38:9 Md. R. 553); November 1, 2011 (38:22 Md. R. 1347); March 1, 2012 (39:3 Md. R. 259); November 1, 2012 (39:20 Md. R. 1307); April 1, 2013 (40:6 Md. R. 475); November 1, 2013 (40:21 Md. R. 1780); April 1, 2014 (41:6 Md. R. 380); December 1, 2014 (41:22 Md. R. 1319); June 1, 2015 (42:10 Md. R. 685); February 1, 2016 (43:1 Md. R. 14); November 1, 2016 (43:21 Md. R. 1169); October 1, 2017 (44:18 Md. R. 866); November 6, 2017 (44:22 Md. R. 1038); April 1, 2018 (45:5 Md. R. 288); July 1, 2018 (45:11 Md. R. 578); November 5, 2018 (45:22 Md. R. 1027); November 4, 2019 (46:22 Md. R. 978); April 1, 2020 (47:6 Md. R. 342); June 1, 2020 (47:11 Md. R. 560); July 1, 2020 (47:11 Md. R. 560); November 2, 2020 (47:22 Md. R. 936); November 15, 2021 (48:23 Md. R. 982); February 1, 2022 (49:1 Md. R. 13); October 1, 2022 (49:18 Md. R. 819); November 14, 2022 (49:23 Md. R. 997); April 1, 2023 (50:5 Md. R. 182); July 1, 2023 (50:12 Md. R.476);  November 13, 2023 (50:22 Md. R. 977); June 10, 2024 (51:11 Md. R. 580); November 1, 2024 (51:21 Md. R. 927); July 1, 2025 (52:10 Md. R. 438); October 27, 2025 (52:21 Md. R. 1025) ; January 01, 2026 (52:25 Md. R. 1269); July 6, 2026 (53:13 Md. R. 587)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-12-01"><cite path="|14|22|02|.02">Regulation .02</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); July 7, 2003 (30:13 Md. R. 854); March 28, 2005 (32:6 Md. R. 636); November 24, 2005 (32:23 Md. R. 1828); February 27, 2006 (33:4 Md. R. 353); April 10, 2006 (33:7 Md. R. 674); August 14, 2006 (33:16 Md. R. 1365); October 23, 2006 (33:21 Md. R. 1678); February 1, 2007 (34:2 Md. R. 138); January 1, 2008 (34:24 Md. R. 2159); July 1, 2008 (35:13 Md. R 1181); December 1, 2008 (35:22 Md. R. 1958); April 1, 2009 (36:6 Md. R. 492); November 1, 2009 (36:21 Md. R. 1593); May 1, 2010 (37:7 Md. R. 575); November 1, 2010 (37:21 Md. R. 1437); June 1, 2011 (38:9 Md. R. 553); November 1, 2011 (38:22 Md. R. 1347); March 1, 2012 (39:3 Md. R. 259); November 1, 2012 (39:20 Md. R. 1307); April 1, 2013 (40:6 Md. R. 475); November 1, 2013 (40:21 Md. R. 1780); April 1, 2014 (41:6 Md. R. 380); December 1, 2014 (41:22 Md. R. 1319); June 1, 2015 (42:10 Md. R. 685); February 1, 2016 (43:1 Md. R. 14); November 1, 2016 (43:21 Md. R. 1169); October 1, 2017 (44:18 Md. R. 866); November 6, 2017 (44:22 Md. R. 1038); April 1, 2018 (45:5 Md. R. 288); July 1, 2018 (45:11 Md. R. 578); November 5, 2018 (45:22 Md. R. 1027); November 4, 2019 (46:22 Md. R. 978); April 1, 2020 (47:6 Md. R. 342); June 1, 2020 (47:11 Md. R. 560); July 1, 2020 (47:11 Md. R. 560); November 2, 2020 (47:22 Md. R. 936); November 15, 2021 (48:23 Md. R. 982); February 1, 2022 (49:1 Md. R. 13); October 1, 2022 (49:18 Md. R. 819); November 14, 2022 (49:23 Md. R. 997); April 1, 2023 (50:5 Md. R. 182); July 1, 2023 (50:12 Md. R.476);  November 13, 2023 (50:22 Md. R. 977); June 10, 2024 (51:11 Md. R. 580); November 1, 2024 (51:21 Md. R. 927); July 1, 2025 (52:10 Md. R. 438); October 27, 2025 (52:21 Md. R. 1025) ; January 01, 2026 (52:25 Md. R. 1269); July 6, 2026 (53:13 Md. R. 587); December 1, 2026 (53:23 Md. R. 1168)</annotation>
     <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-171-F" target-path="14|22|02|annos" type="History" display="false"/>
     <annotation app="2026-01-01" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-220-F" target-path="14|22|02|annos" type="History" display="false"/>
   </annotations>
