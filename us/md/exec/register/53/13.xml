@@ -1336,7 +1336,7 @@
           </annotations>
         </codify:replace-or-insert>
       </container>
-      <container codify:applicability="2026-06-04" codify:expire="2026-12-01">
+      <container codify:applicability="2026-06-04" codify:expire="2027-05-30">
         <num>26-069-E</num>
         <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="26|04|02|.01" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="26|04|02|.01">
           <section>
@@ -2275,8 +2275,9 @@
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-13"><cite path="|26|04|02|.09|B." doc="Code of Maryland Regulations">Regulation .09B</cite> amended effective February 13, 2017 (44:3 Md. R. 190)</annotation>
           </annotations>
         </codify:replace-or-insert>
+        <annotation app="2026-11-25" doc="Editor Action 2026-11-25" eff="2026-11-25" path="" target-path="regulations|emergency|26-069-E" type="History" display="false"/>
       </container>
-      <container codify:applicability="2026-05-24" codify:expire="2026-11-28">
+      <container codify:applicability="2026-05-24" codify:expire="2027-05-27">
         <num>25-138-E-I</num>
         <codify:repeal history="false" doc="Code of Maryland Regulations" path="26|04|12" codified:doc="Code of Maryland Regulations" codified:path="26|04|12"/>
         <codify:replace-or-insert history="none" path="26|04|12|annos" codified:replace-or-insert-action="insert">
@@ -2697,6 +2698,7 @@
             </annotations>
           </container>
         </codify:replace-or-insert>
+        <annotation app="2026-11-25" doc="Editor Action 2026-11-25" eff="2026-11-25" path="" target-path="regulations|emergency|25-138-E-I" type="History" display="false"/>
       </container>
     </container>
     <container name="final">

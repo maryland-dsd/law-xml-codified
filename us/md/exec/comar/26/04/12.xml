@@ -5,7 +5,8 @@
   <heading>On-Site Wastewater Property Transfer Inspection License</heading>
   <reason>Repealed</reason>
   <text>Repealed.</text>
-  <annotation app="2026-05-24" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-138-E-I" target-path="26|04|12" type="History" display="false" exp="2026-11-28"/>
+  <annotation app="2026-11-25" doc="Editor Action 2026-11-25" eff="2026-11-25" path="" target-path="regulations|emergency|25-138-E-I" type="History" display="false"/>
+  <annotation app="2026-05-24" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-138-E-I" target-path="26|04|12" type="History" display="false" exp="2027-05-27"/>
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gen|9-217">Environment Article, §9-217</cite>.2, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>

@@ -5,7 +5,7 @@
   <heading>Sewage Disposal and Certain Water Systems for Homes and Other Establishments in the Counties of Maryland Where a Public Sewage System Is Not Available</heading>
   <section>
     <prefix>Regulation</prefix>
-    <num>.01</num>
+    <num emergency="true">.01</num>
     <heading>Definitions.</heading>
     <para>
       <num>A.</num>
@@ -269,16 +269,19 @@
       <para>
         <num>(53)</num>
         <text>“Well” means any hole that extends more than 20’ below the ground surface to explore for ground water, to obtain or monitor ground water, or to inject water into any underground formation from which ground water may be produced or to transfer heat to or from the ground or groundwater.</text>
+        <text class="center">53:3  26-069-E (Regulation .02) EMERGENCY ACTION IN EFFECT 6/4/2026 — 5/30/27</text>
       </para>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:3  26-069-E (Regulation .01) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
-      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.01" type="History" display="false" exp="2026-12-01"/>
+      <annotation managed="false" type="Emergency Action">53:3  26-069-E (Regulation .01) EMERGENCY ACTION IN EFFECT 6/4/2026 — 5/30/2027</annotation>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.01" type="History" display="false" exp="2027-05-30"/>
+      <annotation app="2026-11-25" doc="Editor Action 2026-11-25" eff="2026-11-25" path="" target-path="regulations|emergency|26-069-E" type="History" display="false"/>
+      <annotation app="2026-11-25" doc="Editor Action 2026-11-25" eff="2026-11-25" path="" target-path="26|04|02|.01" type="History" display="false"/>
     </annotations>
   </section>
-  <section cache:ref-path="26|04|02|.02">
+  <section emergency="true" cache:ref-path="26|04|02|.02">
     <prefix>Regulation</prefix>
-    <num emergency="true">.02</num>
+    <num>.02</num>
     <heading>General Provisions.</heading>
     <para>
       <num>A.</num>
@@ -485,9 +488,10 @@
       <text>A local jurisdiction may establish a responsible management entity to manage, operate and maintain an on-site sewage disposal system.</text>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:3  26-069-E (Regulation .02) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
-      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.02" type="History" display="false" exp="2026-12-01"/>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.02" type="History" display="false" exp="2027-05-30"/>
       <annotation app="2026-08-27" doc="Editor Action 2026-08-27" eff="2026-08-27" path="" target-path="26|04|02|.02" type="History" display="false"/>
+      <annotation app="2026-11-25" doc="Editor Action 2026-11-25" eff="2026-11-25" path="" target-path="regulations|emergency|26-069-E" type="History" display="false"/>
+      <annotation app="2026-11-25" doc="Editor Action 2026-11-25" eff="2026-11-25" path="" target-path="26|04|02|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -821,7 +825,9 @@
       <text>The Approving Authority may consider an application for a variance from the requirements listed in <cite path="26|04|02|.04|K.">§K of this regulation</cite> in order to cluster lots as provided under local law. However, the number of clustered lots under two acres may not exceed the number of lots that would have been approvable under <cite path="26|04|02|.04|K.">§K of this regulation</cite>. A variance may not be granted that allows the transfer of density units or development rights to a subdivision located within 2,500 feet of a water supply reservoir.</text>
     </para>
     <annotations>
-      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.04" type="History" display="false" exp="2026-12-01"/>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.04" type="History" display="false" exp="2027-05-30"/>
+      <annotation app="2026-11-25" doc="Editor Action 2026-11-25" eff="2026-11-25" path="" target-path="regulations|emergency|26-069-E" type="History" display="false"/>
+      <annotation app="2026-11-25" doc="Editor Action 2026-11-25" eff="2026-11-25" path="" target-path="26|04|02|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|04|02|.05">
@@ -1745,7 +1751,7 @@
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.08</num>
+    <num emergency="true">.08</num>
     <heading>Special Methods of Sewage Collection and Disposal.</heading>
     <para>
       <num>A.</num>
@@ -1832,13 +1838,15 @@
       <text>The owner, operator, or licensee of a privy or a portable unit that contains septage shall ensure that the contents are removed and disposed of in accordance with <cite path="|26|04|02|.09">Regulation .09 of this chapter</cite>.</text>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:3  26-069-E  (Regulation .08) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
-      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.08" type="History" display="false" exp="2026-12-01"/>
+      <annotation managed="false" type="Emergency Action">53:3  26-069-E  (Regulation .08) EMERGENCY ACTION IN EFFECT 6/4/2026 — 5/30/2027</annotation>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.08" type="History" display="false" exp="2027-05-30"/>
+      <annotation app="2026-11-25" doc="Editor Action 2026-11-25" eff="2026-11-25" path="" target-path="regulations|emergency|26-069-E" type="History" display="false"/>
+      <annotation app="2026-11-25" doc="Editor Action 2026-11-25" eff="2026-11-25" path="" target-path="26|04|02|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.09</num>
+    <num emergency="true">.09</num>
     <heading>Septage.</heading>
     <para>
       <num>A.</num>
@@ -1885,8 +1893,10 @@
       </para>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:3  26-069-E (Regulation .09) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
-      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.09" type="History" display="false" exp="2026-12-01"/>
+      <annotation managed="false" type="Emergency Action">53:3  26-069-E (Regulation .09) EMERGENCY ACTION IN EFFECT 6/4/2026 — 5/30/2027</annotation>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.09" type="History" display="false" exp="2027-05-30"/>
+      <annotation app="2026-11-25" doc="Editor Action 2026-11-25" eff="2026-11-25" path="" target-path="regulations|emergency|26-069-E" type="History" display="false"/>
+      <annotation app="2026-11-25" doc="Editor Action 2026-11-25" eff="2026-11-25" path="" target-path="26|04|02|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section>
